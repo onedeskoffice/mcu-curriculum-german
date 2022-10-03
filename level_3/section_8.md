@@ -1,47 +1,47 @@
-## Traps: Design and Execution
+## Fallen: Entwurf und Ausführung
 
-There are a few key features that every good trap must have. They must avoid suspicion and lure in victims with chests or rare items. They should have an entertaining or unique mechanism, since in the end all Minecraft traps are purely for entertainment. A trap has three main parts: the trap mechanism, the trigger, and the bait.
+Es gibt ein paar wichtige Merkmale, die jede gute Falle haben muss. Sie müssen keinen Verdacht erregen und die Opfer mit Truhen oder seltenen Gegenständen anlocken. Sie sollten einen unterhaltsamen oder einzigartigen Mechanismus haben, denn schließlich dienen alle Minecraft-Fallen nur der Unterhaltung. Eine Falle hat drei Hauptbestandteile: den Fallenmechanismus, den Auslöser und den Köder.
 
-1. The first thing to consider when making a trap is the trap mechanism itself. How will you ensnare the player who has been snooping around your house? Obsidian can make for very strong traps as it requires diamond (and lots of time) to break; if the trapped player doesn't have a way to break obsidian, they're basically stuck! Water and lava traps can slow and even kill a player, but are significantly harder to conceal. For our trap we will be using stone and water. Stone is easier to obtain than obsidian but is still somewhat difficult to break, especially when the player is under the water we will be dropping on their head!
+1. Der erste Punkt, den man beim Bau einer Falle berücksichtigen sollte, ist der Fallenmechanismus selbst. Wie wollen Sie den Spieler, der in Ihrem Haus herumgeschnüffelt hat, in die Falle locken? Obsidian kann sehr starke Fallen darstellen, da es Diamant (und viel Zeit) erfordert, um ihn zu brechen; wenn der gefangene Spieler keine Möglichkeit hat, Obsidian zu brechen, sitzt er im Grunde fest! Wasser- und Lavafallen können einen Spieler verlangsamen und sogar töten, sind aber wesentlich schwieriger zu verstecken. Für unsere Falle werden wir Stein und Wasser verwenden. Stein ist leichter zu beschaffen als Obsidian, aber immer noch schwer zu brechen, vor allem, wenn sich der Spieler unter dem Wasser befindet, das wir ihm auf den Kopf fallen lassen werden!
 
-1. Triggers can take many forms. Tripwires and pressure plates are the most obvious, and you can place them in various ways to avoid detection (for example, only putting wood pressure plates on wood of matching color). However, buttons and levers can also be used. You can make it appear as if a button opens a specific door, when in reality it activates the trap. Levers can be used for dual purposes. For example, you may have 3 levers that act as a combination lock for a door. One combination will open the door, while incorrect combinations will trigger a trap for the trespasser. Our trap will use a trap chest as the trigger.
+1. Auslöser können viele Formen annehmen. Am offensichtlichsten sind Stolperdrähte und Druckplatten, die man auf verschiedene Weise platzieren kann, um eine Entdeckung zu vermeiden (z. B. indem man Druckplatten aus Holz nur auf Holz der gleichen Farbe legt). Aber auch Knöpfe und Hebel können verwendet werden. Sie können den Anschein erwecken, dass ein Knopf eine bestimmte Tür öffnet, während er in Wirklichkeit die Falle aktiviert. Hebel können für zwei Zwecke verwendet werden. Sie können zum Beispiel 3 Hebel haben, die als Kombinationsschloss für eine Tür dienen. Eine Kombination öffnet die Tür, während eine falsche Kombination eine Falle für den Eindringling auslöst. Unsere Falle wird eine Fallenkiste als Auslöser verwenden.
 
-1. A trap chest filled with valuables is serving as the bait for this trap. However, interesting rooms, rare blocks, and even mine entrances can be used as the bait. As long as the object has something that a player would desire, it can serve as bait for a trap. Protective traps don't really have true "bait" as the trap is not supposed to be luring players in; rather, the item they are protecting is the bait in some sense. Our bait is the valuable items we will be placing inside of our trap chest.
+1. Eine mit Wertgegenständen gefüllte Fallentruhe dient als Köder für diese Falle. Aber auch interessante Räume, seltene Blöcke und sogar Mineneingänge können als Köder verwendet werden. Solange das Objekt etwas hat, das ein Spieler begehren würde, kann es als Köder für eine Falle dienen. Schutzfallen haben keinen wirklichen "Köder", da die Falle die Spieler nicht anlocken soll; vielmehr ist der Gegenstand, den sie schützen, in gewisser Weise der Köder. Unser Köder sind die wertvollen Gegenstände, die wir in unsere Fallenkiste legen werden.
 
-Now that you've learned about the basics of traps, we're going to build an example trap using a trap chest, water, and pistons.
+Nachdem ihr nun die Grundlagen der Fallen kennengelernt habt, werden wir nun eine Beispielfalle mit einer Fallentruhe, Wasser und Kolben bauen.
 
-## Trap Chests
+## Fallenkästen
 
-Trap chests emit a redstone signal whose power is based on the number of people who are opening the chest. We can use this redstone signal to spring a trap designed for people opening the chest. It will open a flow of water when they open the chest, and it will not stop until a reset button has been pressed.
+Fallentruhen senden ein Rotsteinsignal aus, dessen Stärke von der Anzahl der Personen abhängt, die die Truhe öffnen. Wir können dieses Signal nutzen, um eine Falle auszulösen, die für die Personen gedacht ist, die die Truhe öffnen. Beim Öffnen der Truhe wird ein Wasserfluss ausgelöst, der erst durch das Drücken einer Reset-Taste gestoppt wird.
 
-1. Place a trap chest somewhere. They're made out of a regular chest and a tripwire. Dig a whole behind the chest and place one patch of redstone dust.
+1. Platziere irgendwo eine Fallentruhe. Sie bestehen aus einer normalen Truhe und einem Stolperdraht. Grabe ein Loch hinter der Truhe und platziere ein Stück roten Steinstaub.
 ![](images/appendices/appendix_4/trap_chest_placement.png)
 
-1. Dig a second hole and place a redstone repeater. Since the redstone power is proportional to the number of people opening the chest, this trap will trigger if just one person opens the chest.
+1. Grabe ein zweites Loch und platziere einen Rotstein-Verstärker. Da die Kraft der roten Steine proportional zur Anzahl der Personen ist, die die Truhe öffnen, wird diese Falle ausgelöst, wenn nur eine Person die Truhe öffnet.
 ![](images/appendices/appendix_4/trap_chest_repeater.png)
 
-1. The wiring that will make the water gate open when the chest is opened. It's a bit tricky but further down there are additional pictures for you to follow.
+1. Die Verkabelung, die dafür sorgt, dass sich das Wassertor öffnet, wenn die Truhe geöffnet wird. Es ist ein bisschen knifflig, aber weiter unten gibt es zusätzliche Bilder, denen ihr folgen könnt.
 ![](images/appendices/appendix_4/trap_chest_wiring.png)
 ![](images/appendices/appendix_4/trap_chest_wiring2.png)
-![](images/appendices/appendix_4/trap_chest_wiring3.png)
+![](images/anhänge/anhang_4/trap_chest_wiring3.png)
 
-1. This is the "one-way gate" that prevents the water from turning off even when the trap is closed. When the button on the left is pressed, the first torch is turned off and the second one turns on (since the first one is no longer disabling it). Now the second torch is disabling the first torch as its redstone leads into the block of the first one. Toggling the button (or chest in our case) will not alter the state of the switch.
+1. Dies ist das "Einbahntor", das verhindert, dass das Wasser abgestellt wird, auch wenn die Falle geschlossen ist. Wenn der Knopf auf der linken Seite gedrückt wird, wird die erste Fackel ausgeschaltet und die zweite Fackel eingeschaltet (da die erste Fackel sie nicht mehr sperrt). Jetzt deaktiviert die zweite Fackel die erste Fackel, da ihr roter Stein in den Block der ersten Fackel führt. Das Umschalten des Schalters (oder der Truhe in unserem Fall) ändert den Zustand des Schalters nicht.
 ![](images/appendices/appendix_4/trap_chest_flipflopexample.png)
 
-Try to think of some other ideas for traps that could be fun or useful. Experiment and share ideas with each other.
+Versucht, euch andere Ideen für Fallen auszudenken, die lustig oder nützlich sein könnten. Experimentiert und tauscht eure Ideen untereinander aus.
 
-## Light Switches
+*# Lichtschalter
 
-Using XOR gates, you can create a light that you can control with multiple switches. You might have lights that work this way in your actual home! Any light that has multiple switches to control it use a XOR gate. The most common use of these is lights in stairwells.
+Mit Hilfe von XOR-Gattern könnt ihr ein Licht erzeugen, das ihr mit mehreren Schaltern steuern könnt. Vielleicht gibt es in eurem Haus auch Lampen, die auf diese Weise funktionieren! Jedes Licht, das mit mehreren Schaltern gesteuert werden kann, verwendet ein XOR-Gatter. Am häufigsten werden sie für die Beleuchtung von Treppenhäusern verwendet.
 
-1. Build a wall and hang a redstone lamp on it. Put a lever on each end of the wall. The idea is that the levers can be as far away as you want, but this is a simple demonstration.
+1. Baue eine Wand und hänge eine Redstone-Lampe daran. Bringe an jedem Ende der Wand einen Hebel an. Die Idee ist, dass die Hebel so weit entfernt sein können, wie du willst, aber dies ist eine einfache Demonstration.
 ![](images/section_4/xor_light_1.png)
 
-2. Create a XOR gate behind the wall, pointing the output towards the wall. Use the Section 3 reference picture if you need to. Remember that you don't need to place the levers, since the redstone signal is coming from the levers you placed on the front of the wall. Connect those to the XOR gate using redstone.
+2. Erstelle ein XOR-Gatter hinter der Wand, wobei der Ausgang in Richtung der Wand zeigt. Verwenden Sie das Referenzbild aus Abschnitt 3, wenn Sie es brauchen. Denken Sie daran, dass Sie die Hebel nicht zu platzieren brauchen, da das Redstone-Signal von den Hebeln kommt, die Sie auf der Vorderseite der Wand platziert haben. Verbinden Sie diese mit dem XOR-Gatter mit Redstone.
 ![](images/section_4/xor_light_2.png)
 
-3. Lead the redstone signal coming from the output of the XOR gate to the lamp through the back of the wall, as shown.
+3. Führe das Redstone-Signal, das vom Ausgang des XOR-Gatters kommt, durch die Rückseite der Wand zur Lampe, wie gezeigt.
 ![](images/section_4/xor_light_3.png)
 
-4. You're done! Flip one of the levers, and your lamp will turn on. Feel free to flip them as much as you want. The lamp will always be affected, no matter which way you flip either lever.
+4. Das war's! Wenn du einen der Hebel umlegst, geht deine Lampe an. Du kannst sie so oft umlegen, wie du willst. Die Lampe leuchtet immer, egal in welche Richtung du einen der Hebel umlegst.
 ![](images/section_4/xor_light_4.png)

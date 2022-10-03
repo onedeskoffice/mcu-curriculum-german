@@ -1,16 +1,16 @@
-# OR Gate Doors
+# OR-Tor-Türen
 
-You can open doors using levers and redstone, and using an OR gate, you can open them from both sides.
+Du kannst Türen mit Hebeln und roten Steinen öffnen, und wenn du ein ODER-Tor benutzt, kannst du sie von beiden Seiten öffnen.
 
-Build a wall with a door in it. Place a lever on both sides of the door. Make sure the levers are at least one block away.
+Baue eine Wand mit einer Tür darin. Platziere einen Hebel auf beiden Seiten der Tür. Achte darauf, dass die Hebel mindestens einen Block entfernt sind.
 
 ![](images/section_3/or_door_1.png)
 
-Create an OR gate around the edge of the wall, connecting the levers with redstone, and connecting the redstone current to the door underground.
+Erstelle ein ODER-Tor um den Rand der Mauer, verbinde die Hebel mit rotem Stein und verbinde den roten Steinstrom mit der Tür im Untergrund.
 
 ![](images/section_3/or_door_2.png)
 
-Now that you have it built, you should be able to see that when either lever is pulled, the door opens. Compare this to the OR gate truth tables that you learned about in Section 3. Remember that when the lever is down, it equals 1, and when it is up, it equals 0.
+Jetzt, wo du es gebaut hast, solltest du sehen können, dass sich die Tür öffnet, wenn einer der beiden Hebel gezogen wird. Vergleichen Sie dies mit den Wahrheitstabellen der ODER-Gatter, die Sie in Abschnitt 3 kennen gelernt haben. Erinnere dich daran, dass der Hebel, wenn er nach unten gezogen wird, den Wert 1 hat, und wenn er nach oben gezogen wird, den Wert 0 hat.
 
 ![](images/section_3/or_door_3.png)
 

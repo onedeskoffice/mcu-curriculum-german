@@ -1,57 +1,57 @@
-## Firework Launchers
+## Feuerwerk-Abschussvorrichtungen
 
-Creating firework launchers is not only a fun way to use redstone circuits, but also needed to make a great fireworks show! We launch fireworks using dispensers (pointed up) and pulsating a redstone signal.
+Die Herstellung von Feuerwerkskörpern ist nicht nur eine lustige Art, Redstone-Schaltkreise zu verwenden, sondern auch notwendig, um ein großes Feuerwerk zu veranstalten! Wir starten Feuerwerkskörper mit Hilfe von Dispensern (nach oben gerichtet) und einem pulsierenden Redstone-Signal.
 
 ![](images/appendices/appendix_5/a5_dispenser.png)
 
-To craft our fireworks, we need two components. A fireworks star and fireworks rocket. The fireworks star is used to customize our explosion properties. Making a fireworks star requires one gunpowder item and at least one dye. The remaining slots in the crafting table can be used to create multicolored fireworks by using multiple dyes or fireworks with special effects by using items such as diamonds and feathers.
+Um unser Feuerwerk zu basteln, brauchen wir zwei Komponenten. Einen Feuerwerksstern und eine Feuerwerksrakete. Der Feuerwerksstern wird verwendet, um die Eigenschaften der Explosion anzupassen. Zur Herstellung eines Feuerwerkssterns werden ein Schießpulver und mindestens ein Farbstoff benötigt. Die verbleibenden Plätze in der Basteltabelle können verwendet werden, um mehrfarbige Feuerwerkskörper mit mehreren Farbstoffen oder Feuerwerkskörper mit Spezialeffekten mit Gegenständen wie Diamanten und Federn herzustellen.
 
 ![](images/appendices/appendix_5/a5_crafting_fireworks_star.png)
 
-Next we create the fireworks rocket by using at least one gunpowder, paper, and fireworks star. You can add up to three gunpowder items to increase the flight duration. You can even put additional fireworks stars in the same rocket.
+Als Nächstes basteln wir die Feuerwerksrakete, indem wir mindestens ein Schießpulver, Papier und einen Feuerwerksstern verwenden. Du kannst bis zu drei Schießpulverartikel hinzufügen, um die Flugdauer zu verlängern. Du kannst sogar zusätzliche Feuerwerkssterne in dieselbe Rakete stecken.
 
-![](images/appendices/appendix_5/a5_crafting_fireworks_rocket.png)
+![](images/appendices/appendix_5/a5_basteln_feuerwerk_rakete.png)
 
-That is the basics on how to craft fireworks. Here is how our example firework looks.
+Das sind die Grundlagen für die Herstellung von Feuerwerkskörpern. So sieht unser Beispielfeuerwerk aus.
 
-![](images/appendices/appendix_5/a5_testing_crafted_firework.png)
+![](images/anhänge/anhang_5/a5_testing_crafted_firework.png)
 
-Protip: Make it nighttime with the command `/time set 16000` for better firework viewing.
+Tipp: Um das Feuerwerk besser sehen zu können, sollte man die Nacht mit dem Befehl `/time set 16000` einstellen.
 
 ## Launcher Arrays
 
-Now lets go ahead and create our fireworks show. We will start by building a simple fireworks launcher array.
+Nun können wir mit der Erstellung unseres Feuerwerks fortfahren. Wir beginnen mit der Erstellung eines einfachen Feuerwerk-Arrays.
 
-1. Lets start by placing three dispensers on the ground with two redstone dusts placed behind the dispensers. The dispensers are each two blocks apart with the middle one additionally placed two blocks behind the front two.
-![](images/appendices/appendix_5/a5_launcher_array1_building1.png)
+1. Wir beginnen damit, dass wir drei Dispenser auf dem Boden platzieren und zwei Redstone Dusts hinter den Dispensern platzieren. Die Dispenser sind jeweils zwei Blöcke voneinander entfernt, wobei der mittlere Dispenser zusätzlich zwei Blöcke hinter den beiden vorderen platziert wird.
+![](images/anhänge/anhang_5/a5_launcher_array1_building1.png)
 
-2. Place a redstone repeater in front the the middle dispenser and another repeater off one block to the side as shown in the image below. Set the repeaters to two ticks each. Then you can hook up the redstone wiring in a line to connect them.
+2. Platzieren Sie einen roten Steinwiederholer vor dem mittleren Spender und einen weiteren Wiederholer einen Block weiter seitlich, wie im Bild unten gezeigt. Stellen Sie die Repeater auf jeweils zwei Ticks ein. Dann können Sie die Redstone-Verkabelung in einer Linie anschließen, um sie zu verbinden.
 ![](images/appendices/appendix_5/a5_launcher_array1_building2.png)
 
-3. Now you can place the third repeater again set to two ticks and connect the redstone dust as shown below.
-![](images/appendices/appendix_5/a5_launcher_array1_building3.png)
+3. Nun kannst du den dritten Repeater wieder auf zwei Ticks einstellen und den roten Steinstaub wie unten gezeigt verbinden.
+![](images/anhaenge/anhang_5/a5_launcher_array1_building3.png)
 
-4. Finish connecting the Redstone to the repeater placed in step 2 and add a lever behind the middle dispenser.
-![](images/appendices/appendix_5/a5_launcher_array1_completed.png)
+4. Schließe den Redstone an den in Schritt 2 platzierten Repeater an und füge einen Hebel hinter dem mittleren Spender hinzu.
+![](images/anhaenge/anhang_5/a5_launcher_array1_completed.png)
 
-You're done! Start the launcher array clock by quickly flipping the lever on and off.
+Das war's! Starten Sie die Uhr des Launcher-Arrays, indem Sie den Hebel schnell ein- und ausklappen.
 
 ![](images/appendices/appendix_5/fireworks.png)
 
-Feel free to add more launchers or try more complex designs. Here is another similar design using five dispensers.
+Du kannst gerne weitere Abschussvorrichtungen hinzufügen oder komplexere Designs ausprobieren. Hier ist ein weiterer ähnlicher Entwurf mit fünf Abschussvorrichtungen.
 
 ![](images/appendices/appendix_5/a5_launcher_array2.png)
 
-## Periodic and Randomly Timed Launchers
+## Periodische und zufällig getaktete Abschussgeräte
 
-You can use the redstone clocks from section 2 with the logic gates from section 3 to make special firework launchers. The AND gate launcher can create a regular periodic launching sequence. You can customize the pulsing delays by changing the repeater timings. Some patterns you can get include 4 redstone pulses in 3 seconds with a 2 second break or 8 pulses in 3 seconds with an 8 second break.
+Du kannst die Redstone-Uhren aus Abschnitt 2 mit den Logikgattern aus Abschnitt 3 verwenden, um spezielle Feuerwerkskörper zu bauen. Der AND-Gatter-Starter kann eine regelmäßige, periodische Abschusssequenz erzeugen. Sie können die pulsierenden Verzögerungen anpassen, indem Sie die Zeitpunkte der Wiederholer ändern. So kann man z. B. 4 Redstone-Impulse in 3 Sekunden mit einer Pause von 2 Sekunden oder 8 Impulse in 3 Sekunden mit einer Pause von 8 Sekunden erzeugen.
 
 ![](images/appendices/appendix_5/a5_AND_gate_launcher.png)
 
-The XOR gate launcher can create a irregular launching sequence. You can once again change the repeater timings to change the apparent random behavior.
+Der XOR-Gatter-Starter kann eine unregelmäßige Startsequenz erzeugen. Auch hier können Sie die Wiederholungszeiten ändern, um das scheinbar zufällige Verhalten zu ändern.
 
 ![](images/appendices/appendix_5/a5_XOR_gate_launcher_front.png)
 
 ![](images/appendices/appendix_5/a5_XOR_gate_launcher_rear.png)
 
-Try experimenting on your own to find the patterns you like. Combining the launcher array with the AND gate & XOR gate launchers makes a great fireworks show!
+Versuchen Sie selbst zu experimentieren, um die Muster zu finden, die Ihnen gefallen. Kombiniert man die Abschussvorrichtung mit den AND-Gatter- und XOR-Gatter-Abschussvorrichtungen, erhält man ein tolles Feuerwerk!

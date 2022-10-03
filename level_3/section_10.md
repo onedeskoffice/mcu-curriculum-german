@@ -1,143 +1,143 @@
-# Command Blocks
+# Kommando-Blöcke
 
-> A command block is a redstone component that can execute commands when activated. It cannot be obtained legitimately in survival mode, and is primarily used on multiplayer servers and in custom maps.
+> Ein Befehlsblock ist eine Redstone-Komponente, die bei Aktivierung Befehle ausführen kann. Er kann im Survival-Modus nicht legal erworben werden und wird hauptsächlich auf Multiplayer-Servern und in benutzerdefinierten Karten verwendet.
 
-## Practicing the basic commands available to command blocks
+## Üben Sie die grundlegenden Befehle, die für Befehlsblöcke verfügbar sind.
 
-Create a new creative world.
+Erstellen Sie eine neue kreative Welt.
 
-To obtain a command block type the command `/give <playername> command_block`.
+Um einen Befehlsblock zu erhalten, gib den Befehl "/Gebe <Spielername> Befehlsblock" ein.
 
-Place the command block and right-click it. Now enter the `/give` command into the command block. This will give the nearest player an iron pickaxe, for example:
+Platziere den Befehlsblock und klicke ihn mit der rechten Maustaste an. Gib nun den Befehl `/give` in den Befehlsblock ein. Dies gibt dem nächsten Spieler eine Eisenspitzhacke, zum Beispiel:
 
 `/give @p iron_pickaxe`
 
-Click "done" and then put a button on the command block by holding the button and shift clicking on the command block. (A command block executes commands when activated by redstone power.) Then activate the command block by right-clicking the button. You'll receive an iron pickaxe.
+Klicken Sie auf "Fertig" und setzen Sie dann eine Schaltfläche auf den Befehlsblock, indem Sie die Schaltfläche gedrückt halten und mit der Umschalttaste auf den Befehlsblock klicken. (Ein Befehlsblock führt Befehle aus, wenn er durch Redstone-Power aktiviert wird.) Aktiviere dann den Befehlsblock, indem du mit der rechten Maustaste auf die Schaltfläche klickst. Du erhältst eine eiserne Spitzhacke.
 
-## Command block reference
+## Befehlsblock-Referenz
 
-Some of the other more useful commands for use in command blocks are:
+Einige der anderen nützlichen Befehle für die Verwendung in Befehlsblöcken sind:
 
-* `say`, `tell`, `msg` and `w` (whisper) to communicate messages to a player(s).
-  `tell <player> <message>`
-* `clear <player> [item] [data] [maxCount] [dataTag]` clears a players inventory, or just the items specified in the arguments
-* `effect <player> <effect> [seconds] [amplifier] [hideParticles]` gives the targeted player or entity the specified effect for the specified time (default is 30 seconds). There is also `effect <player> clear`
-* `gamemode <mode> [player]`
-* `playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]`
-* `setblock <x> <y> <z> <TileName> [dataValue]`
-* `summon <EntityName> [x] [y] [z]`
-* `testfor <player> [dataTag]`
-* `time set <value>`
+* `say`, `tell`, `msg` und `w` (whisper), um Nachrichten an einen oder mehrere Spieler zu übermitteln.
+  `Sagen <Spieler> <Nachricht>`
+* `clear <player> [item] [data] [maxCount] [dataTag]` löscht das Inventar eines Spielers, oder nur die in den Argumenten angegebenen Gegenstände
+* `effect <player> <effect> [seconds] [amplifier] [hideParticles]` gibt dem anvisierten Spieler oder der Entität den angegebenen Effekt für die angegebene Zeit (Standard ist 30 Sekunden). Es gibt auch `effect <player> clear`
+* `Spielmodus <Modus> [Spieler]`
+* `Sound <Sound> <Spieler> [x] [y] [z] [Lautstärke] [Tonhöhe] [Mindestlautstärke]`
+* `setblock <x> <y> <z> <Kachelname> [dataValue]`
+* `summon <Einheitsname> [x] [y] [z]`
+* `testfor <Spieler> [dataTag]`
+* `Zeit setzen <Wert>`
 * `toggledownfall`
-* `tp [target player] <destination player>` or `tp [target player] <x> <y> <z>`
-* `weather <clear|rain|thunder> [duration in seconds]`
-* `xp <amount> [player]`
+* `tp [Zielspieler] <Zielspieler>` oder `tp [Zielspieler] <x> <y> <z>`
+* `Wetter <klar|Regen|Gewitter> [Dauer in Sekunden]`
+* `xp <Betrag> [Spieler]`
 
-Any parameters enclosed in chevrons (such as `<amount>`) are required, while any enclosed in brackets (such as `[volume]`) are optional.
+Alle in Chevrons eingeschlossenen Parameter (wie z.B. `<Betrag>`) sind erforderlich, während alle in Klammern eingeschlossenen Parameter (wie z.B. `[Lautstärke]`) optional sind.
 
-## Communicating to a player with command blocks
+## Kommunikation mit einem Spieler mit Befehlsblöcken
 
-This exercise is going to use command blocks to warn a player of impending doom.
+In dieser Übung werden wir Befehlsblöcke verwenden, um einen Spieler vor einem drohenden Unheil zu warnen.
 
-There are a few different types of command blocks:
+Es gibt einige verschiedene Arten von Befehlsblöcken:
 
-* a command block ("Impulse") will try to execute its command once
-* a chain command block ("Chain") will not try to execute its command until another command block facing it executes its own command
-* a repeating command block ("Repeat") will try to execute its command every game tick until no longer activated
+* ein Befehlsblock ("Impulse") wird versuchen, seinen Befehl einmal auszuführen
+* ein Ketten-Befehlsblock ("Chain") versucht erst dann, seinen Befehl auszuführen, wenn ein anderer Befehlsblock vor ihm seinen eigenen Befehl ausführt
+* ein Wiederholungs-Befehlsblock ("Repeat") versucht, seinen Befehl bei jedem Spieltick auszuführen, bis er nicht mehr aktiviert wird
 
-The first block uses a `testfor` command which then powers a `say` block when a player enters a specific radius:
+Der erste Block verwendet einen `testfor`-Befehl, der dann einen `say`-Block aktiviert, wenn ein Spieler einen bestimmten Radius betritt:
 
 ![](images/appendices/appendix_6/chain-impulse-command-blocks.png)
 
-![](images/appendices/appendix_6/chain-command-block-0.png)
+![](images/anhaenge/anhang_6/kette-kommando-block-0.png)
 
-![](images/appendices/appendix_6/chain-command-block.png)
+![](images/anhaenge/anhang_6/kette-befehl-block.png)
 
-## Moving a player around a map with command blocks
+## Bewegen eines Spielers auf einer Karte mit Befehlsblöcken
 
-Let's take a look at how to build a simple security system for your house, using a command block and a pressure plate.
+Schauen wir uns nun an, wie man ein einfaches Sicherheitssystem für sein Haus mit Hilfe eines Befehlsblocks und einer Druckplatte bauen kann.
 
-* First, place a pressure plate in front of your door.
-* Make sure that the player will step on it when walking to the door.
-* Now, place a command block under the pressure plate somewhere so that it will be powered when the plate is stepped on.
+* Platziere zunächst eine Druckplatte vor deiner Tür.
+* Achten Sie darauf, dass der Spieler auf die Platte tritt, wenn er zur Tür geht.
+* Platziere nun einen Befehlsblock unter der Druckplatte, so dass er aktiviert wird, wenn auf die Platte getreten wird.
 
 ![](images/appendices/appendix_6/teleport-door-setup.png)
 
-* Now go to the command block and enter `/tp @p[r=<radius>,name=!<yourname>] <x> <y> <z>`
+* Nun gehst du zum Befehlsblock und gibst `/tp @p[r=<radius>,name=!<yourname>] <x> <y> <z>` ein.
 
 ![](images/appendices/appendix_6/teleport-door-command.png)
 
-Breaking this command down we have `/tp`, which is the command for teleporting players. Then we have the `@p` specifier, which says that this command block acts on players. The `@p` command takes arguments, `r=` for radius and `name=` for which players to teleport. Setting the radius is straightforward. Setting the name, however is a little interesting. Here, we use the `!` operation, which means `NOT`. Just like in redstone, this inverts the output of a command. Right now, we're using it to make sure any player that is `NOT` you gets teleported, while you remain safe. The final part of the command is the location to teleport to, which you put in place of the `<x> <y> <z>` in the command. The tilda `~` is used to represent the current location of the player; teleporting to `~ ~ ~` wouldn't move the player at all! We can also add or subtract a number from the tilda, such as using `~ ~ ~-2` to move the player back 2 blocks.
+Wenn wir diesen Befehl aufschlüsseln, haben wir `/tp`, das ist der Befehl zum Teleportieren von Spielern. Dann haben wir den Spezifizierer `@p`, der besagt, dass dieser Befehlsblock auf Spieler wirkt. Der `@p`-Befehl benötigt Argumente, `r=` für den Radius und `name=` für die Spieler, die teleportiert werden sollen. Die Einstellung des Radius ist einfach. Das Setzen des Namens ist jedoch ein wenig interessant. Hier verwenden wir die Operation `!`, was `NICHT` bedeutet. Genau wie in Redstone wird damit die Ausgabe eines Befehls invertiert. Im Moment benutzen wir sie, um sicherzustellen, dass jeder Spieler, der `NICHT` du bist, teleportiert wird, während du sicher bleibst. Der letzte Teil des Befehls ist der Ort, an den teleportiert werden soll, den ihr anstelle von "<x> <y> <z>" in den Befehl einfügt. Die Tilda `~` wird verwendet, um die aktuelle Position des Spielers zu repräsentieren; das Teleportieren nach `~ ~ ~` würde den Spieler überhaupt nicht bewegen! Wir können auch eine Zahl zur Tilda addieren oder subtrahieren, z.B. `~ ~ ~-2`, um den Spieler 2 Blöcke zurück zu bewegen.
 
-Here is a setup with a redstone circuit, so no pressure plate required!
+Hier ist ein Aufbau mit einer Redstone-Schaltung, also keine Druckplatte erforderlich!
 
 ![](images/appendices/appendix_6/teleport-door-with-circuit.png)
 
-Here is the final command that makes sure one user can get past:
+Hier ist der letzte Befehl, der sicherstellt, dass ein Benutzer vorbeikommt:
 
 ![](images/appendices/appendix_6/teleport-door-with-not-name.png)
 
-## Giving a player items with command blocks
+## Einem Spieler Gegenstände mit Befehlsblöcken geben
 
-The `/give` command is one of the more versatile commands available for use in Command Blocks. In this section, we'll list a few good uses.
+Der Befehl `/give` ist einer der vielseitigeren Befehle, die in Befehlsblöcken verwendet werden können. In diesem Abschnitt werden wir ein paar gute Anwendungen auflisten.
 
-# Command Block "Spawner"
+# Befehlsblock "Spawner"
 
-In this section we will use two command blocks, creating a custom mob spawner whenever a player enters a certain distance from the contraption.
+In diesem Abschnitt werden wir zwei Befehlsblöcke verwenden, die einen benutzerdefinierten Mob-Spawner erzeugen, sobald sich ein Spieler in einer bestimmten Entfernung von der Vorrichtung befindet.
 
-It is very similar to the other command circuits we already built, except instead of simply using `/say` or teleporting all nearby players, this one will conditionally spawn zombies when players are nearby.
+Er ist den anderen Befehlsschaltungen, die wir bereits gebaut haben, sehr ähnlich, mit der Ausnahme, dass er nicht einfach `/say` verwendet oder alle Spieler in der Nähe teleportiert, sondern bedingt Zombies spawnen lässt, wenn Spieler in der Nähe sind.
 
-The first step is to create a simple clock circuit to power the command block that will detect when a player is within a certain radius.
+Der erste Schritt besteht darin, eine einfache Uhrenschaltung zu erstellen, die den Befehlsblock mit Strom versorgt und erkennt, wenn sich ein Spieler in einem bestimmten Radius befindet.
 
-The first command block uses the `testfor` command to test for any player within _N_ blocks. It is a normal command block with the default settings just like those we used before.
+Der erste Befehlsblock verwendet den `testfor`-Befehl, um auf einen Spieler innerhalb von _N_ Blöcken zu testen. Es ist ein normaler Befehlsblock mit den Standardeinstellungen, wie wir sie zuvor verwendet haben.
 
-The next command block will have two special properties. The first is it will be a _chain_ type command block. It will not execute unless the `testfor` block executes. The second special property is that it will be a _conditional_ command block. A command block in conditional mode will only execute its command after the command block behind it has executed successfully. So now this block will not execute unless the `testfor` block executes successfully (it finds a player within its defined radius).
+Der nächste Befehlsblock wird zwei besondere Eigenschaften haben. Die erste ist, dass er ein Befehlsblock vom Typ _chain_ sein wird. Er wird erst ausgeführt, wenn der Block "testfor" ausgeführt wird. Die zweite besondere Eigenschaft ist, dass es sich um einen _bedingten_ Befehlsblock handelt. Ein Befehlsblock im bedingten Modus führt seinen Befehl erst aus, wenn der Befehlsblock hinter ihm erfolgreich ausgeführt wurde. Dieser Block wird also erst dann ausgeführt, wenn der `testfor`-Block erfolgreich ausgeführt wurde (er findet einen Spieler innerhalb seines definierten Radius).
 
-This `/summon` command will generate Zombies named "Braaaaains" wearing leather caps (so they won't burn up during daytime).
+Dieser `/summon`-Befehl wird Zombies mit dem Namen "Braaaaains" erzeugen, die Lederkappen tragen (damit sie tagsüber nicht verbrennen).
 
-`/summon minecraft:zombie ~ ~1 ~ {CustomName:Braaaaains,CustomNameVisible:1,ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1}]}`
+`/summon minecraft:zombie ~ ~1 ~ {CustomName:Braaaaains,CustomNameVisible:1,ArmorItems:[{},{},{},{},{id: "minecraft:leather_helmet",Count:1}]}`
 
-![](images/appendices/appendix_6/spawner.png)
+![](images/anhaenge/anhang_6/spawner.png)
 
-![](images/appendices/appendix_6/spawner-testfor.png)
+![](images/anhaenge/anhang_6/spawner-testfor.png)
 
-![](images/appendices/appendix_6/spawner-summon-conditional.png)
+![](images/anhaenge/anhang_6/spawner-summon-conditional.png)
 
-## Spawner Upgrades Challenge
+## Spawner Upgrades Herausforderung
 
-Once you have a working spawner, try to figure out these upgrades:
+Sobald du einen funktionierenden Spawner hast, versuche, diese Upgrades herauszufinden:
 
-1. Spawn more than one mob at a time, in different areas around the spawner.
-1. Add a switch to turn on and off the spawner, by making the first clock circuit a switchable loop.
+1. Spawn mehr als ein Mob auf einmal, in verschiedenen Bereichen um den Spawner.
+1. Füge einen Schalter hinzu, um den Spawner ein- und auszuschalten, indem du den ersten Uhrenkreis zu einer schaltbaren Schleife machst.
 
-# Automatic Bridge
+# Automatische Brücke
 
-In this section we are going to build a small prototype of an automatic one-way bridge.
+In diesem Abschnitt werden wir einen kleinen Prototyp einer automatischen Einwegbrücke bauen.
 
-![The build of our automatic bridge concept.](images/appendices/appendix_6/bridge-redstone_complete.png)
+Der Aufbau unseres automatischen Brückenkonzepts (images/appendices/appendix_6/bridge-redstone_complete.png)
 
-The construction consists of four command blocks to create the bridge and four command blocks to return those blocks to air once you've crossed. We'll use the `setblock` command with relative positions, so the following examples rely on putting your command blocks in exactly the same relative position compared to the bridge. You don't have to do that, though--you can simply adjust the relative coordinates based on the placement of your command blocks.
+Die Konstruktion besteht aus vier Befehlsblöcken, um die Brücke zu erstellen, und vier Befehlsblöcken, um diese Blöcke nach der Überquerung wieder in die Luft zu bringen. Wir verwenden den Befehl `setblock` mit relativen Positionen, so dass die folgenden Beispiele darauf beruhen, dass die Befehlsblöcke in genau der gleichen relativen Position zur Brücke stehen. Du musst das aber nicht tun - du kannst einfach die relativen Koordinaten auf der Grundlage der Platzierung deiner Befehlsblöcke anpassen.
 
-![Setblock command to place the bridge stones.](images/appendices/appendix_6/bridge-setblock_stone.png)
+![Setblock-Befehl zum Platzieren der Brückensteine](images/appendices/appendix_6/bridge-setblock_stone.png)
 
-![Setblock command to replace the bridge stones with air.](images/appendices/appendix_6/bridge-setblock_air.png)
+![Setblock-Befehl, um die Brückensteine durch Luft zu ersetzen.](images/appendices/appendix_6/bridge-setblock_air.png)
 
-You can test your command blocks by placing a button on them (shift-click to place a button on a command block). Once you have the `setblock` commands all set and working correctly, connect your command blocks to pressure plates via redstone dust, as shown in the first screenshot above. Now hide your command blocks and redstone!
+Du kannst deine Befehlsblöcke testen, indem du eine Schaltfläche auf ihnen platzierst (Umschalt-Klick, um eine Schaltfläche auf einem Befehlsblock zu platzieren). Sobald du die "setblock"-Befehle eingestellt hast und sie korrekt funktionieren, verbinde deine Befehlsblöcke mit den Druckplatten über Redstone-Staub, wie im ersten Screenshot oben gezeigt. Verstecken Sie nun Ihre Befehlsblöcke und den Redstone!
 
-![Do not enter!](images/appendices/appendix_6/bridge-do_not_enter.png)
+Nicht betreten!](images/appendices/appendix_6/bridge-do_not_enter.png)
 
-## Make it better
+## Mach es besser
 
-The above build is more of a proof-of-concept. It's pretty easy to see that the pressure plates cause the bridge action, and it's not much of a deterrent, besides. One improvement we could make would be to use a detector block to determine when a player approaches from one side and place the bridge blocks or air appropriately. Use the techniques from our "spawner" contraption to create a clock powering a `testfor` command block.
+Der obige Build ist eher ein Proof-of-Concept. Es ist ziemlich leicht zu erkennen, dass die Druckplatten die Brücke auslösen, und außerdem ist sie nicht besonders abschreckend. Eine Verbesserung wäre, einen Detektorblock zu verwenden, um festzustellen, wann sich ein Spieler von einer Seite nähert und die Brückenblöcke oder die Luft entsprechend zu platzieren. Verwenden Sie die Techniken unserer "Spawner"-Vorrichtung, um eine Uhr zu erstellen, die einen "Testfor"-Befehlsblock antreibt.
 
-![Bridge redstone with detector block instead of pressure plates.](images/appendices/appendix_6/bridge-with_detector_block.png)
+Redstone-Brücke mit Detektorblock statt Druckplatten](images/appendices/appendix_6/bridge-with_detector_block.png)
 
-![Testfor command. Your coordinates will be different! (Or you could just do a large radius).](images/appendices/appendix_6/bridge-testfor_block.png)
+![Testfor-Befehl. Deine Koordinaten werden anders sein! (Oder du könntest einfach einen großen Radius nehmen)](images/appendices/appendix_6/bridge-testfor_block.png)
 
-Now make the `testfor` command only test for your player. You could even make it a trap bridge, only letting you cross and turning the blocks to air when any other player tries to cross.
+Teste nun den Befehl `testfor` nur für deinen Spieler. Du könntest es sogar zu einer Fallenbrücke machen, die nur dich passieren lässt und die Blöcke in Luft verwandelt, wenn ein anderer Spieler versucht, sie zu überqueren.
 
-## References
+## Referenzen
 
-* [minecraftcommand.science](https://minecraftcommand.science/) -- "Several minecraft vanilla JSON generators for all your `/give` and `/summon` needs."
-* Minecraft mobspawner and summon generator: [http://minecraft.tools/en/spawn.php](http://minecraft.tools/en/spawn.php)
-* Minecraft wiki command reference: [http://minecraft.gamepedia.com/Commands](http://minecraft.gamepedia.com/Commands)
+* [minecraftcommand.science](https://minecraftcommand.science/) -- "Mehrere minecraft vanilla JSON-Generatoren für all deine `/give` und `/summon` Bedürfnisse."
+* Minecraft Mobspawner und Beschwörungsgenerator: [http://minecraft.tools/en/spawn.php](http://minecraft.tools/en/spawn.php)
+* Minecraft-Wiki-Befehlsreferenz: [http://minecraft.gamepedia.com/Commands](http://minecraft.gamepedia.com/Commands)

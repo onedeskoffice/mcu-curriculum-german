@@ -1,90 +1,90 @@
-# Section 2: Applications of Redstone Basics
+# Abschnitt 2: Anwendungen der Redstone-Grundlagen
 
-## Piston Doors
+## Kolbentüren
 
-This section concerns making doors powered by pistons and redstone. Rather than using wood or iron doors, we'll be using pistons to make large doors using blocks. For this you will need redstone, redstone torches, and sticky pistons. Since sticky pistons can both push and pull blocks, they're ideal for making something like a door. The redstone circuit used is simple but still requires some space, which can be hidden inside a wall (especially since doors normally appear in walls!).
+In diesem Abschnitt geht es um die Herstellung von Türen, die durch Kolben und Redstone angetrieben werden. Anstatt Holz- oder Eisentüren zu verwenden, werden wir Kolben benutzen, um große Türen aus Blöcken herzustellen. Dazu braucht ihr Rotstein, Rotsteinfackeln und klebrige Kolben. Da klebrige Kolben Blöcke sowohl schieben als auch ziehen können, sind sie ideal, um so etwas wie eine Tür zu bauen. Der verwendete Redstone-Kreislauf ist einfach, benötigt aber dennoch etwas Platz, der in einer Wand versteckt werden kann (zumal Türen normalerweise in Wänden erscheinen!).
 
-1. The door will be two blocks wide and three blocks tall. Place two columns of three sticky pistons facing each other with four empty air blocks between them. Then place your door blocks (lapiz, gold, etc) onto each of the sticky piston faces. When unpowered, there will be a two-block gap between the pieces of the door. 
+1. Die Tür wird zwei Blöcke breit und drei Blöcke hoch sein. Legen Sie zwei Säulen aus drei klebrigen Kolben einander gegenüber und dazwischen vier leere Luftblöcke. Lege dann deine Türblöcke (Lapiz, Gold usw.) auf jede der klebrigen Kolbenflächen. Im unbetätigten Zustand bleibt eine Lücke von zwei Blöcken zwischen den Teilen der Tür. 
 <img src="images/section_2/piston_door_initial.png" style="width:50%">
 
-1. Dig a one block deep channel around the doors as shown in this picture. We will hide the redstone we're using to power the doors within this channel. Dig out two more blocks from the front of the door (consult the screenshot if you are confused).  
+1. Grabt um die Türen herum eine ein Block tiefe Rinne, wie in diesem Bild gezeigt. In diesem Kanal werden wir den roten Stein verstecken, mit dem wir die Türen betreiben. Graben Sie zwei weitere Blöcke von der Vorderseite der Tür aus (sehen Sie sich den Screenshot an, wenn Sie verwirrt sind).  
 <img src="images/section_2/piston_door_channel.png" style="width:50%">  
 
-1. Then put two ground blocks back in the middle (keeping the just-mined block underneath empty) and put two pressure plates on top of them.  
+1. Lege dann zwei Bodenblöcke zurück in die Mitte (wobei der gerade abgebaute Block darunter leer bleibt) und lege zwei Druckplatten darauf.  
 <img src="images/section_2/piston_door_plates.png" style="width:50%">
 
-1. Now run redstone from the very bottom space all the way around the bottom of the channel, with the ends pointing into the remaining sandstone block on either side.
+1. Legen Sie nun den roten Stein von der untersten Lücke um den gesamten Boden des Kanals herum, wobei die Enden in den verbleibenden Sandsteinblock auf beiden Seiten zeigen.
 <img src="images/section_2/piston_door_redstone_channel.png" style="width:50%">
 
-1. Place a redstone torch on top of that remaining sandstone (the torch should be next to the bottom-most sticky piston).
+1. Platziere eine rote Steinfackel auf dem verbleibenden Sandstein (die Fackel sollte sich neben dem untersten klebrigen Kolben befinden).
 <img src="images/section_2/piston_door_torches.png" style="width:50%">
 
-1. Place a sandstone block on top of that torch and redstone dust on top of that sandstone block. Repeat this for the other side of the door.
+1. Lege einen Sandsteinblock auf diese Fackel und roten Steinstaub auf den Sandsteinblock. Wiederholen Sie diesen Vorgang für die andere Seite der Tür.
 <img src="images/section_2/piston_door_redstone_top.png" style="width:50%">
 
-1. Cover up the redstone using slabs, which give the best aesthetics. You can also cover up the side towers (pistons and all) with sandstone, wood, or other attractive patterns.
+1. Decken Sie den roten Stein mit Platten ab, die am besten aussehen. Sie können auch die Seitentürme (Kolben und alles andere) mit Sandstein, Holz oder anderen attraktiven Mustern abdecken.
 <img src="images/section_2/piston_door_slabs.png" style="width:50%">
 
-1. Ultimately, only the two-block space in the middle of the door is what shouldn't be covered. Our suggestion is to build this door as part of a wall where it looks best.
+1. Letztlich ist nur der zwei Blöcke umfassende Raum in der Mitte der Tür nicht zu bedecken. Unser Vorschlag ist, diese Tür als Teil einer Wand zu bauen, wo sie am besten aussieht.
 <img src="images/section_2/piston_door_final.png" style="width:50%">
 
-You can give yourself more time to get through the door by using a redstone repeater set to 1 or more "ticks". A redstone tick creates a 0.10 of a second delay in the signal of a redstone circuit. A redstone repeater is set from 1-4 ticks by right-clicking it. A repeater cannot be set to have a delay of zero:
+Sie können sich mehr Zeit geben, um durch die Tür zu kommen, indem Sie einen Rotstein-Wiederholer verwenden, der auf 1 oder mehr "Ticks" eingestellt ist. Ein Redstone-Tick erzeugt eine Verzögerung von 0,10 Sekunden im Signal eines Redstone-Kreises. Ein Redstone-Repeater wird mit einem Rechtsklick auf 1-4 Ticks eingestellt. Ein Repeater kann nicht so eingestellt werden, dass er eine Verzögerung von Null hat:
 <img src="images/section_2/door-with-repeater.png" style="width:50%">
 
-## Cannons
+## Kanonen
 
-By exploiting some of the physics of Minecraft, we can make cannons that fire TNT! As you've probably seen, explosions normally destroy blocks and throw items. Explosions in water, however, will not destroy blocks but will still affect items. Lit TNT is one item that can be thrown, and so we can use TNT and water to shoot a lit TNT block out of our cannon. We will be using redstone to ignite our TNT.
+Indem wir einige der physikalischen Eigenschaften von Minecraft ausnutzen, können wir Kanonen bauen, die TNT abfeuern! Wie du wahrscheinlich schon gesehen hast, zerstören Explosionen normalerweise Blöcke und werfen Gegenstände weg. Explosionen im Wasser zerstören jedoch keine Blöcke, sondern wirken sich auch auf Gegenstände aus. Brennendes TNT ist ein Gegenstand, der geworfen werden kann, und so können wir TNT und Wasser verwenden, um einen brennenden TNT-Block aus unserer Kanone zu schießen. Wir werden roten Stein verwenden, um unser TNT zu entzünden.
 
-1. Set up the body of the cannon. Cobblestone is what we will be using, though most normal building blocks will work.
+1. Baue den Kanonenkörper auf. Wir werden Kopfsteinpflaster verwenden, aber die meisten normalen Bauklötze werden funktionieren.
 <img src="images/section_2/cannon_body.png" style="width:50%">
 
-1. Fill the body with water, which will protect the body of the cannon from the blast.
+1. Fülle den Körper mit Wasser, das den Körper der Kanone vor der Explosion schützt.
 <img src="images/section_2/cannon_water.png" style="width:50%">
 
-1. Place redstone and repeaters set to 4 ticks as well as a button to trigger them. The trail of redstone will ignite our propellant TNT. The repeaters will ensure that the projectile TNT is lit right before it fires. Note the additional cobblestone block at the end.
+1. Platziere Rotstein und Wiederholer, die auf 4 Ticks eingestellt sind, sowie einen Knopf, um sie auszulösen. Die Spur des roten Steins wird unser TNT-Treibmittel zünden. Die Repeater sorgen dafür, dass das Projektil-TNT kurz vor dem Abfeuern gezündet wird. Beachten Sie den zusätzlichen Pflastersteinblock am Ende.
 <img src="images/section_2/cannon_redstone_back.png" style="width:50%">
 <img src="images/section_2/cannon_redstone_front.png" style="width:50%">
 
-1. To fire the cannon, we will fill the body with TNT. Be sure not to accidentally place TNT over the source block of water. Then, place the projectile on the very end.
+1. Um die Kanone abzufeuern, müssen wir den Körper mit TNT füllen. Achten Sie darauf, dass Sie das TNT nicht versehentlich über den Quellblock des Wassers legen. Platziere dann das Projektil ganz am Ende.
 <img src="images/section_2/cannon_TNT.png" style="width:50%">
 
-1. Press the button to fire!
+1. Drücke den Knopf zum Feuern!
 
-We know that we're limited to using TNT seven blocks away from whatever we want to fire. How could we increase our firing power with this limitation? Come up with some ideas and designs and test them out. Also, experiment with the height of the projectile TNT. How does placing it onto a slab change the distance shot?
+Wir wissen, dass wir nur TNT verwenden können, das sieben Blöcke von dem Objekt entfernt ist, das wir abfeuern wollen. Wie könnten wir unsere Feuerkraft trotz dieser Einschränkung erhöhen? Entwickeln Sie einige Ideen und Entwürfe und probieren Sie sie aus. Experimentieren Sie auch mit der Höhe des TNT-Projektils. Wie verändert sich die Schussweite, wenn man es auf eine Platte legt?
 
-### TNT Cannon Competition
+### TNT-Kanonen-Wettbewerb
 
-Try challenging your neighbor with a TNT cannon competition! Modify the example design and see who can fire the farthest and with the most accuracy.
+Fordern Sie Ihren Nachbarn mit einem TNT-Kanonen-Wettbewerb heraus! Ändere die Beispielkonstruktion und finde heraus, wer am weitesten und am genauesten schießen kann.
 
-# Redstone Clocks
+# Redstone-Uhren
 
-You can use redstone to make simple clocks in Minecraft. Torches, repeaters, and other blocks take one tick to update. Repeaters are unique in that they can be set to 1, 2, 3, or 4 ticks. So repeaters can be used to make clocks that pulse at a regular rate:
+Du kannst Redstone benutzen, um einfache Uhren in Minecraft zu bauen. Fackeln, Wiederholer und andere Blöcke brauchen einen Tick, um sich zu aktualisieren. Wiederholer sind einzigartig, da sie auf 1, 2, 3 oder 4 Ticks eingestellt werden können. Mit Repeatern kann man also Uhren bauen, die in einem regelmäßigen Rhythmus pulsieren:
 <img src="images/section_3/clock_basic.png" style="width:50%">
 
-You can make more complicated clocks by using a simple mathematical principle and something called a logic gate. Let's say we wanted to make a 30-tick clock, which would pulse every 3 seconds. To use our above design we'd need 8 total repeaters (7 of 4 ticks and 1 of 2 ticks). However, we can actually get away with using just 4 repeaters. To do this, we're going to make two separate clocks of length 5 and 6. Individually, these clocks only require two repeaters each.
+Man kann kompliziertere Uhren herstellen, indem man ein einfaches mathematisches Prinzip und ein so genanntes Logikgatter verwendet. Nehmen wir an, wir wollten eine Uhr mit 30 Ticks bauen, die alle 3 Sekunden tickt. Für unser obiges Design bräuchten wir insgesamt 8 Repeater (7 mit 4 Ticks und 1 mit 2 Ticks). Wir können jedoch auch mit nur 4 Verstärkern auskommen. Dazu werden wir zwei separate Uhren der Länge 5 und 6 bauen. Für diese Uhren werden jeweils nur zwei Verstärker benötigt.
 
-Now, think of the tick numbers that these clocks will pulse on. The first one will pulse at 5, 10, 15, 20, 25, and 30. The second one will pulse at 6, 12, 18, 24, and 30. Both of them will pulse at 30! Since 5 and 6 are both factors of 30, the two clocks will always pulse on multiples of 30. Thirty is the least common multiple (LCM) of the two numbers, and we can use the LCM to make clocks out of far fewer repeaters than with our simple design.
+Denken Sie nun an die Tickzahlen, mit denen diese Uhren pulsieren werden. Die erste Uhr wird bei 5, 10, 15, 20, 25 und 30 ticken. Die zweite Uhr wird bei 6, 12, 18, 24 und 30 takten. Beide Uhren pulsieren bei 30! Da 5 und 6 beide Faktoren von 30 sind, werden die beiden Uhren immer bei Vielfachen von 30 pulsieren. Dreißig ist das kleinste gemeinsame Vielfache (LCM) der beiden Zahlen, und wir können das LCM verwenden, um Uhren aus viel weniger Wiederholern zu bauen als bei unserem einfachen Entwurf.
 
-Next, we will use a logic gate called an AND gate. Basically, it's a series of blocks that takes two redstone inputs. The output will only be ON if the two inputs are both ON. Otherwise, they'll be off. If we AND the two outputs of our 5 and 6 clocks, the output of that AND will pulse only every 30 ticks, or 3 seconds:
+Als Nächstes werden wir ein logisches Gatter verwenden, ein so genanntes UND-Gatter. Im Grunde handelt es sich dabei um eine Reihe von Blöcken, die zwei Redstone-Eingänge aufnehmen. Der Ausgang wird nur dann eingeschaltet, wenn die beiden Eingänge beide eingeschaltet sind. Andernfalls sind sie ausgeschaltet. Wenn wir die beiden Ausgänge unserer Uhren 5 und 6 UND-verknüpfen, wird der Ausgang dieses UND-Gatters nur alle 30 Ticks oder 3 Sekunden pulsieren:
 <img src="images/section_3/clock_advanced.png" style="width:50%">
 
-Redstone clocks have any number of uses. They can be used to make dispensers output something every set period of time, timers for playing games, or activate pistons for making cobblestone generators. Try to think of some productive uses for redstone clocks and implement them yourself!
+Redstone-Uhren haben eine Vielzahl von Verwendungsmöglichkeiten. Sie können verwendet werden, um Automaten dazu zu bringen, in einer bestimmten Zeitspanne etwas auszugeben, als Zeitmesser für Spiele oder um Kolben für die Herstellung von Pflastersteingeneratoren zu aktivieren. Versuchen Sie, sich einige produktive Verwendungsmöglichkeiten für Redstone-Uhren auszudenken und setzen Sie sie selbst ein!
 
-# Cobblestone Generator
+# Kopfsteinpflaster-Generator
 
-A cobblestone generator is both less costly and more useful than a TNT cannon. Cobblestone is created when flowing water and lava combine and is a valuable resource, especially on resource-light worlds. By controlling the flow of water and lava and utilizing a piston circuit, we can create a contraption that automatically builds cobblestone for us to harvest.
+Ein Kopfsteinpflaster-Generator ist nicht nur kostengünstiger, sondern auch nützlicher als eine TNT-Kanone. Kopfsteinpflaster entsteht, wenn fließendes Wasser und Lava zusammenkommen, und ist eine wertvolle Ressource, besonders auf ressourcenarmen Welten. Durch die Steuerung des Wasser- und Lavastroms und die Verwendung eines Kolbenkreislaufs können wir einen Apparat bauen, der automatisch Kopfsteinpflaster für die Ernte erzeugt.
 
-1. Build the body of the generator. Be sure to include the hole in the middle, as without the hole water would flow over the lava source block and turn it into obsidian.
+1. Baue das Gehäuse des Generators. Achte darauf, das Loch in der Mitte einzubauen, denn ohne das Loch würde das Wasser über den Lavaquellblock fließen und ihn in Obsidian verwandeln.
 <img src="images/section_2/generator_body.png" style="width:50%">
 
-1. Place the water and lava source blocks from a bucket. Notice how cobblestone is formed in the middle!
+1. Legen Sie die Wasser- und Lavaquellblöcke aus einem Eimer. Beachte, wie sich in der Mitte Kopfsteinpflaster bildet!
 <img src="images/section_2/generator_water_and_lava.png" style="width:50%">
 
-1. Place the piston that will push out the cobblestone blocks.
+1. Platziere den Kolben, der die Pflastersteinblöcke herausdrückt.
 <img src="images/section_2/generator_piston.png" style="width:50%">
 
-1. Create the redstone circuit that will cause the piston to automatically extend and then retract. You may have to create a longer clock to compensate for the speed of the cobble generation.
+1. Erstellen Sie die Redstone-Schaltung, die den Kolben automatisch aus- und einfahren lässt. Es kann sein, dass du eine längere Uhr erstellen musst, um die Geschwindigkeit der Schottererzeugung zu kompensieren.
 <img src="images/section_2/generator_clock.png" style="width:50%">
 
-1. Quickly flip the lever on and off to start the generator. Pistons will push up to 12 blocks before stopping, but if you keep mining out the cobblestone column this generator will run forever.
+1. Legen Sie den Hebel schnell um, um den Generator zu starten. Die Kolben schieben bis zu 12 Blöcke, bevor sie aufhören, aber wenn du die Pflastersteinsäule weiter abbaust, wird der Generator ewig laufen.
 <img src="images/section_2/generator_running.png" style="width:50%">

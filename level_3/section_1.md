@@ -1,57 +1,57 @@
-# Section 1: Redstone Basics
+# Abschnitt 1: Redstone-Grundlagen
 
-## Using the Redstone Ready preset
+## Verwendung der Voreinstellung "Redstone Ready
 
-There is a world preset called "Redstone Ready". This is a flat world made out of sandstone that makes it easy to see the redstone you place and contrasts with other blocks that make up your contraptions as well. When creating a new world choose `World Type: Superflat` and then click `Customize`:
+Es gibt eine Weltvoreinstellung namens "Redstone Ready". Es handelt sich dabei um eine flache Welt aus Sandstein, in der die von Ihnen platzierten Redstones gut zu sehen sind und die auch mit den anderen Blöcken kontrastiert, aus denen Ihre Apparate bestehen. Wenn du eine neue Welt erstellst, wähle `Welttyp: Superflat" und klicke dann auf "Anpassen":
 <img src="images/section_1/redstone-ready-1.png" style="width:50%">
 
-Then click `Presets`:
+Klicken Sie dann auf "Voreinstellungen":
 <img src="images/section_1/redstone-ready-2.png" style="width:50%">
 
-Then choose `Redstone Ready`:
+Wählen Sie dann `Redstone Ready`:
 <img src="images/section_1/redstone-ready-3.png" style="width:50%">
 
-## Redstone circuit basics
+## Grundlagen des Redstone-Schaltkreises
 
-Redstone in Minecraft is a bit like electricity in real life. A redstone source transmits power through redstone dust (or repeaters) and can be used to power other blocks. For example, a lever in the ON position can be used to power a redstone lamp:
+Redstone in Minecraft ist ein bisschen wie Elektrizität im echten Leben. Eine Redstone-Quelle überträgt Energie durch Redstone-Staub (oder Repeater) und kann verwendet werden, um andere Blöcke mit Strom zu versorgen. Zum Beispiel kann ein Hebel in der Position ON eine Redstone-Lampe mit Strom versorgen:
 <img src="images/section_1/simple_lamp.png" style="width:50%">
 
-Redstone dust (also called redstone wire) can also bridge over individual blocks and still transmit power--also called redstone current:
+Redstone-Staub (auch Redstone-Draht genannt) kann auch einzelne Blöcke überbrücken und trotzdem Strom übertragen - auch Redstone-Strom genannt:
 <img src="images/section_1/going_over_block.png" style="width:50%">
 
-A lever placed directly onto a block powers the block itself, and redstone wire can carry current from the block to a lamp:
+Ein Hebel, der direkt auf einen Block gelegt wird, versorgt den Block selbst mit Strom, und Redstone-Draht kann Strom vom Block zu einer Lampe leiten:
 <img src="images/section_1/switch_on_block.png" style="width:50%">
 
-Redstone torches are a permanent source of redstone power; they are always ON and will always power adjacent redstone wire:
+Rotsteinfackeln sind eine permanente Quelle für Rotsteinstrom; sie sind immer eingeschaltet und versorgen immer den angrenzenden Rotsteindraht:
 <img src="images/section_1/torch_not_lever.png" style="width:50%">
 
-A redstone torch can be placed on the side of a block, too. Any adjacent redstone dust will also be powered:
+Eine Rotsteinfackel kann auch an der Seite eines Blocks platziert werden. Der angrenzende rote Steinstaub wird ebenfalls mit Energie versorgt:
 <img src="images/section_1/torch_on_block.png" style="width:50%">
 
-Redstone current dies out after 15 blocks of redstone dust. Placing a repeater (which _repeats_ the signal) will let a power source reach blocks even further away:
+Der Redstone-Strom erlischt nach 15 Blöcken mit Redstone-Staub. Durch das Aufstellen eines Repeaters (der das Signal _wiederholt_) kann eine Stromquelle auch weiter entfernte Blöcke erreichen:
 <img src="images/section_1/repeater.png" style="width:50%">
 
-To move current upward, you must make stairs and connect the redstone dust going upward:
+Um Strom nach oben zu leiten, muss man eine Treppe bauen und den nach oben gehenden Redstone-Staub anschließen:
 <img src="images/section_1/stairs.png" style="width:50%">
 
-Now that you've seen some of the basics of redstone, experiment more with interactions between redstone and blocks. For example, you could try placing repeaters next to blocks and see how the current behaves.
+Nachdem Sie nun einige der Grundlagen von Redstone kennengelernt haben, können Sie mit den Interaktionen zwischen Redstone und Blöcken weiter experimentieren. Du könntest zum Beispiel versuchen, Repeater neben Blöcken zu platzieren und sehen, wie sich der Strom verhält.
 
-Redstone torches are "turned off" when the block attached to it is turned on. In the setup below, when the lever is switched on, the redstone power travels to the stone block that the redstone torch is attached to. Because the block the redstone torch is attached to is now powered, the torch is turned off:
+Redstone-Fackeln werden "ausgeschaltet", wenn der daran befestigte Block eingeschaltet wird. In der folgenden Abbildung wird der Strom der Rotsteinfackel zu dem Steinblock geleitet, an dem die Fackel befestigt ist, wenn der Hebel eingeschaltet wird. Da der Block, an dem die Rotsteinfackel befestigt ist, nun mit Strom versorgt wird, wird die Fackel ausgeschaltet:
 <img src="images/section_1/Redstone_torch_turned_off.png" style="width:50%">
 
-## Redstone can also be used to power devices such as the ones shown below
+## Redstone kann auch verwendet werden, um Geräte wie die folgenden zu betreiben
 
-Dispenser powered by button. Dispenser may be filled with any material--e.g. arrows, diamond, etc:
+Spender, der per Knopfdruck betrieben wird. Der Spender kann mit jedem beliebigen Material gefüllt werden - z.B. Pfeile, Diamanten, etc:
 <img src="images/section_1/Dispenser.png" style="width:50%">
 
-Sticky piston powered by lever:
+Klebekolben, der durch einen Hebel angetrieben wird:
 <img src="images/section_1/Piston.png" style="width:50%">
 
-Door powered by pressure plate:
+Durch Druckplatte angetriebene Tür:
 <img src="images/section_1/Door.png" style="width:50%">
 
-Powered rails powered by levers:
+Angetriebene Schienen mit Hebeln:
 <img src="images/section_1/Powered_Rails.png" style="width:50%">
 
-You can also combine these elements to make more complex contraptions:
+Sie können diese Elemente auch kombinieren, um komplexere Vorrichtungen zu bauen:
 <img src="images/section_1/redstone_contraption.png" style="width:50%">
