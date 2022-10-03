@@ -1,47 +1,47 @@
-# Setup
+# Einrichtung
 
-Modding for Minecraft requires setting up a local development environment. These are all the same tools that software developers use every day.
+Für die Modifikation von Minecraft muss eine lokale Entwicklungsumgebung eingerichtet werden. Dies sind die gleichen Werkzeuge, die Softwareentwickler jeden Tag benutzen.
 
-## Install the tooling
+## Installieren Sie das Tooling
 
-### Install MultiMC
+## MultiMC installieren
 
-MultiMC is the Minecraft launcher we'll be using throughout this course. It allows us to run any version of Minecraft.
+MultiMC ist der Minecraft Launcher, den wir in diesem Kurs verwenden werden. Er ermöglicht es uns, jede Version von Minecraft zu starten.
 
-Go to [multimc.org](https://multimc.org/) and follow the download instructions for your operating system.
+Gehen Sie zu [multimc.org] (https://multimc.org/) und folgen Sie den Download-Anweisungen für Ihr Betriebssystem.
 
-## Install the JDK and IntelliJ
+## Installieren Sie das JDK und IntelliJ
 
-We've separated the rest of the instructions for Windows and Macs. Please follow the instructions for the type of operating system you are using:
+Wir haben den Rest der Anleitung für Windows und Macs getrennt. Bitte folgen Sie den Anweisungen für das Betriebssystem, das Sie verwenden:
 
-**[Go to the Windows instructions](windows_instructions.md)**
+**[Weiter zu den Windows-Anweisungen](windows_instructions.md)**
 
-**[Go to the Mac instructions](mac_instructions.md)**
+**[Gehe zu den Mac-Anweisungen](mac_instructions.md)**
 
-## Download the sample project
+## Download des Beispielprojekts
 
-Go to [github.com/MinecraftU/MinecraftByExample](https://github.com/MinecraftU/MinecraftByExample), click "Clone or Download" and choose "Download ZIP".
+Gehen Sie zu [github.com/MinecraftU/MinecraftByExample](https://github.com/MinecraftU/MinecraftByExample), klicken Sie auf "Clone or Download" und wählen Sie "Download ZIP".
 
 ![](images/section_0/download_project.png)
 
-Unzip the project in a logical location, like your desktop or home directory.
+Entpacken Sie das Projekt an einem logischen Ort, z. B. auf Ihrem Desktop oder in Ihrem Heimatverzeichnis.
 
-## Set up the project in IntelliJ
+## Projekt in IntelliJ einrichten
 
-These instructions work for both Mac and Windows, but if you want more advanced Mac instructions, or have trouble with the instructions below, [reference the Mac command line instructions here](mac_cmd_line_instructions.md).
+Diese Anweisungen funktionieren sowohl für Mac als auch für Windows, aber wenn Sie fortgeschrittene Mac-Anweisungen wünschen oder Probleme mit den folgenden Anweisungen haben, [verweisen Sie hier auf die Mac-Befehlszeilenanweisungen](mac_cmd_line_instructions.md).
 
-Open IntelliJ.
+Öffnen Sie IntelliJ.
 
-Accept the defaults in the intial setup screens.
+Akzeptieren Sie die Standardeinstellungen in den anfänglichen Setup-Bildschirmen.
 
-In the next screen, choose "Import Project", navigate to your project folder, and choose the `build.gradle` file.
+Wählen Sie im nächsten Bildschirm "Import Project", navigieren Sie zu Ihrem Projektordner und wählen Sie die Datei `build.gradle`.
 
-Wait for the project to build. A pane in the bottom of the window will look something like this:
+Warten Sie, bis das Projekt erstellt ist. Ein Bereich im unteren Teil des Fensters wird in etwa so aussehen:
 
 ![](images/section_0/gradle_build.png)
 
-Now on the right hand side of the window click the Gradle tab. Then open the tree Tasks-->forgegradle and double click on `setupDecompWorkspace`.
+Klicken Sie nun auf der rechten Seite des Fensters auf die Registerkarte Gradle. Dann öffnen Sie den Baum Tasks-->forgegradle und doppelklicken auf `setupDecompWorkspace`.
 
 ![](images/section_0/gradle_tab.png)
 
-Finally, double click `runClient`. This should launch Minecraft with all the example mods loaded.
+Schließlich doppelklicken Sie auf `runClient`. Dies sollte Minecraft mit allen geladenen Beispielmods starten.

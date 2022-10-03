@@ -1,38 +1,38 @@
-## Redstone Adder Circuit
+## Redstone-Addierer-Schaltung
 
-An _adder_ uses logic gates to perform addition. There are three inputs to the whole circuit: A, B, and carry. The carry is the result from the previous addition (think of how you carry a 1 when you add large numbers). The two outputs are the result and the carry for the next addition.
+Eine _Adder_ verwendet logische Gatter, um eine Addition durchzuführen. Es gibt drei Eingänge für die gesamte Schaltung: A, B und Übertrag. Der Übertrag ist das Ergebnis der vorherigen Addition (man denke an den Übertrag einer 1 bei der Addition großer Zahlen). Die beiden Ausgänge sind das Ergebnis und der Übertrag für die nächste Addition.
 
-This diagram shows the overall structure of an adder.  
-Note: A dot means the two lines of redstone should connect.  Other overlaps should not connect.
+Dieses Diagramm zeigt die allgemeine Struktur eines Addierers.  
+Hinweis: Ein Punkt bedeutet, dass die beiden Linien des roten Steins miteinander verbunden sein sollten.  Andere Überschneidungen sollten nicht verbunden werden.
 
-![A diagram for an adder.](adder_img/adder_diagram.png)
+Ein Diagramm für einen Addierer. (adder_img/adder_diagram.png)
 
-Look at the logic gates key so you can begin to understand how the adder works.
+Sieh dir die Logikgatter an, um zu verstehen, wie der Addierer funktioniert.
 
-Now, we're going to build an adder using redstone! Follow along with the steps as best you can. This is a complex circuit so be sure to ask questions. The doors at the end represent the output. The door to the left represents the normal output, and the door to the right represents the carry. An open door is a 1 and a closed door is a 0.
+Jetzt werden wir einen Addierer mit Redstone bauen! Folgen Sie den Schritten so gut Sie können. Dies ist eine komplexe Schaltung, also stellen Sie ruhig Fragen. Die Türen am Ende stellen den Ausgang dar. Das Türchen auf der linken Seite steht für den normalen Ausgang, das Türchen auf der rechten Seite für den Übertrag. Eine offene Tür ist eine 1 und eine geschlossene Tür ist eine 0.
 
-There are three inputs, so be sure to put signs to label each one. Levers are best since we can switch them between ON and OFF easily.
+Es gibt drei Eingänge, also achten Sie darauf, jeden einzelnen mit einem Zeichen zu versehen. Hebel sind am besten geeignet, da man sie leicht zwischen EIN und AUS umschalten kann.
 
-![The three input levers.](adder_img/adder_inputs.png)
+Die drei Eingangshebel](adder_img/adder_inputs.png)
 
-Next, build two XOR gates. The first one (on the left; we'll call it XOR gate 1) takes input from A and B. The second one (XOR gate 2) takes input from the output of the first gate and the carry.
+Als nächstes bauen wir zwei XOR-Gatter. Das erste (links; wir nennen es XOR-Gatter 1) erhält Eingaben von A und B. Das zweite (XOR-Gatter 2) erhält Eingaben von der Ausgabe des ersten Gatters und dem Übertrag.
 
-![The inital XOR gates.](adder_img/adder_XORs.png)
+Die ursprünglichen XOR-Gatter](adder_img/adder_XORs.png)
 
-A second perspective of the XOR gates.
+Eine zweite Perspektive auf die XOR-Gatter.
 
-![A backwards view of the XOR gates.](adder_img/adder_XORs_backwards.png)
+![Eine Rückwärtsansicht der XOR-Gatter](adder_img/adder_XORs_backwards.png)
 
-This AND gate takes input from the carry and the output of XOR gate 1. The blue circle shows where the gate 1 output goes up and over to this AND.
+Dieses UND-Gatter nimmt den Übertrag und den Ausgang des XOR-Gatters 1 als Eingang. Der blaue Kreis zeigt, wo der Ausgang des Gatters 1 zu diesem UND-Gatter hinauf und hinüber geht.
 
-![The first AND gate.](adder_img/adder_AND.png)
+Das erste UND-Gatter. (adder_img/adder_AND.png)
 
-The second AND gate. This one takes input from the original A and B inputs. Notice how it and the output of the other AND gate combine and go to the door representing the carry.
+Das zweite UND-Gatter. Dieses Gatter nimmt die Eingaben der ursprünglichen Eingänge A und B auf. Beachten Sie, wie es und der Ausgang des anderen UND-Gatters kombiniert werden und zur Tür gehen, die den Übertrag darstellt.
 
-![The second AND gate.](adder_img/adder_AND_2.png)
+Das zweite UND-Gatter. (adder_img/adder_AND_2.png)
 
-Two overviews of the entire adder from different perspectives.
+Zwei Übersichten des gesamten Addierers aus verschiedenen Perspektiven.
 
-![An overview of the entire adder.](adder_img/adder_overview.png)  
+![Ein Überblick über den gesamten Addierer.](adder_img/adder_overview.png)  
 
-![A second overview of the adder.](adder_img/adder_overview_backwards.png)
+![Ein zweiter Überblick über den Addierer](adder_img/adder_overview_backwards.png)

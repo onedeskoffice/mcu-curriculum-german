@@ -1,15 +1,15 @@
-## Minecraft U Level 5: Java and Modding Minecraft
+## Minecraft U Level 5: Java und Modding Minecraft
 
 ![](images/level5.png)
 
-Learn the basics of Java, the most common programming language in the world, and use them to create your own modification of Minecraft. Add any item of your design to the game, expanding Minecraft in whatever direction you desire. At the end, you’ll understand the syntax and applications of Java, and how they apply to Minecraft.
+Lerne die Grundlagen von Java, der am weitesten verbreiteten Programmiersprache der Welt, und nutze sie, um deine eigene Modifikation von Minecraft zu erstellen. Füge jedes beliebige Objekt in das Spiel ein und erweitere Minecraft in die von dir gewünschte Richtung. Am Ende wirst du die Syntax und die Anwendungen von Java verstehen und wissen, wie sie sich auf Minecraft anwenden lassen.
 
-### Table of Contents
+### Inhaltsverzeichnis
 
-* Section 0: Setting up the development environment
-* Section 1: Introduction to classes and methods
-* Section 2: Making basic blocks
-* Section 3: Half blocks and block drops
-* Section 4: Items and recipes 
-* Section 5: Generating ore
-* Section 6: Creating foods
+* Abschnitt 0: Einrichten der Entwicklungsumgebung
+* Abschnitt 1: Einführung in Klassen und Methoden
+* Abschnitt 2: Herstellung grundlegender Blöcke
+* Abschnitt 3: Halbe Blöcke und Blockdrops
+* Abschnitt 4: Gegenstände und Rezepte 
+* Abschnitt 5: Erzeugen von Erzen
+* Abschnitt 6: Lebensmittel herstellen

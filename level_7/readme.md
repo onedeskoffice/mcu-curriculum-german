@@ -1,30 +1,30 @@
-## Minecraft U Level 7: Adventure Camp
+## Minecraft U Level 7: Abenteuer-Camp
 
 ![](images/level7.png)
 
-How do tech companies like Apple, Amazon, Google, and Microsoft develop successful products? With people who know how to think creatively about technology. That's what Adventure Camp is all about—how to create ideas and put them to work with technology. We will use Minecraft as our playground because it is friendly and easy to use, but still sophisticated enough to use as an exploratory launching pad for these concepts. Over the course of the camp, students will learn about worldbuilding, product design and work management. Students will practice a design sprint, prototyping, user testing, iteration, and Kanban—all tools and methods that real software teams use to create the products you use every day.
+Wie entwickeln Technologieunternehmen wie Apple, Amazon, Google und Microsoft erfolgreiche Produkte? Mit Menschen, die wissen, wie man kreativ über Technologie nachdenkt. Im Adventure Camp geht es darum, Ideen zu entwickeln und sie mit Hilfe von Technologie in die Tat umzusetzen. Wir werden Minecraft als Spielplatz verwenden, weil es benutzerfreundlich und einfach zu bedienen ist, aber dennoch anspruchsvoll genug, um als Startrampe für die Erkundung dieser Konzepte zu dienen. Im Laufe des Camps werden die SchülerInnen etwas über Weltenbau, Produktdesign und Arbeitsmanagement lernen. Die Teilnehmer üben einen Design Sprint, Prototyping, Benutzertests, Iteration und Kanban - alles Werkzeuge und Methoden, die echte Softwareteams verwenden, um die Produkte zu entwickeln, die Sie jeden Tag benutzen.
 
-This camp is an advanced course that will give campers hands-on software development experience, within the context of Minecraft, and teach them to push the boundaries of both their creative and technical ability. The curriculum introduces students to the project planning and implementation process as they work collaboratively on the design of a virtual world and user experience.
+Dieses Camp ist ein Kurs für Fortgeschrittene, der den Teilnehmern praktische Erfahrungen in der Softwareentwicklung im Kontext von Minecraft vermittelt und sie lehrt, die Grenzen ihrer kreativen und technischen Fähigkeiten zu erweitern. Der Lehrplan führt die Schüler in den Prozess der Projektplanung und -umsetzung ein, während sie gemeinsam an der Gestaltung einer virtuellen Welt und der Benutzererfahrung arbeiten.
 
-We run Adventure Camp like a web development team. Adventure Camp campers will develop their own modpack and map. They will work through a typical software design and development cycle, utilizing techniques such as design sprints, prototyping, user testing, iteration, and Kanban. Experience with these real-world tools is an excellent introduction to the processes that real software development teams would implement.
+Wir führen das Adventure Camp wie ein Web-Entwicklungsteam durch. Die Teilnehmer des Adventure Camps werden ihr eigenes Modpack und ihre eigene Karte entwickeln. Dabei durchlaufen sie einen typischen Softwaredesign- und Entwicklungszyklus und nutzen Techniken wie Design Sprints, Prototyping, Benutzertests, Iteration und Kanban. Die Erfahrung mit diesen realen Werkzeugen ist eine hervorragende Einführung in die Prozesse, die echte Softwareentwicklungsteams implementieren würden.
 
-The best software product teams are a cross-functional mix of visionaries, creatives, detailed designers, technical experts, and organized project managers. Our Adventure Campers do all of the above! The team will make a fairly large and challenging map, with complex features such as a hub, and intricate game mechanics.
+Die besten Software-Produktteams sind eine funktionsübergreifende Mischung aus Visionären, Kreativen, Detaildesignern, technischen Experten und organisierten Projektmanagern. Unsere Adventure Campers erfüllen all diese Anforderungen! Das Team wird eine ziemlich große und herausfordernde Karte erstellen, die komplexe Funktionen wie einen Knotenpunkt und komplizierte Spielmechaniken enthält.
 
-**Table of Contents**
+**Inhaltsverzeichnis**
 
-* Section 1: Worldbuilding
-    * What is worldbuilding?
-    * What are the requirements of a world?
-    * Narrative
-* Section 2: Design 
-    * Research
-    * Ideation
-    * User Stories
+* Abschnitt 1: Weltenbau
+    * Was ist Weltenbau?
+    * Was sind die Anforderungen an eine Welt?
+    * Erzählung
+* Abschnitt 2: Gestaltung 
+    * Recherche
+    * Ideenfindung
+    * Benutzergeschichten
     * Prototyping
-    * Determining Direction
-    * Iterating
-* Section 3: Project Management
+    * Richtungsfestlegung
+    * Iteration
+* Abschnitt 3: Projektmanagement
     * Kanban
-    * Pomodoro Technique
-* Section 4: Build
-* Section 5: Rollout
+    * Pomodoro-Technik
+* Abschnitt 4: Aufbau
+* Abschnitt 5: Rollout

@@ -1,105 +1,105 @@
-## Section 2: Design
+## Abschnitt 2: Entwurf
 
-## Part 1
+## Teil 1
 
-### Research
+### Forschung
 
-#### What is already out there?
+#### Was gibt es bereits?
 
-* List our favorite mods
-* List our favorite maps
-* List our favorite stories
-* List our favorite [______]
+* Liste unserer Lieblingsmods
+* Auflistung unserer Lieblingskarten
+* Liste unserer Lieblingsgeschichten
+* Liste unserer Lieblings-[______]
 
-### Ideation
+### Ideenfindung
 
-#### What do we want to build?
+#### Was wollen wir bauen?
 
-* What is our goal?
-* What are we capable of accomplishing in our time frame?
-* What elements do we like from our list of favorites?
+* Was ist unser Ziel?
+* Was können wir in unserem Zeitrahmen erreichen?
+* Welche Elemente aus unserer Favoritenliste gefallen uns?
 
-### User Stories
+### Benutzergeschichten
 
-#### Who are we building for? 
+#### Für wen bauen wir? 
   
-* Ourselves?
-* Our friends?
-* Our family?
-* Customers?
-* Other gamers?
+* Für uns selbst?
+* Unsere Freunde?
+* Unsere Familie?
+* Kunden?
+* Andere Gamer?
 
-How are these people different?
+Wie unterscheiden sich diese Menschen?
 
-#### For each role we are building for, consider:
+#### Überlege für jede Rolle, für die wir bauen:
 
-* How familiar are they with Minecraft?
-* How often to they play Minecraft?
-* Where are they when they play Minecraft?
-* Why do they play Minecraft?
+* Wie vertraut sind sie mit Minecraft?
+* Wie oft spielen sie Minecraft?
+* Wo sind sie, wenn sie Minecraft spielen?
+* Warum spielen sie Minecraft?
 
-#### Then let us ask ourselves:
+#### Dann sollten wir uns fragen:
 
-* How do our users experience Minecraft differently?
-* How will this impact the design of our product?
+* Wie erleben unsere Nutzer Minecraft auf unterschiedliche Weise?
+* Wie wirkt sich dies auf die Gestaltung unseres Produkts aus?
 
 ### Prototyping
 
-#### What is prototyping?
+#### Was ist Prototyping?
 
-#### What constitutes rapid prototyping?
+#### Was ist Rapid Prototyping?
 
-Prototyping quickly allows for an accelerated feedback cycle. We'll talk more about iterating on these prototypes later.
+Schnelles Prototyping ermöglicht einen beschleunigten Feedback-Zyklus. Wir werden später mehr über die Iteration dieser Prototypen sprechen.
 
-#### Paper prototyping
+#### Papier-Prototyping
 
-> In human–computer interaction, paper prototyping is a widely used method in the user-centered design process, a process that helps developers to create software that meets the user's expectations and needs—in this case, especially for designing and testing user interfaces. It is throwaway prototyping and involves creating rough, even hand-sketched, drawings of an interface to use as prototypes, or models, of a design. While paper prototyping seems simple, this method of usability testing can provide a great deal of useful feedback which will result in the design of better products. This is supported by many usability professionals.
+> In der Mensch-Computer-Interaktion ist das Papier-Prototyping eine weit verbreitete Methode im benutzerzentrierten Designprozess, einem Prozess, der Entwicklern hilft, Software zu erstellen, die den Erwartungen und Bedürfnissen der Benutzer entspricht - in diesem Fall vor allem beim Entwurf und Testen von Benutzeroberflächen. Es handelt sich um ein Wegwerf-Prototyping, bei dem grobe, sogar handgezeichnete Zeichnungen einer Schnittstelle erstellt werden, die als Prototypen oder Modelle eines Entwurfs dienen. Auch wenn das Papier-Prototyping einfach erscheint, kann diese Methode der Gebrauchstauglichkeitsprüfung eine Menge nützliches Feedback liefern, das zur Entwicklung besserer Produkte führt. Dies wird von vielen Usability-Experten unterstützt.
 
 -- [Wikipedia](https://en.wikipedia.org/wiki/Paper_prototyping)
 
-**[Watch this Design Sprint Tuesday video, which talks about what these sketches look like in the end](https://www.youtube.com/watch?v=_ITJ5lAXQhg)**
+**[Sehen Sie sich dieses Design Sprint Tuesday Video an, in dem es darum geht, wie diese Skizzen am Ende aussehen](https://www.youtube.com/watch?v=_ITJ5lAXQhg)**
 
-Now let's get to putting some of our ideas down on paper. What will some of the aspects of our project look like to an end user? How will they experience it? What will some of the redstone contraptions work?
+Lassen Sie uns nun einige unserer Ideen zu Papier bringen. Wie werden einige der Aspekte unseres Projekts für einen Endbenutzer aussehen? Wie werden sie es erleben? Wie werden einige der Redstone-Geräte funktionieren?
 
 ---
 
-**Continue working on your paper prototypes**
+**Arbeitet weiter an euren Papierprototypen**
 
-* What aspects of your prototypes do you like the most?
-* Which concepts seem like they could be accomplished during camp?
-* What is not working, or seems too difficult to implement?
+* Welche Aspekte eurer Prototypen gefallen euch am besten?
+* Welche Konzepte könnten während des Camps verwirklicht werden?
+* Was funktioniert nicht oder scheint zu schwierig zu sein, um es umzusetzen?
 
 ## Extra credit
 
-* [Check out this video about paper prototyping at Google](https://www.youtube.com/watch?v=JMjozqJS44M)
-* [Check out this video on using paper prototypes to design Android applications](https://www.youtube.com/watch?v=07xPF7L6klY)
-* [Check out this video about a high-definition prototype for a podcast app developed by Google Ventures](https://www.youtube.com/watch?v=iqGLrMjBLZ4)
+* [Schauen Sie sich dieses Video über Paper Prototyping bei Google an](https://www.youtube.com/watch?v=JMjozqJS44M)
+* [Sehen Sie sich dieses Video über die Verwendung von Papierprototypen zur Entwicklung von Android-Anwendungen an](https://www.youtube.com/watch?v=07xPF7L6klY)
+* [Sehen Sie sich dieses Video über einen hochauflösenden Prototyp für eine von Google Ventures entwickelte Podcast-App an](https://www.youtube.com/watch?v=iqGLrMjBLZ4)
 
-## Part 2
+## Teil 2
 
-### Determining Direction
+### Bestimmung der Richtung
 
-**[Watch this Design Sprint Wednesday video talks about how to make a decision on which direction to take with your project](https://www.youtube.com/watch?v=7BKBFOOKbNo0)**
+**[Sehen Sie sich dieses Video zum Design Sprint Wednesday an, in dem es darum geht, wie Sie eine Entscheidung darüber treffen, welche Richtung Ihr Projekt einschlagen soll](https://www.youtube.com/watch?v=7BKBFOOKbNo0)**
 
-Before moving forward ask yourselves these questions in order to properly determine the scope of your project:
+Bevor Sie weitermachen, stellen Sie sich diese Fragen, um den Umfang Ihres Projekts richtig zu bestimmen:
 
-* How can we trim off extra, unnecessary details?
-* What is the core of our concept?
-* Who is responsible for which aspects of our product?
-* What is the order of events?
-  * What do we need to build first?
-  * What comes after that... etc.
+* Wie können wir zusätzliche, unnötige Details abschneiden?
+* Was ist der Kern unseres Konzepts?
+* Wer ist für welche Aspekte unseres Produkts verantwortlich?
+* Wie ist die Reihenfolge der Ereignisse?
+  * Was müssen wir zuerst bauen?
+  * Was kommt danach... usw.
 
-### Iterating
+### Iterieren
 
-Our goal is to get feedback as quickly as possible, so we can iterate on our concept.
+Unser Ziel ist es, so schnell wie möglich Feedback zu erhalten, damit wir unser Konzept verbessern können.
 
-* When is our product ready to share with others?
-* Who can we share it with?
-* How do we know if our product is complete?
+* Wann ist unser Produkt bereit, mit anderen geteilt zu werden?
+* Mit wem können wir es teilen?
+* Woher wissen wir, ob unser Produkt vollständig ist?
 
-While we build our product, we will learn that some details could be improved. It is best to learn this as quickly as possible. When our product is ready, we should share it with others and get feedback:
+Während wir unser Produkt entwickeln, werden wir feststellen, dass einige Details verbessert werden können. Es ist am besten, dies so schnell wie möglich zu erfahren. Wenn unser Produkt fertig ist, sollten wir es mit anderen teilen und Feedback einholen:
 
-* What feedback did we get?
-* What did they like the product?
-* What did they find confusing?
+* Welche Rückmeldungen haben wir erhalten?
+* Was hat ihnen an dem Produkt gefallen?
+* Was fanden sie verwirrend?

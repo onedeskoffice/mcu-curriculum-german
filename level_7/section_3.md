@@ -1,39 +1,39 @@
-## Section 3: Project Management
+## 3. Abschnitt: Projektmanagement
 
 #### Kanban
 
-Kanban was developed by Toyota in the 1980's. The word comes from the Japanese for "sign" or "card".
+Kanban wurde in den 1980er Jahren von Toyota entwickelt. Das Wort stammt aus dem Japanischen und bedeutet "Zeichen" oder "Karte".
 
-> Kanban is a method for managing knowledge work with an emphasis on just-in-time delivery while not overloading the team members. This approach presents all participants with a full view of the process from task definition to delivery to a customer. Team members pull work from a queue.
+> Kanban ist eine Methode für das Management von Wissensarbeit, bei der der Schwerpunkt auf Just-in-time-Lieferung liegt, ohne dass die Teammitglieder überlastet werden. Bei diesem Ansatz haben alle Beteiligten einen vollständigen Überblick über den Prozess von der Aufgabendefinition bis zur Lieferung an den Kunden. Die Teammitglieder ziehen die Arbeit aus einer Warteschlange.
 
 -- Wikipedia
 
-* [Watch the first 2:15 of this explanation of Kanban](https://www.youtube.com/watch?v=R8dYLbJiTUE)
+* [Sehen Sie sich die ersten 2:15 dieser Erklärung von Kanban an](https://www.youtube.com/watch?v=R8dYLbJiTUE)
 
-Tasks:
+Aufgaben:
 
-* Instructor creates a board for your project
-  This can be on a flip board, white board, or virtually using [Trello](https://trello.com)
-* Students create cards for the individual tasks of their project
+* Der Kursleiter erstellt eine Tafel für Ihr Projekt.
+  Dies kann auf einem Flipboard, einem Whiteboard oder virtuell mit [Trello](https://trello.com) geschehen.
+* Die Schüler erstellen Karten für die einzelnen Aufgaben ihres Projekts.
 
-#### Time Management
+#### Zeitmanagement
 
-We suggest using the Pomodoro Technique in order to get the most out of your build time during this course.
+Wir schlagen vor, die Pomodoro-Technik anzuwenden, um das Beste aus Ihrer Bauzeit in diesem Kurs herauszuholen.
 
-> The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are named pomodoros, the plural in English of the Italian word pomodoro (tomato), after the tomato-shaped kitchen timer that Cirillo used as a university student. The method is based on the idea that frequent breaks can improve mental agility.
+> Die Pomodoro-Technik ist eine Zeitmanagement-Methode, die von Francesco Cirillo in den späten 1980er Jahren entwickelt wurde. Bei dieser Technik wird ein Timer verwendet, um die Arbeit in Intervalle zu unterteilen, die in der Regel 25 Minuten lang sind und durch kurze Pausen unterbrochen werden. Diese Intervalle werden pomodoros genannt, der englische Plural des italienischen Wortes pomodoro (Tomate), nach dem tomatenförmigen Küchentimer, den Cirillo als Student benutzte. Die Methode beruht auf der Idee, dass häufige Pausen die geistige Beweglichkeit verbessern können.
 
 -- [Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
-A pomodoro cycle is 4 sessions of 25 minutes of work and 5 minute breaks, followed by a longer break (usually 15-30 minutes). More information about pomodoro can be found on [pomodorotechnique.com](http://pomodorotechnique.com/).
+Ein Pomodoro-Zyklus besteht aus 4 Sitzungen zu je 25 Minuten Arbeit und 5 Minuten Pause, gefolgt von einer längeren Pause (normalerweise 15-30 Minuten). Weitere Informationen über Pomodoro finden Sie auf [pomodorotechnique.com](http://pomodorotechnique.com/).
 
-Tasks:
+Aufgaben:
 
-* Find a pomodoro timer, real or virtual
+* Finden Sie einen Pomodoro-Timer, real oder virtuell.
 
-#### What else are we going to need?
+#### Was werden wir noch brauchen?
 
-Likely: a server. What else?
+Wahrscheinlich: einen Server. Was noch?
 
-Tasks:
+Aufgaben:
 
-* Instructor faciliates spinning up a group server
+* Die Lehrkraft erleichtert das Aufsetzen eines Gruppenservers

@@ -1,5 +1,5 @@
-## Minecraft U Level 6: Advanced Mod Development
+## Minecraft U Level 6: Fortgeschrittene Mod-Entwicklung
 
 ![](level6.png)
 
-Take your coding and modding skills to the next level with our most rigorous course yet. Create interactive items, plants that grow, mobs with simple AI and more! You'll learn advanced java concepts including events and try-catch statements as well as a taste of rendering and server-client relationships.
+Bringen Sie Ihre Programmier- und Modding-Fähigkeiten auf die nächste Stufe mit unserem bisher anspruchsvollsten Kurs. Erstelle interaktive Gegenstände, Pflanzen, die wachsen, Mobs mit einfacher KI und vieles mehr! Du lernst fortgeschrittene Java-Konzepte wie Events und Try-Catch-Anweisungen und bekommst einen Einblick in Rendering und Server-Client-Beziehungen.
