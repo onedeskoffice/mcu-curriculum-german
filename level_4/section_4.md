@@ -1,31 +1,31 @@
-# Section 4: Advanced Mining
+# Abschnitt 4: Fortgeschrittener Bergbau
 
-Another useful program! You can point this one at a wall and it will dig a two block tall and one block wide tunnel. It will also place torches every 8 blocks.
+Ein weiteres nützliches Programm! Du kannst dieses Programm auf eine Wand richten und es gräbt einen zwei Blöcke hohen und einen Block breiten Tunnel. Außerdem platziert es alle 8 Blöcke Fackeln.
 
 ```
-edit tunnel
+Tunnel bearbeiten
 ```
 
-We're going to be building this program with **functions**. Functions are what you use in more complex programs so that you don't have to type all of your code in the same block over and over again. Think of a function as something that does one thing really well, and if you put them together, they do a complex task.
+Wir werden dieses Programm mit **Funktionen** aufbauen. Funktionen benutzt man in komplexeren Programmen, damit man nicht den ganzen Code immer wieder in denselben Block eintippen muss. Stellen Sie sich eine Funktion als etwas vor, das eine Sache wirklich gut macht, und wenn Sie sie zusammenfügen, erledigen sie eine komplexe Aufgabe.
 
-The first function we write will check if the turtle is on solid ground, and if not, it will place a block below itself. You define functions like this.
+Die erste Funktion, die wir schreiben, prüft, ob die Schildkröte auf festem Boden steht, und wenn nicht, wird sie einen Block unter sich platzieren. Du definierst Funktionen wie diese.
 
 ```lua
-function placeFloorBlock()
+Funktion placeFloorBlock()
   if not turtle.detectDown() then
     turtle.select(3)
     if turtle.placeDown() then
       return true
     end
-    print("Placing Floor Failed")
+    print("Platzierung des Bodens fehlgeschlagen")
     return false
   end
 end
 ```
 
-Now you can use `placeFloorBlock()` anywhere else in this program and it will run this code.
+Jetzt kannst du `placeFloorBlock()` irgendwo anders in diesem Programm verwenden und es wird diesen Code ausführen.
 
-This next function is a basic check for fuel, and if it sees that the turtle is low on fuel, it will try to refuel from inventory slot 1.
+Die nächste Funktion prüft, ob die Schildkröte noch Treibstoff hat. Wenn sie sieht, dass der Treibstoff knapp wird, wird sie versuchen, aus dem Inventarplatz 1 aufzutanken.
 
 ```lua
 function fuel()
@@ -40,9 +40,9 @@ function fuel()
 end
 ```
 
-You can see that this function returns true if the refueling was successful, and false if not.
+Sie sehen, dass diese Funktion true zurückgibt, wenn das Tanken erfolgreich war, und false, wenn nicht.
 
-Our next function digs our tunnel. The basic idea of this while and if loop is that if the turtle is not moving forward, it will dig, and if it can't dig, it attacks. It also detects blocks above it and digs those as well.
+Unsere nächste Funktion gräbt unseren Tunnel. Die Grundidee dieser while- und if-Schleife ist, dass die Schildkröte gräbt, wenn sie sich nicht vorwärts bewegt, und wenn sie nicht graben kann, greift sie an. Sie erkennt auch die Blöcke über ihr und gräbt auch diese.
 
 ```lua
 function DigAndMove()
@@ -59,7 +59,7 @@ function DigAndMove()
 end
 ```
 
-This function turns the turtle around. Should be obvious.
+Diese Funktion dreht die Schildkröte um. Das sollte offensichtlich sein.
 
 ```lua
 function turnAround()
@@ -68,7 +68,7 @@ function turnAround()
 end
 ```
 
-This is a function that turns the turtle to the right, digs out a block, checks make sure that the block didn't get filled in, and then places a torch in the space. If it fails to place a torch, it returns false, otherwise it returns true.
+Diese Funktion dreht die Schildkröte nach rechts, gräbt einen Block aus, prüft, ob der Block nicht zugeschüttet wurde, und legt dann eine Fackel in die Lücke. Wenn es ihr nicht gelingt, eine Fackel zu platzieren, gibt sie false zurück, andernfalls gibt sie true zurück.
 
 ```lua
 function placeTorch()
@@ -87,7 +87,7 @@ function placeTorch()
 end
 ```
 
-Here we set two variables, one for the length you give as an argument, and one to use in the `moveBack` section of code.
+Hier setzen wir zwei Variablen, eine für die Länge, die du als Argument angibst, und eine, die im `moveBack` Abschnitt des Codes verwendet wird.
 
 ```lua
 local tArgs = { ... }
@@ -95,16 +95,16 @@ local length = tonumber(tArgs[1])
 local moveBack = 0
 ```
 
-The `tArgs[1]` bit of the code above is an **argument**. And argument is something you give a program when you run it. If you run a program like `go forward 10`, then your first argument (`tArgs[1]`) is `forward` and your second argument (`tArgs[2]`) is `10`.
+Der Teil `tArgs[1]` des obigen Codes ist ein **Argument**. Und ein Argument ist etwas, das Sie einem Programm geben, wenn Sie es ausführen. Wenn du ein Programm wie `go forward 10` ausführst, dann ist dein erstes Argument (`tArgs[1]`) `forward` und dein zweites Argument (`tArgs[2]`) ist `10`.
 
-Now we put it all together.
+Jetzt fügen wir alles zusammen.
 
-* First we fuel the turtle by calling `fuel()`.
-* Then we call `DigAndMove()` to move the turtle forward one tunnel section.
-* We increment the `blocksMovedForward` variable to keep track of where we are.
-* Next we check if the block we are on is a multiple of 8.
-* If it is, we call the `placeTorch()` function.
-* At the end, we turn the turtle around and retrace our steps back to the start of the tunnel.
+* Zuerst tanken wir die Schildkröte auf, indem wir `fuel()` aufrufen.
+* Dann rufen wir `DigAndMove()` auf, um die Schildkröte einen Tunnelabschnitt vorwärts zu bewegen.
+* Wir erhöhen die Variable `blocksMovedForward`, um zu verfolgen, wo wir uns befinden.
+* Als nächstes prüfen wir, ob der Block, in dem wir uns befinden, ein Vielfaches von 8 ist.
+* Wenn ja, rufen wir die Funktion `placeTorch()` auf.
+* Am Ende drehen wir die Schildkröte um und gehen unsere Schritte zurück zum Anfang des Tunnels.
 
 ```lua
 local blocksMovedForward = 0
@@ -133,24 +133,24 @@ end
 
 <img src="images/section_4/tunnel-inventory.png" style="width:25%">
 
-This is the turtle's inventory required by the program--fuel in slot 1, torches in slot 2, and floor blocks in slot 3.
+Dies ist das Inventar der Schildkröte, das das Programm benötigt: Treibstoff in Slot 1, Fackeln in Slot 2 und Bodenblöcke in Slot 3.
 
-Call the program, passing the length variable:
+Rufen Sie das Programm auf und übergeben Sie die Variable length:
 
 ```
 tunnel 50
 ```
 
-...will dig a tunnel 50 blocks long.
+...gräbt einen Tunnel, der 50 Blöcke lang ist.
 
-If you have trouble with the above program, try copying it from Pastebin using the following command:
+Wenn Sie Probleme mit dem obigen Programm haben, versuchen Sie, es mit dem folgenden Befehl von Pastebin zu kopieren:
 
 ```
 pastebin get Taenfb85 pastedTunnel
 ```
 
-This will create a program called _pastedTunnel_, using the code at [https://pastebin.com/Taenfb85](https://pastebin.com/Taenfb85) (a copy of the tunnel program).
+Dadurch wird ein Programm namens _pastedTunnel_ erstellt, das den Code unter [https://pastebin.com/Taenfb85](https://pastebin.com/Taenfb85) verwendet (eine Kopie des Tunnelprogramms).
 
-Compare the copied program to yours to see what the differences are.
+Vergleichen Sie das kopierte Programm mit Ihrem, um die Unterschiede festzustellen.
 
-This was a long one, but it allows you to find diamonds much easier. Try digging down to level 12 or 13 and putting six turtles running this program down, with a 2 block space between them. You'll be rich in diamonds in no time.
+Dies war ein langer Weg, aber er ermöglicht es Ihnen, Diamanten viel einfacher zu finden. Versuchen Sie, bis zur Ebene 12 oder 13 zu graben und sechs Schildkröten, die dieses Programm ausführen, mit einem Abstand von 2 Blöcken dazwischen aufzustellen. Du wirst im Handumdrehen reich an Diamanten sein.

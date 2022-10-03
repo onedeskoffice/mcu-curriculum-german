@@ -1,167 +1,167 @@
-# Section 1: ComputerCraft Basics
+# Abschnitt 1: ComputerCraft-Grundlagen
 
-## Introduction
+## Einführung
 
-[ComputerCraft](http://www.computercraft.info/) is a modification for Minecraft that’s all about computer programming. It allows you to build in-game Computers and Turtles, and write programs for them using the Lua programming language. The addition of programming to Minecraft opens up a wide variety of new possibilities for automation and creativity. If you’ve never programmed before, it also serves as excellent way to learn a real world skill in a fun, familiar environment.
+[ComputerCraft] (http://www.computercraft.info/) ist eine Modifikation für Minecraft, bei der sich alles um Computerprogrammierung dreht. Sie ermöglicht es dir, im Spiel Computer und Schildkröten zu bauen und mit der Programmiersprache Lua Programme für sie zu schreiben. Die Erweiterung von Minecraft um die Programmierung eröffnet eine Vielzahl neuer Möglichkeiten für Automatisierung und Kreativität. Wenn du noch nie programmiert hast, ist dies eine hervorragende Möglichkeit, eine Fähigkeit aus der realen Welt in einer unterhaltsamen, vertrauten Umgebung zu erlernen.
 
-This will be your first taste of the ComputerCraft mod, and for some of you, your first time using a command line interface. With this knowledge, you can start using other command line software, and you'll get a solid foundation in simple programming skills.
+Dies wird deine erste Erfahrung mit der ComputerCraft-Mod sein und für einige von euch ist es das erste Mal, dass ihr eine Befehlszeilenschnittstelle benutzt. Mit diesem Wissen können Sie andere Kommandozeilensoftware verwenden, und Sie erhalten eine solide Grundlage für einfache Programmierkenntnisse.
 
-### Installing ComputerCraft
+### Installation von ComputerCraft
 
-ComputerCraft can be downloaded from [http://www.computercraft.info/download/](http://www.computercraft.info/download/) and requires Forge. The easiest way to install Forge and ComputerCraft is using MultiMC from [https://multimc.org/](https://multimc.org/). Create a new instance in MultiMC for Minecraft version `1.8.9`, the latest version of Minecraft supported by ComputerCraft. Click "Edit Instance" on the right, then "Install Forge" on the _Version_ tab:
+ComputerCraft kann von [http://www.computercraft.info/download/](http://www.computercraft.info/download/) heruntergeladen werden und benötigt Forge. Der einfachste Weg, Forge und ComputerCraft zu installieren, ist die Verwendung von MultiMC von [https://multimc.org/](https://multimc.org/). Erstelle eine neue Instanz in MultiMC für Minecraft Version `1.8.9`, die neueste Version von Minecraft, die von ComputerCraft unterstützt wird. Klicke rechts auf "Instanz bearbeiten" und dann auf "Forge installieren" auf der Registerkarte _Version_:
 <img src="images/section_1/install-version.png" style="width:50%">
 
-Then drag the `ComputerCraft1.79.jar` file you downloaded from computercraft.info into the window under the "Loader Mods" tab:
+Ziehen Sie dann die Datei `ComputerCraft1.79.jar`, die Sie von computercraft.info heruntergeladen haben, in das Fenster unter dem Reiter "Loader Mods":
 <img src="images/section_1/install-loader-mods.png" style="width:50%">
 
 <!-- BREAK -->
-### The Command Line
+### Die Kommandozeile
 
-* Open the ComputerCraft world
-* Open your inventory and search for `computer`
-* Place an _Advanced Computer_ (the yellow one) on the ground and right-click on it
+* Öffnen Sie die ComputerCraft-Welt.
+* Öffnen Sie Ihr Inventar und suchen Sie nach "Computer".
+* Platziere einen _Advanced Computer_ (den gelben) auf dem Boden und klicke mit der rechten Maustaste darauf.
 
 <img src="images/section_1/advanced-computer.png" style="width:50%">
 
-When you place a computer and right click on it, the first thing you see is this:
+Wenn du einen Computer platzierst und mit der rechten Maustaste darauf klickst, siehst du als Erstes das hier:
 <img src="images/section_1/ccb1.png" style="width:50%">
 
-This is a command line. Here, we can type words to run programs, and we can look inside folders just like on a real life computer. Let's do that now.
+Dies ist eine Befehlszeile. Hier können wir Wörter eingeben, um Programme auszuführen, und wir können in Ordnern nachsehen, genau wie auf einem echten Computer. Das wollen wir jetzt tun.
 
-* The `ls` command lists the contents of the current folder (aka directory)
-* The `cd` command changes folders (directories)
+* Der Befehl `ls` listet den Inhalt des aktuellen Ordners (auch Verzeichnis genannt) auf.
+* Der Befehl "cd" wechselt Ordner (Verzeichnisse).
 
-Do the following:
+Gehe wie folgt vor:
 
-* Type `cd rom`
-* Type `cd programs`
-* Type `ls`. This will list all the programs in the _programs_ directory
+* Tippe `cd rom`
+* Tippen Sie `cd programs`.
+* Tippen Sie `ls`. Dies wird alle Programme im Verzeichnis _programs_ auflisten
 
 <img src="images/section_1/ccb2.png" style="width:50%">
 
-Up next we'll run the `edit` program and see what it looks like.
-Type `edit time`.
+Als nächstes führen wir das Programm `edit` aus und sehen uns an, wie es aussieht.
+Gib `edit time` ein.
 
 <img src="images/section_1/ccb3.png" style="width:50%">
 
-This is the program you use to edit your programs. The `edit` program is all you need to start writing you own code in ComputerCraft.
+Dies ist das Programm, mit dem Sie Ihre Programme bearbeiten können. Das Programm `edit` ist alles, was Sie brauchen, um Ihren eigenen Code in ComputerCraft zu schreiben.
 
-Exit the `edit` program by pressing `ctrl` (control), using the arrow keys to select exit, and then hitting `enter`.
+Beende das `edit` Programm, indem du `ctrl` (control) drückst, mit den Pfeiltasten exit auswählst und dann `enter` drückst.
 
-### Play text adventure Minecraft inside a ComputerCraft computer
+### Spielen Sie das Textabenteuer Minecraft auf einem ComputerCraft-Computer.
 
-* Type `adventure` and press `enter`
-* Some of the commands available in the Adventure program:
+* Tippe "adventure" ein und drücke "enter".
+* Einige der Befehle, die im Adventure-Programm verfügbar sind:
   * `punch`
-  * `take` or `grab`
-  * `craft` or `make`
+  * `Aufnehmen` oder `Greifen`
+  * `Basteln` oder `Herstellen`
   * `go`
-  * `eat`
+  * `Essen`
   * `inventory`
-  * `look`
-  * `help`
+  * ♪ `look`
+  * `Hilfe`
 
 <img src="images/section_1/adventure.png" style="width:50%">
 
-If you haven't noticed by now, Adventure is really just text-based Minecraft. You're playing Minecraft on a computer inside Minecraft.
+Falls du es noch nicht bemerkt hast: Adventure ist eigentlich nur ein textbasiertes Minecraft. Du spielst Minecraft auf einem Computer innerhalb von Minecraft.
 
-### Peripherals
+### Peripheriegeräte
 
-Peripherals are blocks that you put next to a computer. Then you can use programs on the computer to "talk" to those peripherals.
+Peripheriegeräte sind Blöcke, die du neben den Computer stellst. Dann kannst du Programme auf dem Computer verwenden, um mit diesen Peripheriegeräten zu "sprechen".
 
-#### Use a disk drive
+#### Benutze ein Laufwerk
 
-Open your inventory and search for _Disk_. Choose the _Disk Drive_ and place it next to your computer.
+Öffne dein Inventar und suche nach _Disk_. Wähle das _Diskettenlaufwerk_ und lege es neben deinen Computer.
 
 <img src="images/section_1/disk-drive.png" style="width:50%">
 
-Place any music disk in the disk drive. Then right-click on your computer again and run the program _dj_ just by typing `dj`. It will play whatever music disk is in the disk drive, just like a Jukebox block.
+Legen Sie eine beliebige Musikdiskette in das Laufwerk. Klicken Sie dann wieder mit der rechten Maustaste auf Ihren Computer und starten Sie das Programm _dj_, indem Sie einfach `dj` eingeben. Es spielt die Musikdiskette, die sich im Laufwerk befindet, genau wie ein Jukebox-Block.
 
-#### Create a monitor
+#### Erstelle einen Monitor
 
-* Open your inventory and search for `monitor`
-* Place 12 monitors in a 4 wide by 2 high pattern to create a giant widescreen monitor
-* Place a computer next to the monitor, on the left side.
-  * It matters what side the monitor is on, so make sure you check!
+* Öffne dein Inventar und suche nach `Monitor`.
+* Platziere 12 Monitore in einem Raster von 4 x 2 hoch, um einen riesigen Breitbildmonitor zu erstellen.
+* Platziere einen Computer neben dem Monitor, auf der linken Seite.
+  * Es ist wichtig, auf welcher Seite der Monitor steht, also sieh nach!
 
-#### Paint a picture
+#### Ein Bild malen
 
-* Right click the computer to open it, and then type `monitor right paint mypainting`
-* Press escape to close the computer and then look at the monitor.
+* Klicken Sie mit der rechten Maustaste auf den Computer, um ihn zu öffnen, und geben Sie dann "Monitor rechts malen mein Bild" ein.
+* Drücken Sie die Escape-Taste, um den Computer zu schließen, und schauen Sie dann auf den Monitor.
 
 <img src="images/section_1/paint.png" style="width:50%">
 
-You should see something that looks like a canvas on the screen. Try right-clicking on the canvas to paint. Right-click on a color to select that color. When you're done, open the computer again, and press `ctrl` then `enter`. This will save the painting to a file called `mypainting`.
+Auf dem Bildschirm sollten Sie etwas sehen, das wie eine Leinwand aussieht. Versuchen Sie, mit der rechten Maustaste auf die Leinwand zu klicken, um zu malen. Klicken Sie mit der rechten Maustaste auf eine Farbe, um diese Farbe auszuwählen. Wenn Sie fertig sind, öffnen Sie den Computer erneut und drücken Sie "Strg" und dann "Enter". Dadurch wird das Bild in einer Datei mit dem Namen `mypainting` gespeichert.
 
-* To quit any running program without saving, hold down `ctrl + t`
+* Um ein laufendes Programm zu beenden, ohne zu speichern, halten Sie `ctrl + t` gedrückt.
 
-* To restart the computer, hold down `ctrl + r`
+* Um den Computer neu zu starten, halten Sie `ctrl + r` gedrückt.
 
 <!-- BREAK -->
-## Turtles
+## Schildkröten
 
 <img src="images/section_1/Turtles.png" style="width:25%">
 
-Turtles are programmable robots that you can use to collect resources, clear terrain, and other such tasks. They run an OS called turtleOS and the programs they run can be stored on internal memory or floppy disks.  There are farming, mining, crafting, and melee turtles. They are categorized based on the Diamond tool* you equip them with.
+Schildkröten sind programmierbare Roboter, die du zum Sammeln von Ressourcen, zum Räumen von Gelände und für andere Aufgaben einsetzen kannst. Auf ihnen läuft ein Betriebssystem namens turtleOS, und die Programme, die sie ausführen, können auf dem internen Speicher oder auf Disketten gespeichert werden.  Es gibt Farming-, Mining-, Crafting- und Melee-Turtles. Sie werden nach dem Diamant-Werkzeug* eingeteilt, mit dem du sie ausrüstest.
 
-Note: Tools equipped to turtles will not wear out and turtles themselves are indestructible (unless you break them yourself).  This makes them one of the safest ways to utilize diamond tools, not to mention the time they will save you.
+Hinweis: Werkzeuge, mit denen Schildkröten ausgerüstet sind, nutzen sich nicht ab, und Schildkröten selbst sind unzerstörbar (es sei denn, du machst sie selbst kaputt).  Das macht sie zu einer der sichersten Arten, Diamantwerkzeuge zu verwenden, ganz zu schweigen von der Zeit, die sie dir sparen.
 
-Like any robot, turtles require fuel.  They can get energy from anything that would work in a furnace as well as other more advanced options we'll get to later.  Different types of fuel will yield different _fuel counts_ which is the number of blocks the turtle can move with that amount of fuel.  For example, coal will give the turtle 80 fuel, so the turtle can now move 80 blocks.
+Wie jeder Roboter benötigen auch Schildkröten Treibstoff.  Sie können Energie aus allem beziehen, was in einem Ofen funktioniert, sowie aus anderen fortschrittlicheren Optionen, zu denen wir später noch kommen werden.  Verschiedene Arten von Treibstoff ergeben unterschiedliche _Brennstoffzahlen_, d.h. die Anzahl der Blöcke, die die Schildkröte mit dieser Menge Treibstoff bewegen kann.  Zum Beispiel gibt Kohle der Schildkröte 80 Treibstoff, also kann die Schildkröte 80 Blöcke bewegen.
 
-### Dancing turtles
+### Tanzende Schildkröten
 
-1. Open your inventory and search for `turtle`
-1. Place a turtle or two on the ground
-1. Right-click on the turtle
-1. Run the `dance` program
+1. Öffne dein Inventar und suche nach "Schildkröte".
+1. Lege eine oder zwei Schildkröten auf den Boden
+1. Rechtsklick auf die Schildkröte
+1. Führe das Programm `dance` aus
 
-## Make it move
+## Bewege sie
 
-Turtles have several default programs including the "go" program.
+Schildkröten haben mehrere Standardprogramme, darunter das Programm "go".
 
-1. Select a turtle and put a _coal_ in its inventory.
-2. type `refuel`
-  1. Notice it says _Fuel level is 80_
-3. type `go forward 10` and watch it go!
-  1. type `refuel` and notice that the fuel level is now 70.
-  2. Whenever there is no fuel source in the turtle's inventory, you can type `refuel` to check its fuel level.
+1. Wähle eine Schildkröte und lege eine _Kohle_ in ihr Inventar.
+2. Gib "Treibstoff" ein.
+  1. Es wird angezeigt: _Treibstoffstand ist 80_.
+3. Tippe _Vorwärts 10_ und sieh zu, wie es läuft!
+  1. Tippe "Treibstoff" und bemerke, dass der Treibstoffstand jetzt 70 ist.
+  2. Immer wenn die Schildkröte keinen Treibstoff im Inventar hat, kannst du "refuel" eingeben, um den Treibstoffstand zu überprüfen.
 
-The "go" program has the following format:
-`go <direction> <distance>`
+Das "go"-Programm hat das folgende Format:
+Gehe <Richtung> <Entfernung>".
 
-Note: For fast/mass refueling, type `refuel all`
+Hinweis: Für schnelles/Massentanken gibst du "refuel all" ein.
 
-## Use built-in turtle programs
+## Eingebaute Schildkrötenprogramme verwenden
 
 ### Tunnel
 
-`tunnel` is a built in tunneling program. 
+`tunnel` ist ein eingebautes Tunnelbau-Programm. 
 
-`tunnel <length>`
+`Tunnel <Länge>`
 
-Make sure your turtle has plenty of fuel in slot 1! The turtle will also not place any torches, so the tunnel will be very dark! The turtle will also not return to you, so you'll have to go get it at the end of the tunnel.
+Achte darauf, dass deine Schildkröte genügend Treibstoff in Slot 1 hat! Die Schildkröte wird auch keine Fackeln platzieren, so dass der Tunnel sehr dunkel sein wird! Die Schildkröte kehrt auch nicht zu dir zurück, du musst sie also am Ende des Tunnels abholen.
 
-### Excavate
+### Ausgraben
 
-`excavate` is a built in digging program. It will dig a square straight down until it hits bedrock. It will deposit what it mines in a chest placed behind its starting point.
+`excavate` ist ein eingebautes Grabungsprogramm. Es gräbt ein Viereck gerade nach unten, bis es auf Grundgestein trifft. Es legt das, was es ausgräbt, in einer Truhe ab, die sich hinter dem Startpunkt befindet.
 
-`excavate <width>`
+Ausgraben <Breite>
 
-Make sure your turtle has plenty of fuel in slot 1! The turtle *will* return to its starting point. This program leaves giant holes in the ground that will kill you should you fall into them. But they are convenient for rapid descents to rare ore levels, as well as for raw materials collection:
+Achte darauf, dass deine Schildkröte genügend Treibstoff in Slot 1 hat! Die Schildkröte kehrt *zu* ihrem Startpunkt zurück. Dieses Programm hinterlässt riesige Löcher im Boden, die dich töten werden, wenn du hineinfällst. Aber sie sind praktisch für den schnellen Abstieg zu seltenen Erzebenen und zum Sammeln von Rohstoffen:
 <img src="images/section_1/excavate.png" style="width:50%">
 
-## Crafting turtles
+## Crafting-Schildkröten
 
-Computers and turtles, especially the useful tool-equipped turtles, are rather expensive.
+Computer und Schildkröten, insbesondere die nützlichen, mit Werkzeugen ausgestatteten Schildkröten, sind recht teuer.
 
-Here is the advanced computer recipe:
+Hier ist das fortgeschrittene Computerrezept:
 
 <img src="images/section_1/craft-advanced-computer.png" style="width:50%">
 
-Here is the turtle recipe:
+Hier ist das Schildkrötenrezept:
 
 <img src="images/section_1/craft-turtle.png" style="width:50%">
 
-To equip a turtle, craft it with a brand new diamond tool:
+Um eine Schildkröte auszurüsten, musst du sie mit einem brandneuen Diamantwerkzeug herstellen:
 
 <img src="images/section_1/craft-mining-turtle.png" style="width:50%">

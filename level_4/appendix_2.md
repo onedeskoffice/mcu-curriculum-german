@@ -1,16 +1,16 @@
-## Efficient Tree Farming
+## Effiziente Baumbewirtschaftung
 
-We learned in Section 3 how to get turtles to chop down trees for us. But we can set up an efficient tree farm that outputs twice as much wood, refuels efficiently and collects saplings.
+In Abschnitt 3 haben wir gelernt, wie man Schildkröten dazu bringt, Bäume für uns zu fällen. Aber wir können eine effiziente Baumfarm einrichten, die doppelt so viel Holz produziert, effizient tankt und Setzlinge sammelt.
 
-The setup for our tree farm is so:
+Der Aufbau unserer Baumfarm sieht folgendermaßen aus:
 
-* 2 9x9, 1 block deep holes
-* flowing water in each corner--this leaves one dry bock in the middle
-* a tunnel below leading to the center block
-* a hopper in the center block, into a chest below, to collect saplings
-* one dirt block floating 1 block above the hopper block for the tree
-* a turtle facing the sapling/tree
-* a chest behind the turtle for collecting logs
+* 2 9x9, 1 Block tiefe Löcher
+* fließendes Wasser in jeder Ecke - so bleibt ein trockener Block in der Mitte
+* ein Tunnel darunter, der zum mittleren Block führt
+* ein Trichter im mittleren Block, in eine Truhe darunter, um Setzlinge zu sammeln
+* ein Schmutzblock, der 1 Block über dem Trichterblock für den Baum schwebt
+* eine Schildkröte, die auf den Setzling/Baum gerichtet ist
+* eine Truhe hinter der Schildkröte zum Sammeln von Baumstämmen
 
 ![](images/appendix_2/treefarm-setup.png)
 

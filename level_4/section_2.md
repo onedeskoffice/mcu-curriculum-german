@@ -1,29 +1,29 @@
-# Section 2: Cobblestone Miner
+# Abschnitt 2: Cobblestone Miner
 
-So far all we've done is run commands that are already built into the turtles and computers. Starting in this section, we'll write some of our own programs, to make the turtle do whatever we want it to.
+Bis jetzt haben wir nur Befehle ausgeführt, die bereits in den Schildkröten und Computern eingebaut sind. Ab diesem Abschnitt werden wir einige eigene Programme schreiben, damit die Schildkröte das tut, was wir wollen.
 
-Let's start off with a simple program, one that will make sure you never run out of cobblestone again. If you've used a cobblestone generator before, this is similar to that, except that it's a turtle doing the harvesting, not you.
+Beginnen wir mit einem einfachen Programm, das dafür sorgt, dass dir nie wieder der Pflasterstein ausgeht. Wenn du schon einmal einen Pflasterstein-Generator benutzt hast, ist das hier ähnlich, nur dass die Schildkröte die Steine erntet und nicht du.
 
-First build a cobblestone generator. If you mine out that cobblestone, more will replace it after it breaks. Now we need to place our turtle so it can mine the cobblestone for us. Place your turtle facing the cobblestone, and put a chest behind it. Make sure you use a `mining turtle`, and to make your code easier to write, use an `advanced mining turtle`.
+Baue zunächst einen Kopfsteinpflaster-Generator. Wenn du den Pflasterstein abbaust, wird er durch neue ersetzt, wenn er zerbricht. Jetzt müssen wir unsere Schildkröte so platzieren, dass sie das Kopfsteinpflaster für uns abbauen kann. Platziere deine Schildkröte mit Blick auf das Kopfsteinpflaster und stelle eine Truhe hinter sie. Vergewissere dich, dass du eine "Bergbauschildkröte" verwendest, und um deinen Code einfacher zu schreiben, verwende eine "fortgeschrittene Bergbauschildkröte".
 
 <img src="images/section_2/cobblefarm1.png" style="width:50%">
 
-Now we need to set our turtle's label, so that if we ever break him, he'll keep the programs we write. Type `label set cobblefarmer` and press `enter`:
+Jetzt müssen wir das Label unserer Schildkröte setzen, so dass sie die Programme, die wir geschrieben haben, behält, wenn wir sie jemals kaputt machen. Tippe `label set cobblefarmer` und drücke `enter`:
 <img src="images/section_2/cobblefarm2.png" style="width:50%">
 
-Congrats! You've done all the actual block placing you need to. Now we can start writing code. Type `edit cobblefarm` and press `enter`. This will open the editing program and let you start writing your own code:
+Herzlichen Glückwunsch! Sie haben alle notwendigen Blockplatzierungen vorgenommen. Jetzt können wir anfangen, Code zu schreiben. Tippe `edit cobblefarm` und drücke `enter`. Dadurch wird das Bearbeitungsprogramm geöffnet und Sie können mit dem Schreiben Ihres eigenen Codes beginnen:
 <img src="images/section_2/cobblefarm3.png" style="width:50%">
 
-The editor program looks like this:
+Das Editorprogramm sieht wie folgt aus:
 <img src="images/section_2/cobblefarm4.png" style="width:50%">
 
-Since you typed `edit cobblefarm`, your program will be called `cobblefarm` when you save it. To open the `Save/Run/Exit` menu, press `control` or `ctrl` on your keyboard. The text in the corner that says `Ln 1` is the line counter. When you write code, it's split up into lines, just like regular writing. Whenever there's an error in your code, it will tell you which line the error is on, and that's when this line counter is really useful.
+Da Sie `edit cobblefarm` eingegeben haben, wird Ihr Programm beim Speichern `cobblefarm` heißen. Um das Menü `Speichern/Ausführen/Beenden` zu öffnen, drücken Sie `Steuerung` oder `Strg` auf Ihrer Tastatur. Der Text in der Ecke, auf dem "Ln 1" steht, ist der Zeilenzähler. Wenn Sie Code schreiben, wird er in Zeilen aufgeteilt, genau wie beim normalen Schreiben. Wann immer ein Fehler in Ihrem Code auftritt, wird Ihnen angezeigt, in welcher Zeile der Fehler auftritt, und genau dann ist dieser Zeilenzähler wirklich nützlich.
 
-Let's start writing some code! Start off by copying down the code written below. This is called a while loop. The `while` command checks if something is true or false and then keeps running the code if the thing is true. The `do` part is what tells the computer that you're done defining the loop and you want it to start running code. At the end of every loop you write, you have to have the code `end`. This tells the program to end the looped section of code.
+Fangen wir an, etwas Code zu schreiben! Beginnen Sie mit dem Kopieren des unten stehenden Codes. Dies ist eine sogenannte while-Schleife. Der "while"-Befehl prüft, ob etwas wahr oder falsch ist, und führt dann den Code weiter aus, wenn es wahr ist. Der "do"-Teil teilt dem Computer mit, dass du mit der Definition der Schleife fertig bist und dass du möchtest, dass er den Code ausführt. Am Ende jeder Schleife, die du schreibst, musst du den Code "end" einfügen. Damit wird dem Programm mitgeteilt, dass der Codeabschnitt der Schleife beendet werden soll.
 
-Since we wrote `while true do`, the code will run forever, because the statement `true`, by itself, will always be `true` and not `false`.
+Da wir `while true do` geschrieben haben, wird der Code für immer laufen, weil die Anweisung `true` für sich genommen immer `true` und nicht `false` sein wird.
 
-```lua
+`lua
 while true do
 
 end
@@ -31,15 +31,15 @@ end
 
 <img src="images/section_2/cobblefarm5.png" style="width:50%">
 
-Next we'll fill in our loop with some code. All we need for this program is two commands. Copy down the code as shown below. The command `turtle.dig()` tells the turtle to mine the block in front of it. Once it mines the block, it will have it in it's inventory. The second command is to put the cobblestone into a chest, and it looks like we made a mistake! There are command for `turtle.drop()`, `turtle.dropUp()`, and `turtle.dropDown()`, but nothing for `turtle.dropBack()`. Instead we'll just use `turtle.dropUp()` for now.
+Als nächstes füllen wir unsere Schleife mit etwas Code. Alles, was wir für dieses Programm brauchen, sind zwei Befehle. Kopieren Sie den Code wie unten gezeigt. Der Befehl `turtle.dig()` weist die Schildkröte an, den Block vor ihr abzubauen. Sobald sie den Block abbaut, hat sie ihn in ihrem Inventar. Der zweite Befehl ist, den Pflasterstein in eine Truhe zu legen, und es sieht so aus, als hätten wir einen Fehler gemacht! Es gibt Befehle für `turtle.drop()`, `turtle.dropUp()`, und `turtle.dropDown()`, aber nichts für `turtle.dropBack()`. Stattdessen werden wir jetzt einfach `turtle.dropUp()` verwenden.
 
 <img src="images/section_2/cobblefarm6.png" style="width:50%">
 
-Once you've written you two lines of code, press `control` or `ctrl` on your keyboard to open the menu, and then press `enter` to save your program. Now press `control` again, press the `right arrow key` to move to `exit`, and then press `enter` to close the editor program.
+Wenn du deine zwei Zeilen Code geschrieben hast, drücke "Strg" oder "Ctrl" auf deiner Tastatur, um das Menü zu öffnen, und drücke dann "Enter", um dein Programm zu speichern. Jetzt drückst du wieder "Strg", drückst die "rechte Pfeiltaste", um auf "Beenden" zu gehen, und drückst dann "Enter", um das Editorprogramm zu schließen.
 
-Type `cobblefarm` and press `enter`. This will start your program! If you press `escape`, you'll see that your turtle is gathering cobblestone for you.
+Tippe `cobblefarm` und drücke `enter`. Damit wird dein Programm gestartet! Wenn du `escape` drückst, wirst du sehen, dass deine Schildkröte Pflastersteine für dich sammelt.
 
-Now to put the cobble in the chest, you need to turn the turtle around and use the `drop` command to place the cobble in the chest. Modify your program to this:
+Um das Kopfsteinpflaster in die Truhe zu legen, musst du die Schildkröte umdrehen und den Befehl `drop` verwenden, um das Kopfsteinpflaster in die Truhe zu legen. Ändere dein Programm wie folgt:
 
 ```lua
 while true do
@@ -52,10 +52,10 @@ while true do
 end
 ```
 
-*Do not forget to save!*
+*Vergessen Sie nicht zu speichern!
 
 <img src="images/section_2/cobblefarm7.png" style="width:50%">
 
-Once the chest is full, you can open your turtle again and hold down `control` and `t` at the same time to terminate your program.
+Wenn die Truhe voll ist, kannst du deine Schildkröte wieder öffnen und gleichzeitig `control` und `t` gedrückt halten, um dein Programm zu beenden.
 
-**Congratulations!** You just wrote your first simple program in ComputerCraft. In the next few sections, we'll write more useful programs, and more complex ones.
+**Glückwunsch!** Du hast gerade dein erstes einfaches Programm in ComputerCraft geschrieben. In den nächsten Abschnitten werden wir mehr nützliche und komplexere Programme schreiben.

@@ -1,12 +1,12 @@
-## Food farming
+## Lebensmittelanbau
 
-This program will continuously farm any square food farm.
+Dieses Programm bewirtschaftet kontinuierlich eine beliebige quadratische Nahrungsmittelfarm.
 
 ![](images/appendix_3/farm-setup.png)
 
-You can `pastebin` this code from `RgMwfx6y`.
+Du kannst diesen Code von `RgMwfx6y` einfügen.
 
-Fuel goes in the first slot, seeds (or other plantable item) in the second.
+Treibstoff kommt in den ersten Slot, Samen (oder andere pflanzbare Gegenstände) in den zweiten.
 
 ```lua
 function fuel()

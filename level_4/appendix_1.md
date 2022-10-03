@@ -1,8 +1,8 @@
-## Turtle Program Boilerplate
+## Turtle Programm Boilerplate
 
-This section contains some turtle code that can make writing new turtle programs easier. It contains what are called _helper functions_ to handle certain things (like refueling) and make other things shorter to write (like turning around).
+Dieser Abschnitt enthält Turtle-Code, der das Schreiben neuer Turtle-Programme erleichtern kann. Er enthält sogenannte _Hilfsfunktionen_, um bestimmte Dinge zu handhaben (wie Tanken) und andere Dinge kürzer zu machen (wie Umdrehen).
 
-You can `pastebin` this code from [https://pastebin.com/7r6V30wi](https://pastebin.com/7r6V30wi).
+Du kannst diesen Code von [https://pastebin.com/7r6V30wi](https://pastebin.com/7r6V30wi) `einfügen`.
 
 ```lua
 function fuel()

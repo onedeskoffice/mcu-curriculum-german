@@ -1,13 +1,13 @@
-## Minecraft U Level 4: ComputerCraft
+## Minecraft U Level 4: ComputerBasteln
 
 ![](images/level4.png)
 
-Use the Minecraft mod ComputerCraft to learn the basics of programming and then apply those skills via your own in-game robots. These robots can do anything, from build you a house to find and mine diamonds for you. The only limit is your ability to direct them. At the advanced level, we’ll discuss the limitations of computers and how to work around them.
+Mit der Minecraft-Mod ComputerCraft kannst du die Grundlagen des Programmierens erlernen und diese Fähigkeiten dann in deinen eigenen Robotern im Spiel anwenden. Diese Roboter können alles Mögliche tun, vom Hausbau bis zur Suche und Förderung von Diamanten. Die einzige Grenze ist deine Fähigkeit, sie zu steuern. Auf der fortgeschrittenen Ebene werden wir die Grenzen von Computern besprechen und wie man sie umgehen kann.
 
-### Table of Contents
+### Inhaltsverzeichnis
 
-* Section 1: ComputerCraft Basics (Using the Command Line)  
-* Section 2: Cobblestone farmer (while loop)  
-* Section 3: Tree farmer (control statements)  
-* Section 4: Mining (functions, vars, and args)  
-* Section 5: House builder (for loop, input verification)
+* Abschnitt 1: ComputerCraft-Grundlagen (Verwendung der Befehlszeile)  
+* Abschnitt 2: Pflastersteinbauer (while-Schleife)  
+* Abschnitt 3: Baumfarmer (Steueranweisungen)  
+* Abschnitt 4: Bergbau (Funktionen, vars und args)  
+* Abschnitt 5: Hausbauer (for-Schleife, Eingabeüberprüfung)

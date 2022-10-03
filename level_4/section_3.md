@@ -1,33 +1,48 @@
-# Section 3: Chopping Trees
+# Abschnitt 3: Bäume fällen
 
-From now on, all the code you see in this book will be text only, not a screenshot from the game. It's still the same code, and it will work just like a screenshot would.
+Von nun an wird der gesamte Code in diesem Buch nur noch als Text dargestellt, nicht mehr als Screenshot aus dem Spiel. Es ist immer noch derselbe Code, und er wird genauso funktionieren wie ein Bildschirmfoto.
 
-For this section, we should pick another repetitive task that we have to do often and give it to the turtle. Let's use tree chopping! That takes awhile, and you can always use more wood.
+Für diesen Abschnitt sollten wir eine andere sich wiederholende Aufgabe wählen, die wir oft erledigen müssen, und sie der Schildkröte übertragen. Nehmen wir das Häckseln von Bäumen! Das dauert eine Weile, und man kann immer mehr Holz gebrauchen.
 
-For this program, you need:
+Für dieses Programm brauchst du:
 
-* An `Advanced Mining Turtle`. (Mining turtles are the most versatile, as they can break any block.)
-* A birch sapling. Birch works best because it always grows straight up without branches.
+* Eine "Fortgeschrittene Bergbau-Schildkröte". (Bergbauschildkröten sind am vielseitigsten, da sie jeden Block zerbrechen können.)
+* Einen Birkensprössling. Die Birke eignet sich am besten, weil sie immer gerade nach oben wächst und keine Äste hat.
 
-Let's kick it off by putting our items in the correct places. Plant the sapling on some dirt, make sure it has plenty of room on all sides to grow, and then put the turtle down facing the sapling.
+Beginnen wir damit, unsere Gegenstände an den richtigen Stellen zu platzieren. Pflanze das Bäumchen in die Erde und sorge dafür, dass es auf allen Seiten genügend Platz zum Wachsen hat.
 
-Remember to label your turtle whenever you make a new program. Use `label set treefarmer`.
+Vergiss nicht, deine Schildkröte zu beschriften, wenn du ein neues Programm erstellst. Benutze `label set treefarmer`.
 
 <img src="images/section_3/treefarm.png" style="width:50%">
 
-Now let's start writing our program. You'll want to put your code in a while loop again, since we want it to always run.
+Fangen wir nun an, unser Programm zu schreiben. Du solltest deinen Code wieder in eine while-Schleife einbauen, da er immer laufen soll.
 
-```lua
+``lua
 while true do
 
 end
 ```
 
-Now think about what you need to do to chop down a tree. First you have to break the wood, then move up (breaking any leaves in your way), then break again. Once there are no more blocks to chop, you have to go back to where you came from and put your spoils in a chest.
+Überlege nun, was du tun musst, um einen Baum zu fällen. Zuerst musst du das Holz brechen, dann nach oben gehen (wobei du alle Blätter, die sich dir in den Weg stellen, zerbrichst) und dann wieder brechen. Sobald es keine Blöcke mehr zu fällen gibt, musst du wieder dorthin zurückgehen, wo du hergekommen bist, und deine Beute in eine Truhe legen.
 
-Thinking through programs like this before you write them will make it easier to organize them, and will make it more likely for your program to work on the first try.
+Wenn du Programme wie dieses durchdenkst, bevor du sie schreibst, ist es einfacher, sie zu organisieren, und es ist wahrscheinlicher, dass dein Programm gleich beim ersten Versuch funktioniert.
 
-There are a few fancy commands that let turtles look at what kind of block is in front of them. One of them is `turtle.inspect()`. We'll use this and a **variable** to look at the block in front of the turtle. A variable is just a store for some data. We can set variables to `true`, `false`, `elbow`, `1231241`, or anything else we can think of.
+Es gibt ein paar schicke Befehle, mit denen die Schildkröten sehen können, welche Art von Block vor ihnen liegt. Einer von ihnen ist `turtle.inspect()`. Wir werden diesen Befehl und eine **Variable** benutzen, um den Block vor der Schildkröte zu untersuchen. Eine Variable ist einfach ein Speicher für einige Daten. Wir können Variablen auf `true`, `false`, `elbow`, `1231241`, oder alles andere setzen, was uns einfällt.
+
+`lua
+while true do
+  local erfolg, daten = turtle.inspect()
+  print(daten.name)
+end
+```
+
+Dieser Code setzt `success` auf `true` oder `false`, je nachdem ob er einen Block findet oder nicht. Er setzt auch `data` auf den gefundenen Block. Sie können dann `data.name` verwenden, um den Namen des Blocks als **String** zu erhalten.
+
+Eine **Zeichenkette** ist eine Art von Daten in einem Programm. Man kann Strings, Zahlen und Boolesche Werte (die nur wahr oder falsch sind) in einem Programm haben.
+
+Hier verwenden wir die Funktion `print()`, um den Namen auszudrucken. Wenn du diesen Code ausführst, während die Schildkröte vor einem Bäumchen steht, druckt er für immer `minecraft:sapling` aus. Sobald der Baum wächst, wird er stattdessen `minecraft:log` ausgeben.
+
+Jetzt, wo wir wissen, auf welchen Block wir schauen, können wir anfangen, Bäume zu fällen. Stelle sicher, dass deine Schildkröte vorher aufgetankt wird!
 
 ```lua
 while true do
@@ -36,13 +51,14 @@ while true do
 end
 ```
 
-This code will set `success` to `true` or `false` depending on if it sees a block or not. It also sets `data` to the the block it finds. You can then use `data.name` to get the name of the block as a **string**.
 
-A **string** is a type of data in a program. You can have strings, numbers, and booleans (which are just true or false) in a program.
+Obwohl unser Programm die ganze Zeit nach einem Element sucht, wird es nur dann etwas tun, wenn dieses Element ein `minecraft:log` ist. Wir haben dies mit einer **if/then-Anweisung** erreicht.
 
-Here we use the `print()` function to print out the name. If you run this code while the turtle is facing a sapling, it prints out `minecraft:sapling` forever. Once the tree grows, it will print out `minecraft:log` instead.
+Eine "if/then"-Anweisung ist ähnlich wie eine "while"-Schleife, weil sie prüft, ob etwas wahr ist. Hier prüfen wir, ob das Element ein Log ist oder nicht. Wenn ja, wird der Code innerhalb der Anweisung ausgeführt, wenn nicht, wird der Code übersprungen. Der Code wird nur einmal ausgeführt, und dann wird das Programm fortgesetzt.
 
-Now that we can check what block we're looking at, we can start cutting down trees. Make sure your turtle is refueled first!
+Wir fügen außerdem eine weitere while-Schleife in die if/then-Anweisung ein. Diese macht das Gleiche immer und immer wieder, bis keine Blöcke mehr vor der Schildkröte stehen.
+
+Fügen wir nun den Code ein, um den Baum zu fällen.
 
 ```lua
 while true do
@@ -55,32 +71,12 @@ while true do
 end
 ```
 
-Now, even though our program checks all the time for an item, it will only start doing things if that item is a `minecraft:log`. We did this by using an **if/then statement**.
 
-An `if/then` statement is similar to a while loop because it checks if something is true. Here we check if the item is a log or not. If it is, the code inside the statement runs, if not, then the code is skipped. The code will only run once if it does run, and then the program will continue.
-
-We also put another while loop inside the if/then statement. This will keep doing the same thing over and over until there are no blocks in front of the turtle.
-
-Now let's fill in the code to cut down the tree.
+Dieser Code hackt den Baum und bricht die Blätter ab, bis er die Spitze erreicht, und hält dann an. Danach müssen wir wieder nach unten gehen. Wir können das mit einer weiteren while-Schleife machen.
 
 ```lua
 while true do
-  local success, data = turtle.inspect()
-  if data.name == "minecraft:log" then
-    while turtle.detect() do
-      turtle.dig()
-      turtle.digUp()
-      turtle.up()
-    end
-  end
-end
-```
-
-This code will chop the tree and break leaves until it gets to the top, and then stop. After that we have to go back down. We can do that using another while loop.
-
-```lua
-while true do
-  local success, data = turtle.inspect()
+  local erfolg, daten = turtle.inspect()
   if data.name == "minecraft:log" then
     while turtle.detect() do
       turtle.dig()
@@ -94,11 +90,12 @@ while true do
 end
 ```
 
-Now we're back where we started, and we have a number of logs in our inventory. Try running your program! If you get an error, look for the line number in the error and double check that line.
+Jetzt sind wir wieder da, wo wir angefangen haben, und wir haben eine Reihe von Protokollen in unserem Inventar. Versuchen Sie, Ihr Programm auszuführen! Wenn Sie einen Fehler erhalten, suchen Sie nach der Zeilennummer in der Fehlermeldung und überprüfen Sie diese Zeile.
 
-Remember to hold down `control` + `t` to terminate the program.
+Vergessen Sie nicht, "Strg" + "t" gedrückt zu halten, um das Programm zu beenden.
 
-We now have one more thing to do: drop all the logs and refuel. We can refuel with some of the logs we just gathered, so this turtle will be able to run forever without intervention. We should place a chest below the turtle's starting place and have the turtle put the wood into it. You'll only need to gather the logs out of the chest.
+Jetzt müssen wir nur noch eines tun: alle Protokolle löschen und auftanken. Wir können mit einigen der Logs, die wir gerade gesammelt haben, auftanken, so dass diese Schildkröte für immer ohne Eingreifen laufen kann. Wir sollten eine Truhe unter dem Startplatz der Schildkröte platzieren und die Schildkröte das Holz in die Truhe legen lassen. Du brauchst nur noch die Holzscheite aus der Truhe zu holen.
+
 
 
 ```lua
@@ -122,6 +119,7 @@ while true do
 end
 ```
 
-It's possible to have the turtle plant saplings also, but that takes a lot more code, and it's more fun to figure that out for yourself. Try looking at the ComputerCraft command reference for the commands to check the turtle's inventory for items.
 
-**Yay!** That was your second program, and this one was much more complex. Now you've taken two boring and time consuming things and made turtles that can do them for you!
+Es ist möglich, die Schildkröte auch Setzlinge pflanzen zu lassen, aber das erfordert viel mehr Code, und es macht mehr Spaß, das selbst herauszufinden. In der ComputerCraft-Befehlsreferenz findest du die Befehle, um das Inventar der Schildkröte nach Gegenständen zu durchsuchen.
+
+**Juhu!** Das war dein zweites Programm, und dieses war viel komplexer. Jetzt hast du zwei langweilige und zeitraubende Dinge getan und Schildkröten gebaut, die sie für dich erledigen können!
