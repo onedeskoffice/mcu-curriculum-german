@@ -1,73 +1,73 @@
-# Basic Minecraft and Computer Skills
+# Grundlegende Minecraft- und Computerkenntnisse
 
-This unit acts as a teacher's guide for students in the lab who are not old enough to follow the written curriculum, which begins in Level 2.
+Diese Einheit dient als Lehrerhandbuch für Schüler im Lernlabor, die noch nicht alt genug sind, um dem schriftlichen Lehrplan zu folgen, der in Stufe 2 beginnt.
 
-## Unit Objectives
+## Ziel der Einheit
 
-* capable with mouse and keyboard, and moving their character around the environment using WASD and the mouse
-* can craft basic tools and weapons in creative mode
-* can craft basic tools and weapons in survival mode
-* can grow crops
-* can raise cows, chickens, pigs, etc
-* can craft food items
+* mit Maus und Tastatur umgehen können und ihren Charakter mit WASD und der Maus durch die Umgebung bewegen können
+* kann im Kreativmodus einfache Werkzeuge und Waffen herstellen
+* kann im Überlebensmodus einfache Werkzeuge und Waffen herstellen
+* kann Getreide anbauen
+* kann Kühe, Hühner, Schweine, etc. züchten
+* kann Nahrungsmittel herstellen
 
-## Mining in Creative Mode or on Peaceful Settings
+## Bergbau im Kreativmodus oder auf friedlichen Einstellungen
 
-### Key Vocabulary
+### Schlüsselwortschatz
 
-* Ores
-* Iron
+* Erze
+* Eisen
 * Gold
-* Diamond
+* Diamant
 * Redstone
-* Lapis Lazuli
-* Emerald
-* Nether Quartz
+* Lapislazuli
+* Smaragd
+* Niederer Quarz
 * Strip Mine
-* Smelt
-* Ingot
+* Schmelzen
+* Barren
 
-### Exercises
+### Übungen
 
-Once a student can move around the Minecraft environment and craft basic items, they can start to learn basic mining techniques in creative mode. They could also begin practicing survival mode with the difficulty set to Peaceful.
+Sobald ein Schüler sich in der Minecraft-Umgebung bewegen und grundlegende Gegenstände herstellen kann, kann er im Kreativmodus mit dem Erlernen grundlegender Bergbautechniken beginnen. Sie können auch damit beginnen, den Überlebensmodus mit dem Schwierigkeitsgrad "Friedlich" zu üben.
 
-Explain where diamonds are found (see Level 2, Section 3) and see if they can find diamonds. Encourage them to gather other ores while they are searching for diamonds. See who can collect the most ores in a 30-minute timespan.
+Erläutern Sie, wo Diamanten zu finden sind (siehe Stufe 2, Abschnitt 3) und prüfen Sie, ob sie Diamanten finden können. Ermuntern Sie sie, andere Erze zu sammeln, während sie nach Diamanten suchen. Testen Sie, wer innerhalb von 30 Minuten die meisten Erze sammeln kann.
 
-Be sure to explain what types of pickaxes are required to mine certain ores (e.g. an iron pickaxe is required for diamond, a diamond pickaxe for obsidian).
+Erklären Sie, welche Arten von Spitzhacken für den Abbau bestimmter Erze benötigt werden (z. B. eine Eisenspitzhacke für Diamanten, eine Diamantspitzhacke für Obsidian).
 
-Explain how to smelt ores into their respective ingots, then what tools, weapons, armor, and other items become available once they have the ingots in their inventory.
+Erklären Sie, wie man Erze zu den entsprechenden Barren schmelzen kann und welche Werkzeuge, Waffen, Rüstungen und anderen Gegenstände verfügbar sind, sobald sie die Barren in ihrem Inventar haben.
 
 ---
 
-## Farming, Food, and Basic Building
+## Ackerbau, Nahrung und Grundbau
 
-### Key Vocabulary
+## Schlüsselwortschatz
 
 * Hunger
-* Planting
-* Plow
-* Recipe
-* Seed
-* Harvest
-* Hoe
-* Bone Meal
+* Anpflanzen
+* Pflügen
+* Rezept
+* Saatgut
+* Ernte
+* Hacke
+* Knochenmehl
 
-### Exercises
+### Übungen
 
-Build a basic wheat farm. Don't forget the requirements for water (see Level 2, Section 2). Speed up the growing process using bone meal. Harvest the wheat. Craft bread.
+Baue eine einfache Weizenfarm. Vergiss nicht den Bedarf an Wasser (siehe Stufe 2, Abschnitt 2). Beschleunigen Sie den Wachstumsprozess mit Knochenmehl. Ernten Sie den Weizen. Stelle Brot her.
 
-Build a basic cow ranch. Create an area with fences and fence gates and spawn cows inside. Breed the cows using wheat.
+Baue eine einfache Kuhfarm. Erstelle ein Gebiet mit Zäunen und Zauntoren und lasse Kühe darin spawnen. Züchten Sie die Kühe mit Weizen.
 
-Repeat with different crops and animals.
+Wiederhole den Vorgang mit anderen Feldfrüchten und Tieren.
 
 ---
 
 ## Crafting
 
-### Key Vocabulary
+### Schlüsselvokabeln
 
-* Crafting table/bench
+* Tisch/Bank für das Handwerk
 
-### Exercises
+### Übungen
 
-Encourage the students to find various blocks or tools they would like to use. If possible, have them in survival mode and `/give` them the materials required to craft those items. Have them use the crafting book to start, then have them craft the same items again from memory. Have them guess the crafting recipies for other items, for example a bow or a fishing rod.
+Ermuntern Sie die Schüler dazu, verschiedene Blöcke oder Werkzeuge zu finden, die sie gerne verwenden möchten. Wenn möglich, lassen Sie sie im Überlebensmodus arbeiten und geben Sie ihnen die Materialien, die sie zur Herstellung dieser Gegenstände benötigen. Lassen Sie sie zunächst das Handwerksbuch benutzen und dann dieselben Gegenstände aus dem Gedächtnis nachbauen. Lassen Sie sie die Rezepte für andere Gegenstände erraten, z. B. für einen Bogen oder eine Angelrute.

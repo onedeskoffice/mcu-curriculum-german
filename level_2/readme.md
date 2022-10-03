@@ -1,18 +1,18 @@
-## Minecraft U Level 2: Basic Problem Solving in Gaming
+## Minecraft U Level 2: Grundlegende Problemlösung im Spiel
 
 ![](images/level2.png)
 
-Learn the basics of survival in the Minecraft world, from fending off starvation to defending against skeletons. Solve these problems and more in a fun environment, with help from our instructors. Overcome the challenges that Minecraft has to offer, and have fun doing it.
+Lerne die Grundlagen des Überlebens in der Minecraft-Welt, von der Bekämpfung des Hungers bis zur Verteidigung gegen Skelette. Lösen Sie diese Probleme und mehr in einer unterhaltsamen Umgebung mit der Hilfe unserer Ausbilder. Überwinden Sie die Herausforderungen, die Minecraft zu bieten hat, und haben Sie dabei Spaß.
 
-### Table of Contents
+### Inhaltsverzeichnis
 
-* Section 1: First House and Tools  
-* Section 2: Farming and Ranching  
-* Section 3: Mining  
-* Section 4: Fighting Mobs
-* Section 5: Enchanting
-* Section 6: Villager Trading
-* Section 7: Minecarts  
-* Section 8: The Nether
-* Section 9: Mob Farm/Grinder  
-* Section 10: Auto-smelters
+* Abschnitt 1: Erstes Haus und Werkzeuge  
+* Abschnitt 2: Ackerbau und Viehzucht  
+* Abschnitt 3: Bergbau  
+* Abschnitt 4: Mobs bekämpfen
+* Abschnitt 5: Verzaubern
+* Abschnitt 6: Handel mit Dorfbewohnern
+* Abschnitt 7: Minenkarren  
+* Abschnitt 8: Der Nether
+* Abschnitt 9: Mob Farm/Grinder  
+* Abschnitt 10: Autoschmelzer

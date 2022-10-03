@@ -1,90 +1,90 @@
-# Advanced Adventuring and Generated Structures
+# Advanced Adventuring und generierte Strukturen
 
-A generated structure is a structure that is generated when the world is created and appears artifical. For example, villages, mineshafts, and shipwrecks are all generated structures. 
+Eine generierte Struktur ist eine Struktur, die bei der Erstellung der Welt erzeugt wird und künstlich erscheint. Zum Beispiel sind Dörfer, Minenschächte und Schiffswracks alles generierte Strukturen. 
 
-It can be very useful to find these structures, as they can contain useful things like loot chests (which can contain useful items) and monster spawners (for mob farms). 
+Es kann sehr nützlich sein, diese Strukturen zu finden, da sie nützliche Dinge wie Beutetruhen (die nützliche Gegenstände enthalten können) und Monsterspawners (für Mob-Farmen) enthalten können. 
 
-This section will describe a few structures that could be useful to you. For more information on all structures, check [the wiki](https://minecraft.fandom.com/wiki/Generated_structures) (https://minecraft.fandom.com/wiki/Generated_structures).
+In diesem Abschnitt werden einige Strukturen beschrieben, die für euch nützlich sein könnten. Weitere Informationen zu allen Strukturen findest du im [wiki](https://minecraft.fandom.com/wiki/Generated_structures) (https://minecraft.fandom.com/wiki/Generated_structures).
 
-## Aboveground Structures
+## Oberirdische Strukturen
 
-### Ruined Portal (Common)
-![ruined portal](images/ruined-portal.png)
+### Ruinenportal (allgemein)
+![Ruinenportal](images/ruined-portal.png)
 
-An incomplete nether portal made with obsidian, crying obsidian, and many types of stone with a netherrack platform is below it. A loot chest containing many nether related items (like golden tools, flint and steel, etc.) and gold blocks often generates with it. Note that these also generate underground and in the nether.
+Ein unvollständiges Netzportal aus Obsidian, weinendem Obsidian und vielen Steinsorten mit einer Netherrack-Plattform befindet sich darunter. Eine Beutetruhe mit vielen Gegenständen aus dem Netherbereich (z. B. goldene Werkzeuge, Feuerstein und Stahl usw.) und Goldblöcken wird oft mit diesem Portal erzeugt. Beachten Sie, dass diese Gegenstände auch unterirdisch und im Netherbereich zu finden sind.
 
-### Desert Pyramid (Uncommon)
-![desert pyramid](images/desert-pyramid.png)
+### Wüstenpyramide (Uncommon)
+![Wüstenpyramide](images/desert-pyramid.png)
 
-Found in only deserts, desert pyramids are large buildings made of sandstone containing four loot chests hidden below terracotta. Directly below the blue terracotta and right next to the loot chests is a pressure plate that will activate a TNT trap below the pressure plate, so make sure not to drop down directly below the blue terracotta. The loot chests could contain mob drops, gold and iron ingots, horse armor, golden apples, and more.
+Wüstenpyramiden sind große Gebäude aus Sandstein, die nur in Wüsten zu finden sind und vier Beutetruhen enthalten, die unter Terrakotta versteckt sind. Direkt unter der blauen Terrakotta und direkt neben den Beutetruhen befindet sich eine Druckplatte, die eine TNT-Falle unter der Druckplatte aktiviert, also stellen Sie sicher, dass Sie sich nicht direkt unter die blaue Terrakotta fallen lassen. Die Beutetruhen können Mob-Drops, Gold- und Eisenbarren, Pferderüstungen, goldene Äpfel und mehr enthalten.
 
-### Igloo (Rare)
+### Iglu (Selten)
 ![igloo](images/igloo.png)
 
-Snow buildings found in snowly plains and snowy taigas. They may contain a basement hidden under carpet. The basement contains a villager and zombie villager behind bars, a brewing stand with a weakness potion, and a loot chest that contains a golden apple and other items. The weakness potion and golden apple can be used to cure the zombie villager.
+Schneegebäude, die in verschneiten Ebenen und verschneiten Taigas zu finden sind. Sie können einen unter dem Teppich versteckten Keller enthalten. Im Keller befinden sich ein Dorfbewohner und ein Zombie-Dorfbewohner hinter Gittern, ein Braustand mit einem Schwächungstrank und eine Beutetruhe, die einen goldenen Apfel und andere Gegenstände enthält. Mit dem Schwächungstrank und dem goldenen Apfel kann man den Zombie-Dorfbewohner heilen.
 
-### Jungle Temple (Rare)
-![jungle temple](images/jungle-temple.png)
+### Dschungel-Tempel (Selten)
+Dschungel-Tempel](images/jungle-temple.png)
 
-Overgrown cobblestone structures containing two loot chests, with one trapped with two dispensers firing arrows and the other hidden behind a lever puzzle. To get past the trap, simply walk towards the chest while making sure you are touching the right wall. You can then mine the dispenser and tripwire to disable the trap and get some extra items. To get past the puzzle, simply break through the wall containing the levers with a pickaxe. Loot chests may contain mob drops, gold and iron ingots, bamboo, enchanted books, horse armor, and more.
+Überwucherte Pflastersteinstrukturen, die zwei Beutetruhen enthalten, von denen eine mit zwei Pfeilspendern gefangen ist und die andere hinter einem Hebelrätsel versteckt ist. Um die Falle zu umgehen, müsst ihr einfach auf die Truhe zugehen und darauf achten, dass ihr die richtige Wand berührt. Sie können dann den Spender und den Stolperdraht abbauen, um die Falle zu deaktivieren und einige zusätzliche Gegenstände zu erhalten. Um das Rätsel zu lösen, brechen Sie einfach mit einer Spitzhacke durch die Wand mit den Hebeln. Beutetruhen können Mob-Drops, Gold- und Eisenbarren, Bambus, verzauberte Bücher, Pferderüstungen und mehr enthalten.
 
-### Pillager Outpost (Rare)
-![pillager outpost](images/pillager-outpost.png)
+### Plünderer-Außenposten (Selten)
+![Plünderer-Außenposten](images/pillager-outpost.png)
 
-A watchtower surrounded by up to four small structures that spawns pillagers. The watchtower is mainly made of birch planks, dark oak logs, and cobblestone. Possible items in the loot chest include dark oak logs, crossbows, arrows, iron ingots, and enchanted books.
+Ein Wachturm, der von bis zu vier kleinen Gebäuden umgeben ist und Plünderer hervorbringt. Der Wachturm besteht hauptsächlich aus Birkenbrettern, dunklen Eichenstämmen und Kopfsteinpflaster. Mögliche Gegenstände in der Beutetruhe sind dunkle Eichenstämme, Armbrüste, Pfeile, Eisenbarren und verzauberte Bücher.
 
-### Woodland Mansion (Rare)
-![woodland mansion](images/woodland-mansion.jpg)
+### Woodland Mansion (Selten)
+![Waldland-Villa](images/waldland-villa.jpg)
 
-The woodland mansion is very rare and can be found only in dark forests, normally far away from spawn. A mansion is inhabited by evokers and vindicators, and is one of the few places where a totem of undying can be obtained. They can be located with woodland explorer maps, which are obtained from cartographer villagers. 
+Die Waldland-Villa ist sehr selten und kann nur in dunklen Wäldern gefunden werden, normalerweise weit weg vom Spawn. Ein Herrenhaus wird von Evokern und Vindicators bewohnt und ist einer der wenigen Orte, an denen man ein Totem der Unsterblichen erhalten kann. Sie können mit Waldforscher-Karten gefunden werden, die man von Kartografen-Dorfbewohnern erhält. 
 
-A woodland mansion naturally generates vindicators and evokers inside the mansion, but because the entrance is open and most rooms in the woodland mansion are dark, overworld monsters often spawn in woodland mansions. Make sure you are well-equipped before you attempt to clear a woodland mansion! Once ready, however, you will find a lot of loot inside a woodland mansion.
+Da der Eingang jedoch offen ist und die meisten Räume in der Waldvilla dunkel sind, spawnen in Waldvillen oft Monster aus der Oberwelt. Vergewissern Sie sich, dass Sie gut ausgerüstet sind, bevor Sie versuchen, eine Waldvilla zu säubern! Sobald ihr aber bereit seid, werdet ihr in einem Waldhaus eine Menge Beute finden.
 
-## Underwater Structures
+## Unterwasser-Strukturen
 
-### Ocean Ruins (Common)
-Ocean ruins are underwater structures generated in normal, cold, and frozen ocean biomes, as well as their deep variants. They are composed of stone materials. All but two variants contain loot chests. They typically spawn drowned (underwater zombies) that you must fight before enjoying the loot chest. You will need some enchanted armor or a potion of water breathing to loot an ocean ruin.
+### Meeresruinen (allgemein)
+Ozeanruinen sind Unterwasserstrukturen, die in normalen, kalten und gefrorenen Ozeanbiomen sowie deren Tiefseevarianten entstehen. Sie bestehen aus Steinmaterialien. Alle bis auf zwei Varianten enthalten Beutetruhen. In der Regel spawnen dort Ertrunkene (Unterwasser-Zombies), die Sie bekämpfen müssen, bevor Sie in den Genuss der Beutetruhe kommen. Um eine Meeresruine zu plündern, benötigt ihr eine verzauberte Rüstung oder einen Trank der Wasseratmung.
 
-### Shipwreck (Common)
-A shipwreck can be found in or near the ocean and can contain up to three loot chests. Supply chests generate in the bow of the ships, treasure chests generate in the upper section of the stern, and map chests in the lower section. Any shipwreck with at least 2 chests always contains its map chest. The most valuable item in a shipwreck is a buried treasure map, which will lead you to even more loot.
+### Schiffswrack (Common)
+Ein Schiffswrack befindet sich im oder in der Nähe des Ozeans und kann bis zu drei Beutetruhen enthalten. Nachschubtruhen befinden sich im Bug des Schiffes, Schatztruhen im oberen Bereich des Hecks und Kartentruhen im unteren Bereich. Jedes Schiffswrack mit mindestens 2 Truhen enthält immer eine Kartentruhe. Der wertvollste Gegenstand in einem Schiffswrack ist eine vergrabene Schatzkarte, die Sie zu noch mehr Beute führen wird.
 
-### Ocean Monument (Rare)
-Ocean momuments are large, heavily gaurded structures in the ocean inhabited by guardians and elder guardians. They are the only place where sponges can be found and one of the two places where prismarine can be found. It is the largest structure that does not contain a loot chest and the largest water structure. 
+### Meeresmonument (Selten)
+Ozeanmonumente sind große, stark bewachte Strukturen im Ozean, die von Wächtern und älteren Wächtern bewohnt werden. Sie sind der einzige Ort, an dem Schwämme gefunden werden können, und einer der beiden Orte, an denen Prismarine gefunden werden können. Es ist die größte Struktur, die keine Beutetruhe enthält, und die größte Wasserstruktur. 
 
-## Underground Structures
+## Unterirdische Strukturen
 
-### Dungeon (Common)
-![zombie dungeon](images/dungeon.png)
+### Dungeon (Allgemein)
+![Zombie-Kerker](images/dungeon.png)
 
-A dungeon is a cobblestone room typically generated underground that contains a spawner and up to two loot chests. The spawner has a 50% chance of producing zombies, a 25% chance of producing skeletons, or a 25% chance of producing spiders. 
+Ein Dungeon ist ein gepflasterter Raum, der typischerweise unterirdisch entsteht und einen Spawner und bis zu zwei Beutetruhen enthält. Der Spawner hat eine 50%ige Chance, Zombies zu produzieren, eine 25%ige Chance, Skelette zu produzieren, oder eine 25%ige Chance, Spinnen zu produzieren. 
 
-Dungeons are great for creating mob farms, so whenever possible the spawner should not be destroyed. Place light sources throughout the dungeon to prevent mobs from spawning, once your have faught off the original hoard in the dungeon.
+Dungeons eignen sich hervorragend zum Anlegen von Mob-Farmen, daher sollte der Spawner nach Möglichkeit nicht zerstört werden. Platzieren Sie Lichtquellen im gesamten Verlies, um das Spawnen von Mobs zu verhindern, sobald Sie den ursprünglichen Hort im Verlies abgewehrt haben.
 
-### Mineshaft (Common)
-![mineshaft](images/mineshaft.png)
+### Minenschacht (allgemein)
+![Minenschacht](images/mineshaft.png)
 
-A maze with many corridors supported by wooden beams with incomplete rail systems where minecarts with chests can generate. These chests can include loot such as rails, ores, and golden apples. Cave spider spawners heavily surrounded by cobwebs can also generate here.
+Ein Labyrinth mit vielen Korridoren, die von Holzbalken mit unvollständigen Schienensystemen gestützt werden, in denen Minenkarren mit Kisten entstehen können. Diese Truhen können Beute wie Schienen, Erze und goldene Äpfel enthalten. Höhlenspinnen, die stark von Spinnweben umgeben sind, können hier ebenfalls spawnen.
 
-### Stronghold (Rare)
-Strongholds are very hard to find and for good reason -- they are the only place you can find portals to travel to the End. You can locate strongholds by throwing an eye of ender, which will go in the direction of a stronghold.
+### Festung (Selten)
+Festungen sind sehr schwer zu finden und das aus gutem Grund - sie sind der einzige Ort, an dem ihr Portale finden könnt, um zum Ende zu reisen. Ihr könnt Festungen finden, indem ihr ein Auge des Endes werft, das sich in die Richtung einer Festung bewegt.
 
-![an end portal in a stronghold](images/end-portal.jpg)
+![ein Endportal in einer Festung](images/end-portal.jpg)
 
-In addition to end portals, strongholds also have various types of rooms including large libraries and numerous loot chests. 
+Neben den Endportalen gibt es in Festungen auch verschiedene Arten von Räumen, darunter große Bibliotheken und zahlreiche Beutetruhen. 
 
-### Buried Treasure (Rare)
-![buried treasure](images/buried-treasure.png)
+### Vergrabener Schatz (Selten)
+![Vergrabener Schatz](images/vergrabener-schatz.png)
 
-A single chest that spawns below sand in beach biomes. The chest has a high chance of containing valuable loot like ores, a heart of the sea, a potion of water breathing, and fish. Buried treasure can be located using explorer maps, which can be found in shipwrecks.
+Eine einzelne Truhe, die in Strandbiomen unter Sand spawnen kann. Die Truhe enthält mit hoher Wahrscheinlichkeit wertvolle Beute wie Erze, ein Herz des Meeres, einen Trank der Wasseratmung und Fische. Vergrabene Schätze können mithilfe von Forscherkarten gefunden werden, die in Schiffswracks zu finden sind.
 
-## Nether Structures
+## Nether-Strukturen
 
-### Nether Fortress (Uncommon)
-Nether fortresses generate in all Nether biomes. Nether fortresses are large complexes, composed of nether bricks materials, that are supported by massive pillars that tower high above the lava oceans. There are numerous loot chests inside nether fortresses, as well as many blaze spawners. Nether fortresses are also where wither skeletons can be found. Skeletons are also very common inside nether fortresses.
+### Netherfestung (Uncommon)
+Netherfestungen entstehen in allen Nether-Biomen. Netherfestungen sind große Komplexe, die aus Netherziegeln bestehen und von massiven Säulen getragen werden, die hoch über den Lava-Ozeanen aufragen. In den Netherfestungen gibt es zahlreiche Beutetruhen und auch viele Feuer-Spawns. In den Netherfestungen sind auch die Skelette der Verwelkung zu finden. Skelette sind auch sehr häufig in Netherfestungen zu finden.
 
-Nether fortresses are one of the first generated structures a player will look for, as blaze rods are necessary for brewing.
+Netherfestungen sind eine der ersten generierten Strukturen, nach denen ein Spieler Ausschau halten wird, da sie für das Brauen von Feuerstäben notwendig sind.
 
-### Bastion Remnant (Uncommon)
-![bastion remnant](images/bastion-remnant.png)
+### Überbleibsel einer Bastion (Uncommon)
+![Bastion-Rest](images/bastion-remnant.png)
 
-A large, castle-like structure made of mostly basalt and blackstone. They are very dangerous, with piglins, piglin brutes (that can disable shields with axes) and hoglins that can do lots of damage and knock you into lava. But, it can be very rewarding, with many gold blocks to mine and chests that may contain gold, iron, arrows, crossbows, netherite, a lodestone, and more.
+Eine große, burgähnliche Struktur, die hauptsächlich aus Basalt und Schwarzstein besteht. Sie sind sehr gefährlich, mit Piglins, Piglin Brutes (die Schilde mit Äxten außer Gefecht setzen können) und Hoglins, die viel Schaden anrichten und dich in Lava stoßen können. Aber es kann sehr lohnend sein, mit vielen Goldblöcken, die man abbauen kann, und Truhen, die Gold, Eisen, Pfeile, Armbrüste, Netherit, einen lodestone und mehr enthalten können.

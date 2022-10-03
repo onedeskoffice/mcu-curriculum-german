@@ -1,39 +1,39 @@
-# Section 5: Enchanting
+# Abschnitt 5: Verzauberung
 
-Enchanting is a mechanic that improves armor, tools, weapons and books with one or more of a variety of enchantments that improve an item's existing abilities or give them additional abilities and uses.
+Verzaubern ist eine Mechanik, die Rüstungen, Werkzeuge, Waffen und Bücher mit einer oder mehreren Verzauberungen verbessert, die die bestehenden Fähigkeiten eines Gegenstands verbessern oder ihm zusätzliche Fähigkeiten und Verwendungsmöglichkeiten verleihen.
 
-Enchanting is a very important technique in Minecraft. Enchanted tools, armor and weapons make success in your Minecraft adventures much more likely, and makes items more fun to use as well.
+Verzaubern ist eine sehr wichtige Technik in Minecraft. Verzauberte Werkzeuge, Rüstungen und Waffen machen den Erfolg in deinen Abenteuern in Minecraft viel wahrscheinlicher, und es macht auch mehr Spaß, sie zu benutzen.
 
-In order to enchant anything, experience is required. The easiest way to gain experience is by mining items such as coal and redstone, or raising animals. The most experience is gained, however, by fighting mobs.
+Um etwas zu verzaubern, brauchst du Erfahrung. Die einfachste Art, Erfahrung zu sammeln, ist der Abbau von Gegenständen wie Kohle und Redstone oder die Aufzucht von Tieren. Die meiste Erfahrung erhält man jedoch durch den Kampf gegen Mobs.
 
-| ![Enchanting table crafting recipe](images/enchanting-table-recipe.png) | 
+| ![Verzauberungstabelle Handwerksrezept](images/enchanting-table-recipe.png) | 
 |:--:| 
-| *Enchanting table crafting recipe* |
+*Verzauberungstisch-Rezept zum Basteln* |
 
-| ![Bookshelf crafting recipe](images/bookshelf-recipe.png) | 
+| ![Rezept für das Herstellen von Bücherregalen](images/bookshelf-recipe.png) | 
 |:--:| 
-| *Bookshelf crafting recipe* |
+*Rezept für Bücherregal-Verzauberung* |
 
-To enchant an item, right-click on an enchanting table and place the item and 1–3 lapis lazuli in the input slots. Options will display on the right-hand side of the enchanting display.
+Um einen Gegenstand zu verzaubern, klicken Sie mit der rechten Maustaste auf einen Verzauberungstisch und legen Sie den Gegenstand und 1-3 Lapislazuli in die Eingabefelder. Die Optionen werden auf der rechten Seite der Verzauberungsanzeige angezeigt.
 
-<img src="images/enchantment-table.png">
+<img src="images/verzauberungs-tabelle.png">
 
 <img src="images/enchanting-gui.png">
 
-To get the maximum enchants, surround the enchanting table with bookshelves. To get to the highest level of enchanting (level 30), you will need 15 bookshelves placed within a 5×5 square centered at the table or the block above. No other blocks can be placed in between the table and the bookshelves.
+Um die maximale Anzahl an Verzauberungen zu erhalten, umgeben Sie den Verzauberungstisch mit Bücherregalen. Um die höchste Verzauberungsstufe (Stufe 30) zu erreichen, benötigt man 15 Bücherregale innerhalb eines 5×5-Quadrats, das auf dem Tisch oder dem Block darüber zentriert ist. Zwischen dem Tisch und den Bücherregalen dürfen keine anderen Blöcke platziert werden.
 
-Tips:
+Tipps:
 
-* When first starting out, use just a few experience levels to enchant as many tools and armor pieces as possible. After that, use an anvil to combine enchantments. Later, do the opposite to try and get as many enchantments as possible on one tool/weapon, then  use an anvil again to combine when possible.
-* When trying to get a specific enchantment on a tool/weapon that is already enchanted, use books. Create an enchanted book by enchanting a book on an enchantment table. Enchanted books can also be found in structures or by trading with villagers.
-* As you progress above level 16, each level requires more XP than the last. Try to enchant using a level as close to yours as possible to make the high XP cost worthwhile.
-* Items have a chance to get one or more extra enchantments every time you enchant them.
-* Do not enchant anything weaker than iron--the lack of durability makes the cost not worth it.
-* An enchanted fishing rod can pay off. "Luck of the Sea" lowers chance of "junk" catches by 2.5% per level and increases the chance of "treasure" catches by 1% per level. "Treasure" can include enchanted tools. "Lure" decreases wait time until a catch by 5 seconds per level but decreases chances of both "junk" and "treasure" catches by 1% per level, so be careful with that one if your goal is to catch treasure.
-* Place 15 bookshelves around an enchantment table to get the highest level enchantments. If after establishing the 15 bookshelves you _do not_ want maximized enchantments, you can block their effect with torches.
+* Verwenden Sie zu Beginn nur wenige Erfahrungsstufen, um so viele Werkzeuge und Rüstungsteile wie möglich zu verzaubern. Benutze dann einen Amboss, um Verzauberungen zu kombinieren. Später solltest du umgekehrt versuchen, so viele Verzauberungen wie möglich auf ein Werkzeug/eine Waffe zu bekommen und dann wieder einen Amboss benutzen, um sie zu kombinieren, wenn möglich.
+* Wenn du versuchst, eine bestimmte Verzauberung auf ein Werkzeug/eine Waffe zu bekommen, das/die bereits verzaubert ist, verwende Bücher. Erstelle ein verzaubertes Buch, indem du ein Buch auf einem Verzauberungstisch verzauberst. Verzauberte Bücher können auch in Gebäuden oder durch den Handel mit Dorfbewohnern gefunden werden.
+* Wenn du über Stufe 16 aufsteigst, erfordert jede Stufe mehr EP als die letzte. Versucht, eine Stufe zu verzaubern, die eurer möglichst nahe kommt, damit sich die hohen EP-Kosten lohnen.
+* Gegenstände haben die Chance, bei jeder Verzauberung eine oder mehrere zusätzliche Verzauberungen zu erhalten.
+* Verzaubere nichts, was schwächer als Eisen ist - die fehlende Haltbarkeit macht die Kosten nicht lohnenswert.
+* Eine verzauberte Angelrute kann sich lohnen. "Glück des Meeres" senkt die Chance auf "Schrott"-Fänge um 2,5% pro Stufe und erhöht die Chance auf "Schatz"-Fänge um 1% pro Stufe. Zu den "Schätzen" können verzauberte Werkzeuge gehören. "Köder" verringert die Wartezeit bis zum Fang um 5 Sekunden pro Stufe, senkt aber die Chance, sowohl "Schrott" als auch "Schätze" zu fangen, um 1 % pro Stufe, also sei vorsichtig damit, wenn dein Ziel der Schatzfang ist.
+* Platziere 15 Bücherregale um einen Verzauberungstisch, um die höchsten Verzauberungen zu erhalten. Wenn du nach dem Aufstellen der 15 Bücherregale _nicht_ die höchsten Verzauberungen haben willst, kannst du ihre Wirkung mit Fackeln blockieren.
 
-### Anvils
+### Ambosse
 
-An anvil can be used to combine the enchantments of two items. The items must be of the same type and material. There are two slots in the anvil, and the item in the second slot is sacrificed to improve the first.
+Mit einem Amboss können die Verzauberungen von zwei Gegenständen kombiniert werden. Die Gegenstände müssen von der gleichen Art und aus dem gleichen Material sein. Der Amboss hat zwei Steckplätze, und der Gegenstand im zweiten Steckplatz wird geopfert, um den ersten zu verbessern.
 
-The cost in levels depends on the enchantments. You can also repair and name items with the anvil. In survival mode, there is a limit of 39 levels for any work performed on the anvil.
+Die Kosten in Stufen hängen von den Verzauberungen ab. Du kannst mit dem Amboss auch Gegenstände reparieren und benennen. Im Überlebensmodus gibt es ein Limit von 39 Stufen für jede Arbeit, die am Amboss ausgeführt wird.

@@ -1,13 +1,13 @@
-# Section 10: Skin Design and Auto-smelters
+# Abschnitt 10: Skin-Design und Auto-Schmelzer
 
 ## Skin Design
 
-This section is pretty straightforward thanks to the great tools at [Miners Need Cool Shoes](http://www.needcoolshoes.com/) (http://www.needcoolshoes.com/). Go to needcoolshoes.com and import your skin or go to the gallery and pick a new one to tweak. Then edit that skin using their editing tools! You can download the png file or change your skin right from the site. You can even combine skins by loading multiple skins as layers in the editing tool.
+Dieser Abschnitt ist dank der großartigen Werkzeuge von [Miners Need Cool Shoes](http://www.needcoolshoes.com/) (http://www.needcoolshoes.com/) ziemlich einfach. Gehen Sie zu needcoolshoes.com und importieren Sie Ihren Skin oder gehen Sie in die Galerie und wählen Sie einen neuen aus, den Sie bearbeiten möchten. Dann bearbeite diesen Skin mit den Bearbeitungstools! Du kannst die png-Datei herunterladen oder deinen Skin direkt auf der Website ändern. Du kannst sogar Skins kombinieren, indem du mehrere Skins als Ebenen in das Bearbeitungstool lädst.
 
-## Auto-smelters
+## Auto-Schmelzer
 
-The concept behind an auto-smelter is pretty simple: smelt a chest full of materials automatically. The build in its most basic is this: Chest (with materials) feeds into a hopper, which in turn feeds into the furnace, then into another hopper, then into the chest with the final product.
+Das Konzept hinter einem Autoschmelzer ist ziemlich einfach: eine Truhe voller Materialien automatisch schmelzen. Der Aufbau ist im Wesentlichen wie folgt: Die Truhe (mit den Materialien) wird in einen Trichter gefüllt, der wiederum in den Ofen gefüllt wird, dann in einen weiteren Trichter und schließlich in die Truhe mit dem Endprodukt.
 
 ![](images/auto-smelt.png)
 
-Think of ways to improve upon this design by making it more efficient, easier to load with raw materials or have more capacity.
+Überlege dir, wie du diese Konstruktion verbessern kannst, indem du sie effizienter machst, sie leichter mit Rohstoffen belädst oder ihre Kapazität erhöhst.

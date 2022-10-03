@@ -1,75 +1,75 @@
-# Section 2: Advanced Survival Strategies
+# Abschnitt 2: Fortgeschrittene Überlebensstrategien
 
 ## Farming
 
-A Minecraft survivor needs to quickly develop a renewable food source.
+Ein Minecraft-Überlebender muss schnell eine erneuerbare Nahrungsquelle entwickeln.
 
-> This section is going to keep you happy and healthy throughout your Minecrafting days
+> Dieser Abschnitt wird dich während deiner Tage in Minecraft glücklich und gesund halten.
 
-The easiest source of food is getting meat from animals such as cows, pigs, and chickens. Their meat can be eaten raw or cooked; raw food has a chance of making you sick, while cooked food fills you up more. Animals, however, aren't a renewable resource (at least until you can get a breeding program started). On the other hand, wheat is an easily obtainable and fast-renewing source of food. It only requires seeds, a source of water and a hoe.
+Die einfachste Quelle für Nahrung ist das Fleisch von Tieren wie Kühen, Schweinen und Hühnern. Ihr Fleisch kann roh oder gekocht verzehrt werden, wobei rohes Essen die Gefahr birgt, dass du krank wirst, während gekochtes Essen dich mehr satt macht. Tiere sind jedoch keine erneuerbare Ressource (zumindest solange, bis man ein Zuchtprogramm auf die Beine gestellt hat). Andererseits ist Weizen eine leicht zu beschaffende und schnell nachwachsende Nahrungsquelle. Man braucht nur Saatgut, eine Wasserquelle und eine Hacke.
 
-First, you need to acquire some seeds. They are dropped when long grass is destroyed. Try to start out with at least 10 seeds to get a good-sized farm going.
+Zunächst müssen Sie einige Samen erwerben. Sie fallen ab, wenn langes Gras zerstört wird. Versuchen Sie, mit mindestens 10 Samen anzufangen, um eine gute Farm aufzubauen.
 
-Use the hoe to turn some ordinary dirt blocks into farmland. Farmland needs to be hydrated by nearby water in order to remain farmland; farmland that dries out will convert back to dirt. Take a look at the screenshot below to see how far away water will hydrate farmland.
+Verwende die Hacke, um einige gewöhnliche Erdblöcke in Ackerland zu verwandeln. Ackerland muss durch Wasser in der Nähe befeuchtet werden, um Ackerland zu bleiben; Ackerland, das austrocknet, verwandelt sich wieder in Erde. Auf dem folgenden Screenshot sehen Sie, wie weit das Wasser entfernt ist, um das Ackerland zu befeuchten.
 
 <img src="images/section_2/farming_plot.png" style="width:50%">
 
-One block of water can hydrate up to 4 blocks away in all directions. Even though I plowed more than that in the picture below, the water can only hydrate the farm land up to 4 blocks away, so some of the plowed land becomes normal dirt and grass.
+Ein Block Wasser kann bis zu 4 Blöcke weit in alle Richtungen hydratisieren. Obwohl ich auf dem Bild unten mehr gepflügt habe, kann das Wasser das Farmland nur bis zu einer Entfernung von 4 Blöcken hydratisieren, so dass ein Teil des gepflügten Landes zu normaler Erde und Gras wird.
 
 <img src="images/section_2/farmsquare.png" style="width:50%">
 
-Plant your seeds by using them on the farmland. As long as they have a light source (the sun, torches, or other blocks) these seeds will slowly grow into wheat (the picture below has wheat in several stages of growth). The wheat will turn a yellow color when it is finished growing.
+Pflanzen Sie Ihre Samen, indem Sie sie auf dem Ackerland einsetzen. Solange sie eine Lichtquelle haben (die Sonne, Fackeln oder andere Blöcke), werden diese Samen langsam zu Weizen heranwachsen (das Bild unten zeigt Weizen in verschiedenen Wachstumsstadien). Der Weizen färbt sich gelb, wenn er fertig gewachsen ist.
 
-<img src="images/section_2/farming_growing.png" style="width:300px; float: right; margin-left: 10px;"> Harvest the fully-grown wheat, which will give you wheat as well as seeds for future crops. On average, each wheat block will drop 1.5 seeds so your crop size will grow faster and faster over time. Make bread using the recipe below. Bread fills you up almost as much as cooked meat but is much more sustainable and faster to harvest.
+<img src="images/section_2/farming_growing.png" style="width:300px; float: right; margin-left: 10px;"> Ernten Sie den ausgewachsenen Weizen, der Ihnen sowohl Weizen als auch Samen für zukünftige Ernten liefert. Im Durchschnitt wirft jeder Weizenblock 1,5 Samen ab, so dass Ihre Ernte mit der Zeit immer schneller wächst. Bereite Brot nach dem unten stehenden Rezept zu. Brot macht fast so viel satt wie gekochtes Fleisch, ist aber viel nachhaltiger und schneller zu ernten.
 
 <img src="images/section_2/farming_bread_recipe.png" style="width:50%">
 
 ## Ranching
 
-As reliable as farms are, ranches offer far more utility (leather, feathers, etc...) as well as a superior source of food in terms of stats.  However, they take a bit of time to prepare and often require materials only available through a farm.  For this example, we'll be making a ranch for cows.
+So zuverlässig Farmen auch sind, Ranches bieten weitaus mehr Nutzen (Leder, Federn, etc...) sowie eine bessere Nahrungsquelle in Bezug auf die Werte.  Allerdings braucht man etwas Zeit, um sie vorzubereiten und benötigt oft Materialien, die nur auf einer Farm erhältlich sind.  Für dieses Beispiel werden wir eine Ranch für Kühe bauen.
 
-### Fences  
+### Zäune  
 
-You're going to want to fence an area for your cows to keep them from wandering off.  The crafting recipes for fences are below.  
+Ihr müsst einen Bereich für eure Kühe einzäunen, damit sie nicht abhauen können.  Die Rezepte für die Herstellung von Zäunen sind unten aufgeführt.  
 
-**Fence (you'll need ~8 sets)**  
+**Zäune (ihr braucht ~8 Sets)**  
 
 <img src="images/section_2/fence.png" style="width:50%">
 
-**Fence Gate (at least one per pen)**  
+**Zauntor (mindestens eines pro Gehege)**  
 
 <img src="images/section_2/fence_gate.png" style="width:50%">  
 
-You'll want to fence a decent sized area, about 8 sets of fences (24 total) will do the trick. The finished product will look something like this.  
+Ihr müsst einen ausreichend großen Bereich einzäunen, etwa 8 Zaunsets (24 insgesamt) werden ausreichen. Das fertige Produkt wird in etwa so aussehen.  
 
 <img src="images/section_2/fenced_area.png" style="width:50%">
 
-### Herding Cattle  
+### Rinder hüten  
 
-Now that you have a pen, you need to herd animals into it.  For this example, we'll use cows, but you can do this with any animal.  In order to herd animals, you need to get their attention.  We can do this by using different types of "feed." Hold the appropriate feed in your hand and approach the animal; it will turn and look at you like this:  
+Jetzt, wo Sie einen Pferch haben, müssen Sie die Tiere hinein treiben.  In diesem Beispiel nehmen wir Kühe, aber Sie können dies mit jedem Tier tun.  Um Tiere zu treiben, muss man ihre Aufmerksamkeit erregen.  Das können wir mit verschiedenen Arten von "Futter" erreichen. Halten Sie das entsprechende Futter in der Hand und nähern Sie sich dem Tier; es wird sich umdrehen und Sie wie folgt ansehen:  
 
 <img src="images/section_2/cow_attention.png" style="width:50%">
 
-Now the hard part, without losing the animals attention you must lead it into the pen.  Once the cow is in the pen, quickly close the gate behind you.  You will need a minimum of 2 animals to begin breeding.  
+Jetzt kommt der schwierige Teil: Ohne die Aufmerksamkeit des Tieres zu verlieren, müssen Sie es in den Stall führen.  Sobald die Kuh im Stall ist, schließen Sie schnell das Tor hinter sich.  Sie brauchen mindestens 2 Tiere, um mit der Zucht zu beginnen.  
 
 <img src="images/section_2/cows_in_pen.png" style="width:50%">
 
-**List of Feeds**
+**Liste der Futtermittel**
 
-* Chickens - seeds
-* Cows, Sheep - wheat
-* Pigs - carrots
+* Hühner - Samen
+* Kühe, Schafe - Weizen
+* Schweine - Karotten
 
-Note: it is possible to herd more than one cow at a time.
+Hinweis: Es ist möglich, mehr als eine Kuh auf einmal zu halten.
 
-### Breeding  
+### Züchten  
 
-Once you have at least 2 cows you're all set!  Feed each cow a wheat by right-clicking.  You should see hearts appear like so:  
+Sobald du mindestens 2 Kühe hast, bist du startklar!  Füttere jede Kuh mit einem Weizen, indem du mit der rechten Maustaste klickst.  Es sollten Herzen wie folgt erscheinen:  
 
 <img src="images/section_2/breeding.png" style="width:50%">
 
-...after a short pause, a calf will appear!  
+...nach einer kurzen Pause wird ein Kalb erscheinen!  
 
 <img src="images/section_2/calf.png" style="width:50%">
 
-You will need to wait 5 minutes before you can repeat this process. Calves take 20 minutes to mature.
+Sie müssen 5 Minuten warten, bevor Sie diesen Vorgang wiederholen können. Kälber brauchen 20 Minuten, um zu reifen.

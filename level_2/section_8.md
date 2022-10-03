@@ -1,29 +1,29 @@
-# Section 8: The Nether
+# Abschnitt 8: Der Nether
 
-## Nether Portals
+## Netherportale
 
-The Nether is an awful place without much to see and a lot to be afraid of, but it also a place one must visit if one is ever to create potions or create beacons. It is also fairly handy when traveling long distances.
+Der Nether ist ein schrecklicher Ort, an dem es nicht viel zu sehen gibt und vor dem man sich fürchten muss, aber er ist auch ein Ort, den man besuchen muss, wenn man Tränke oder Leuchtfeuer herstellen will. Er ist auch ziemlich praktisch, wenn man lange Strecken zurücklegen muss.
 
-This section is going to focus on placing nether portals for maximum transportation value with maximum safety features.
+In diesem Abschnitt geht es um die Platzierung von Netherportalen, um einen maximalen Transportwert mit maximalen Sicherheitsmerkmalen zu erreichen.
 
-Going through a nether portal will create a linked portal in the nether. If there is already an active portal within range (about 128 blocks) in the other world, the portal will link to it.
+Das Durchschreiten eines Netzportals erzeugt ein verbundenes Portal im Netz. Wenn sich in der anderen Welt bereits ein aktives Portal in Reichweite (etwa 128 Blöcke) befindet, wird das Portal mit diesem verbunden.
 
-For this exercise, we will create two portals to travel between two mountain ranges.
+Für diese Übung werden wir zwei Portale erstellen, um zwischen zwei Gebirgszügen zu reisen.
 
-Some friendly reminders regarding traveling through the nether:
+Einige freundliche Hinweise zum Reisen durch den Äther:
 
-* Take flint and steel. Your portal might be damaged by ghasts. In this exercise, you'll need it to light a new portal at the 2nd location.
-* Take cobble and gravel. The former for building walls to protect from ghasts, the latter for gravel elevators.
-* Take a bow and plenty of arrows for fighting ghasts.
-* Do not hit zombie pigmen! Be careful when mining around them!
-* Use shift/sneak liberally while near precipices and lava, so as not to fall
+* Nehmt Feuerstein und Stahl mit. Euer Portal könnte von Ghasts beschädigt werden. In dieser Übung brauchst du sie, um ein neues Portal am 2. Standort zu entzünden.
+* Nimm Kopfsteinpflaster und Schotter mit. Ersteres für den Bau von Mauern zum Schutz vor Ghasts, letzteres für Schotteraufzüge.
+* Nimm einen Bogen und viele Pfeile für den Kampf gegen Ghasts mit.
+* Triff keine Zombie-Schweinemänner! Sei vorsichtig, wenn du in ihrer Nähe abbaust!
+* Verwende in der Nähe von Abgründen und Lava großzügig Verschiebung/Schleiche, um nicht zu stürzen.
 
-The advantage of using the nether for long-distance travel is that for every block traveled in the nether, you travel eight blocks in the overworld. Since naturally occurring resources are often far apart in the overworld, you will very likely need to travel long distances with some frequency as you collect and transport those resources.
+Der Vorteil, den Nether für Langstreckenreisen zu nutzen, besteht darin, dass man für jeden Block, den man im Nether zurücklegt, acht Blöcke in der Oberwelt zurücklegt. Da die natürlich vorkommenden Ressourcen in der Oberwelt oft weit voneinander entfernt sind, müssen Sie beim Sammeln und Transportieren dieser Ressourcen sehr wahrscheinlich häufig lange Strecken zurücklegen.
 
-Placing portals so that they connect is tricky. From the wiki:
+Portale so zu platzieren, dass sie miteinander verbunden sind, ist knifflig. Aus dem Wiki:
 
-Horizontal coordinates and distances in the Nether are proportional to the Overworld in a 1:8 ratio (1:3 in Xbox 360 & PlayStation 3 version)...This does not apply on the Y-axis...Thus, for a given location X, Y, Z in the Overworld, the corresponding coordinates in the Nether are X ÷ 8, Y, Z ÷ 8. Conversely, for a location X, Y, Z in the Nether, the matching Overworld coordinates are X × 8, Y, Z × 8.
+Horizontale Koordinaten und Entfernungen im Nether sind proportional zur Oberwelt im Verhältnis 1:8 (1:3 in der Xbox 360- und PlayStation 3-Version)... Dies gilt nicht für die Y-Achse... Für einen bestimmten Ort X, Y, Z in der Oberwelt sind die entsprechenden Koordinaten im Nether also X ÷ 8, Y, Z ÷ 8. Umgekehrt sind für einen Ort X, Y, Z im Nether die entsprechenden Koordinaten in der Überwelt X × 8, Y, Z × 8.
 
-The goal of this exercise is to travel through the nether to another portal to the overworld position 1000 blocks away.
+Das Ziel dieser Übung ist es, durch den Nether zu einem anderen Portal zu reisen, das 1000 Blocks von der Oberwelt entfernt liegt.
 
-Mobs of all kinds can make their way through portals, so be a little cautious when traveling through no matter which direction.
+Mobs aller Art können sich ihren Weg durch Portale bahnen, also sei ein wenig vorsichtig, wenn du hindurch reist, egal in welche Richtung.

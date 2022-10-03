@@ -1,19 +1,19 @@
-## Minecraft U Level 3:  Engineering with Redstone
+## Minecraft U Level 3: Technik mit Redstone
 
 ![](images/level3.png)
 
-Learn the basics of electricity, with in game and real world applications. We’ll go over digital circuits, like those found in smartphones and tablets, and how to use them in the Minecraft world to build yourself awesome contraptions. At the advanced level, we’ll go over what binary really is, and how to design binary logic machines with Redstone!
+Lerne die Grundlagen der Elektrizität, mit Anwendungen im Spiel und in der realen Welt. Wir lernen digitale Schaltkreise kennen, wie man sie in Smartphones und Tablets findet, und wie man sie in der Minecraft-Welt einsetzt, um sich selbst fantastische Geräte zu bauen. Für Fortgeschrittene werden wir uns ansehen, was binäre Schaltungen wirklich sind und wie man mit Redstone binäre Logikmaschinen baut!
 
-### Table of Contents
+### Inhaltsverzeichnis
 
-* Section 1: Redstone Basics
-* Section 2: Basic Applications (Doors, Clocks, Cannons)
-* Section 3: Logic Gates
-* Section 4: Building with Logic Gates
-* Section 5: Redstone Adder Circuit
-* Section 6: Automatic Farming
-* Section 7: OR Gate Doors
-* Section 8: Traps & XOR Light Switches
-* Section 9: Firework Launchers
-* Section 10: Command Blocks
-* Section 11: Sorting
+* Abschnitt 1: Redstone-Grundlagen
+* Abschnitt 2: Grundlegende Anwendungen (Türen, Uhren, Kanonen)
+* Abschnitt 3: Logische Gatter
+* Abschnitt 4: Bauen mit Logikgattern
+* Abschnitt 5: Redstone-Addierer-Schaltung
+* Abschnitt 6: Automatisches Farming
+* Abschnitt 7: ODER-Tor-Türen
+* Abschnitt 8: Fallen und XOR-Lichtschalter
+* Abschnitt 9: Feuerwerksraketen
+* Abschnitt 10: Kommandoblöcke
+* Abschnitt 11: Sortieren

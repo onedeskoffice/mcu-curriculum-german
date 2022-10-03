@@ -1,102 +1,102 @@
-# Section 6: Villager Trading
+# Abschnitt 6: Handel mit Dorfbewohnern
 
-| ![Desert village](images/desert-village.png) |
+| ![Wüstendorf](images/desert-village.png) |
 |:--:|
-| *A desert village* |
+| *Ein Wüstendorf* |
 
-Villagers are passive mobs that live in villages (naturally generated groups of buildings). They work at their jobs, breed, and interact with each other. They spawn unemployed, but can be given jobs by placing a job site block near them (there must be a job site block for every employed villager). To learn more about villagers, check out [the wiki](https://minecraft.fandom.com/wiki/Villager) (https://minecraft.fandom.com/wiki/Villager).
+Dorfbewohner sind passive Mobs, die in Dörfern leben (natürlich generierte Gruppen von Gebäuden). Sie gehen ihrer Arbeit nach, pflanzen sich fort und interagieren miteinander. Sie spawnen arbeitslos, können aber Jobs erhalten, indem sie einen Baustellenblock in ihrer Nähe platzieren (für jeden beschäftigten Dorfbewohner muss es einen Baustellenblock geben). Um mehr über Dorfbewohner zu erfahren, sieh dir [das Wiki](https://minecraft.fandom.com/wiki/Villager) (https://minecraft.fandom.com/wiki/Villager) an.
 
-## Villager Breeding
+## Dorfbewohner-Zucht
 
-| ![A building meeting villager breeding conditions](images/breeding-conditions.png) |
+| Ein Gebäude, das die Bedingungen für die Aufzucht von Dorfbewohnern erfüllt](images/breeding-conditions.png) |
 |:--:|
-| *A building meeting villager breeding conditions* |
+| *Ein Gebäude, das die Bedingungen für die Dorfbewohnerzucht erfüllt* |
 
-For 2 villagers to breed, a couple of conditions must be met:
-* The building where the villagers will breed must have at least three beds with two or more empty blocks above them
-* The villagers must have 3 loaves of bread, 12 carrots, 12 potatoes, or 12 beetroots in their inventory (you can give them this food by throwing it to them)
+Damit sich 2 Dorfbewohner fortpflanzen können, müssen einige Bedingungen erfüllt sein:
+* Das Gebäude, in dem die Dorfbewohner brüten, muss mindestens drei Betten haben, über denen sich zwei oder mehr leere Blöcke befinden.
+* Die Dorfbewohner müssen 3 Brote, 12 Karotten, 12 Kartoffeln oder 12 Rote Beete in ihrem Inventar haben (du kannst ihnen diese Nahrung geben, indem du sie ihnen zuwirfst).
 
-If these conditions are met, the villagers should breed in around 20 minutes. Once they have bred, a new, unemployed baby villager will appear. Baby villagers cannot trade; you will have to wait 20 minutes until they grow up to trade with them.
+Wenn diese Bedingungen erfüllt sind, sollten sich die Dorfbewohner in etwa 20 Minuten vermehren. Sobald sie sich fortgepflanzt haben, erscheint ein neuer, arbeitsloser Baby-Dorfbewohner. Mit Baby-Dorfbewohnern kann man nicht handeln; man muss 20 Minuten warten, bis sie erwachsen sind, um mit ihnen zu handeln.
 
-## Types of Villagers
+## Typen von Dorfbewohnern
 
-| ![Villager types](images/trading-1.png) |
+| ![Dorfbewohner-Typen](images/trading-1.png) |
 |:--:|
-| *Different villager types, with their job site blocks* |
+| Verschiedene Dorfbewohner-Typen, mit ihren Baustellenblöcken* |
 
-There are many kinds of villagers who provide different opportunities for trading. The types of villagers and their respective job site blocks and trades are:
+Es gibt viele verschiedene Arten von Dorfbewohnern, die unterschiedliche Möglichkeiten für den Handel bieten. Die Typen von Dorfbewohnern und ihre jeweiligen Baustellenblöcke und Berufe sind:
 
-| Villager    | Job Site Block   | Trades |
+| Dorfbewohner | Baustellenblock | Berufe |
 | ----------- | ---------------- | ---- |
-|Nitwit       | n/a              | n/a |
-|Unemployed   | n/a              | None until employed |
-|Armorer      | Blast Furnance   | Trades foundry items and sells chain, iron and enchanted diamond armor tiers|
-|Butcher      | Smoker           | Trades meats, sweet berries, rabbit stew, and dried kelp blocks |
-|Cartographer | Cartography Table| Trades banners, compasses, banner patterns, papers and various maps, including explorer maps|
-|Cleric       | Brewing Stand    | Trades magic items like ender pearls, redstone dust, glowstone dust, and other enchanting or potion ingredients|
-|Farmer       | Composter        | Trades crops and natural foods, such as bread|
-|Fisherman    | Barrel           | Trades campfires and fishing items|
-|Fletcher     | Fletching Table  | Trades bows, crossbows, arrows|
-|Leatherworker| Cauldron         | Trades scutes, rabbit hide, and leather-related items|
-|Librarian    | Lectern          | Trades enchanted books, clocks, compasses, name tags, glass, ink sacs, lanterns, and book and quills|
-|Mason        | Stonecutter      | Trades polished stones, terracotta, clay, glazed terracotta and quartz|
-|Shephard     | Loom             | Trades shears, wool, dyes, paintings and beds|
-|Toolsmith    | Smithing Table   | Trades minerals, bells and harvest tools|
-|Weaponsmith  | Grindstone       | Trades minerals, bells and enchanted melee weapons|
+|Nitwit | n/a | n/a |
+|Unemployed | n/a | None until employed |
+|Armorer | Blast Furnance | Trades foundry items and sells chain, iron and enchanted diamond armor tiers
+|Metzger | Räucherer | Handelt mit Fleisch, süßen Beeren, Kanincheneintopf und getrockneten Seetangblöcken |
+|Kartograph | Kartographietisch | Handelt mit Bannern, Kompassen, Bannermustern, Papieren und verschiedenen Karten, einschließlich Entdeckerkarten.
+|Kleriker | Braustand | Handelt mit magischen Gegenständen wie Enderperlen, Rotsteinstaub, Glutsteinstaub und anderen Zutaten für Verzauberungen und Trank
+|Bauer | Komposter | Handelt mit Feldfrüchten und natürlichen Lebensmitteln, wie z.B. Brot
+|Fischer | Fass | Handel mit Lagerfeuern und Fischereigeräten
+|Fletcher | Fletching Table | Handelt mit Bögen, Armbrüsten, Pfeilen
+|Lederer | Kessel | Handelt mit Schuppen, Kaninchenfell und lederbezogenen Gegenständen
+|Bibliothekar | Rednerpult | Handelt mit verzauberten Büchern, Uhren, Kompassen, Namensschildern, Glas, Tintenbeuteln, Laternen, Büchern und Federkielen.
+|Steinmetz | Steinhauer | Handelt mit polierten Steinen, Terrakotta, Ton, glasierter Terrakotta und Quarz
+|Schafscherer | Webstuhl | Handel mit Scheren, Wolle, Färbemitteln, Gemälden und Betten
+|Werkzeugschmied | Schmiedetisch | Handel mit Mineralien, Glocken und Erntegeräten
+|Waffenschmied | Schleifstein | Handelt mit Mineralien, Glocken und verzauberten Nahkampfwaffen
 
-## Example Trades
+## Beispielhandwerke
 
-We won't review every type of trade, but here are some examples:
+Wir werden nicht auf jede Art von Handel eingehen, aber hier sind einige Beispiele:
 
-### Weaponsmith
+### Waffenschmied
 
-| ![Weaponsmith](images/Plains_Weaponsmith.png) |
+| ![Waffenschmied](images/Plains_Weaponsmith.png) |
 |:--:|
-| *Weaponsmiths are valuable because they will trade enchanted axes and swords.* |
+*Waffenschmiede sind wertvoll, weil sie verzauberte Äxte und Schwerter verkaufen.
 
-As you continue to trade with a villager, they will advance in the types of items they will trade. For example, a weaponsmith will start with just trading for two items:
+Wenn du weiter mit einem Dorfbewohner handelst, verbessert er sich in der Art der Gegenstände, mit denen er handelt. Ein Waffenschmied zum Beispiel wird anfangs nur mit zwei Gegenständen handeln:
 
-![Weaponsmith](images/trading-weaponsmith-0.png)
+![Waffenschmied](images/trading-weaponsmith-0.png)
 
-Eventually, more trades open up:
+Mit der Zeit werden mehr Tauschgeschäfte möglich:
 
-![Weaponsmith](images/trading-weaponsmith-1.png)
+![Waffenschmied](images/trading-weaponsmith-1.png)
 
-### Armorer
+### Waffenschmied
 
-| ![Armorer](images/Plains_Armorer.png) |
+| ![Rüstungsschmied](images/Plains_Armorer.png) |
 |:--:|
-| *Armorers are valuable because they will trade enchanted diamond armor.* |
+* Rüstungsschmiede sind wertvoll, weil sie verzauberte Diamantrüstungen handeln können.
 
-![Armorer](images/trading-armorer-0.png)
+![Rüstungsschmied](images/trading-armorer-0.png)
 
-![Armorer](images/trading-armorer-1.png)
+![Rüstungsschmied](images/trading-armorer-1.png)
 
-### Cleric
+### Kleriker
 
-| ![Cleric](images/Plains_Cleric.png) |
+| ![Kleriker](images/Plains_Cleric.png) |
 |:--:|
-| *Clerics are valuable because they will trade emeralds and ender pearls.* |
+| Kleriker sind wertvoll, weil sie mit Smaragden und Ender-Perlen handeln.
 
-![Cleric](images/trading-cleric-0.png)
+![Kleriker](images/trading-cleric-0.png)
 
-![Cleric](images/trading-cleric-1.png)
+![Kleriker](images/trading-cleric-1.png)
 
-### Librarian
+### Bibliothekar
 
-| ![Librarian](images/Plains_Librarian.png) |
+| ![Bibliothekar](images/Plains_Librarian.png) |
 |:--:|
-| *Librarians are valuable because they will trade enchanted books.* |
+*Bibliothekare sind wertvoll, weil sie mit verzauberten Büchern handeln.
 
-![Cleric](images/trading-librarian-0.png)
+![Kleriker](images/trading-librarian-0.png)
 
-![Cleric](images/trading-librarian-1.png)
+![Kleriker](images/trading-librarian-1.png)
 
 ### Fletcher
 
 | ![Fletcher](images/Plains_Fletcher.png) |
 |:--:|
-| *Fletchers trade for bows and crossbows, but importantly will trade emeralds for sticks!* |
+| Fletcher handeln mit Bögen und Armbrüsten, aber vor allem mit Smaragden für Stöcke!
 
 ![Fletcher](images/trading-fletcher-0.png)
 

@@ -1,45 +1,45 @@
-# Section 1: House Building
+# Abschnitt 1: Hausbau
 
-When you first enter the game, you are stranded in a mysterious land. To make sure you survive, you need to first make a house. Your house will be shaped like a cube, with a door for an entrance, a roof, glass panes, and different kinds of blocks. Be sure to place torches somewhere in the house, to keep monsters from spawning in your house!
+Wenn du das Spiel zum ersten Mal betrittst, bist du in einem geheimnisvollen Land gestrandet. Um Ihr Überleben zu sichern, müssen Sie zunächst ein Haus bauen. Dein Haus hat die Form eines Würfels, mit einer Tür als Eingang, einem Dach, Glasscheiben und verschiedenen Arten von Blöcken. Stelle sicher, dass du irgendwo im Haus Fackeln aufstellst, um zu verhindern, dass Monster in deinem Haus auftauchen!
 
-In order to get the materials to build your house, press ‘e’ on your keyboard, and this will open the creative menu. You can go through the tabs at the top and look for what blocks and items you want, or you can click on the compass in the corner of the menu and type in what you want. From there you will want to get two different blocks:
+Um die Materialien für den Bau deines Hauses zu erhalten, drückst du 'e' auf deiner Tastatur, um das Kreativmenü zu öffnen. Du kannst die Registerkarten oben durchgehen und nach den Blöcken und Gegenständen suchen, die du willst, oder du kannst auf den Kompass in der Ecke des Menüs klicken und eingeben, was du willst. Von dort aus werden Sie zwei verschiedene Blöcke erhalten wollen:
 
-* One block will be the corners of your house (for example, stone bricks)  
-* The second block will be what the rest of your house will be made of (for example, wood planks)
+* Ein Block wird die Ecken deines Hauses darstellen (z.B. Steinziegel).  
+* Der zweite Block ist das, woraus der Rest deines Hauses bestehen wird (z.B. Holzbretter).
 
-You might also want to craft:
+Du möchtest vielleicht auch etwas herstellen:
 
-* Doors
-* Glass Panes
-* Torches
+* Türen
+* Glasscheiben
+* Fackeln
 	
-Now that you have all your materials, it’s time to begin construction.
+Jetzt, wo du alle Materialien hast, kannst du mit dem Bau beginnen.
 
-* First, place the cornerstones of your new place, make four columns of your first block.
-* Next, connect the four columns with your second block, building up the walls from there.
-* Finally, add a door and glass panes in the middle of the house so you can see outside.
+* Lege zuerst die Ecksteine deines neuen Hauses und bilde vier Säulen aus deinem ersten Block.
+* Verbinde die vier Säulen mit deinem zweiten Block und baue von dort aus die Wände auf.
+* Zum Schluss fügst du eine Tür und Glasscheiben in der Mitte des Hauses ein, damit du nach draußen sehen kannst.
 
-Example house before the roof is added:
+Beispielhaus, bevor das Dach hinzugefügt wird:
 
 <img src="images/no_roof.png" style="width:50%">
 
 <!-- BREAK -->
 
-Completed house:
+Fertiges Haus:
 
 <img src="images/front_house.png" style="width:50%">
 
 <img src="images/top_house.png" style="width:50%">
 
-When you have finished your house, you don't have to stop there! Expand your house by making the walls go out further, adding more floors, and adding more things like bedding and a furnace.
+Wenn du dein Haus fertiggestellt hast, musst du nicht dabei stehen bleiben! Erweitern Sie Ihr Haus, indem Sie die Wände verlängern, weitere Etagen hinzufügen und weitere Dinge wie Bettwäsche und einen Ofen einbauen.
 
-### Tiny House Competition
+### Winziges Haus Wettbewerb
 
-See who can build the smallest house that contains all of the following:
+Finde heraus, wer das kleinste Haus bauen kann, das alle folgenden Dinge enthält:
 
-* A bed
-* A crafting bench
-* A chest
-* A furnace
-* A torch
-* At least a single block on which to stand
+* ein Bett
+* eine Bastelbank
+* eine Truhe
+* Einen Ofen
+* eine Fackel
+* Mindestens ein einzelner Block, auf dem man stehen kann

@@ -1,7 +1,7 @@
 <img src="../level_5/images/level5.png" style="width: 250px;">
 
-# Welcome to Minecraft U Level 5: Java and Modding Minecraft!
+# Willkommen zu Minecraft U Level 5: Java und Modding Minecraft!
 
-In this camp, you will learn the basics of Java, the most common programming language in the world, and use them to create your own modification of Minecraft. Add any item of your design to the game, expanding Minecraft in whatever direction you desire. At the end, you’ll understand the syntax of Java, and how they apply to Minecraft. You'll also learn basic programming concepts along the way, things like inheritance and JSON.
+In diesem Camp lernst du die Grundlagen von Java, der am weitesten verbreiteten Programmiersprache der Welt, und verwendest sie, um deine eigene Modifikation von Minecraft zu erstellen. Füge dem Spiel beliebige Gegenstände hinzu und erweitere Minecraft in die von dir gewünschte Richtung. Am Ende wirst du die Syntax von Java verstehen und wissen, wie sie sich auf Minecraft anwenden lässt. Nebenbei lernst du auch grundlegende Programmierkonzepte wie Vererbung und JSON.
 
-You'll work this curriculum straight from the source located at [https://github.com/MinecraftU/mcu-curriculum/tree/master/level_5](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_5).
+Du arbeitest mit diesem Lehrplan direkt von der Quelle aus, die sich auf [https://github.com/MinecraftU/mcu-curriculum/tree/master/level_5](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_5) befindet.

@@ -1,43 +1,43 @@
-# Section 3: Mining
+# Abschnitt 3: Bergbau
 
-## Ore generation
+## Erzerzeugung
 
-In Minecraft, ores tend to group together at certain heights and some ores will only occur very far underground. Diamond ore, for example, spawns the most at a Y-coordinate of -58. To search for diamonds most efficiently, we need to mine at that level. This logic applys for other ores as well.
+In Minecraft neigen Erze dazu, sich in bestimmten Höhen zu gruppieren, und einige Erze kommen nur sehr weit unter der Erde vor. Diamantenerz zum Beispiel taucht am häufigsten bei einer Y-Koordinate von -58 auf. Um möglichst effizient nach Diamanten zu suchen, müssen wir auf dieser Ebene abbauen. Diese Logik gilt auch für andere Erze.
 
-This chart tells you how fequent ores spawn at a given level.
+Diese Tabelle zeigt, wie häufig Erze auf einer bestimmten Ebene spawnen.
 
 <img src="images/section_3/ore_distribution.jpeg" style="width:50%">
 
-## Basic underground mining strategies
+## Grundlegende Strategien für den Untertagebau
 
-Dig down until you hit the level where the ore you want spawns the most (check the chart above). You can check this by pressing F3. You will be mining out the level you are at and the level above it (e.g. levels -58 and -57 for diamonds).
+Graben Sie nach unten, bis Sie die Ebene erreichen, auf der das gewünschte Erz am häufigsten vorkommt (siehe Tabelle oben). Du kannst dies überprüfen, indem du F3 drückst. Du wirst die Ebene abbauen, auf der du dich befindest, und die Ebene darüber (z.B. Ebene -58 und -57 für Diamanten).
 
 <img src="images/section_3/stair_down.png" style="width:50%">
 
-Use the F3 key to know which level you are on.
+Verwenden Sie die Taste F3, um zu wissen, auf welcher Stufe Sie sich befinden.
 
 <img src="images/section_3/f3_y_level.png" style="width:50%">
 
-Create an open work area where you can have chests, furnaces, and lighting. This will serve as your underground base for storing supplies and mined ore. Our mine shafts will branch off of this central area.
+Erstellen Sie einen offenen Arbeitsbereich, in dem Sie Truhen, Öfen und Beleuchtung unterbringen können. Dies wird als unterirdische Basis für die Lagerung von Vorräten und abgebautem Erz dienen. Unsere Minenschächte werden von diesem zentralen Bereich abzweigen.
 
 <img src="images/section_3/work_area.png" style="width:50%">
 
-An efficient mining strategy is to dig 3 blocks forward, then dig out 5 blocks to either side, and repeat, as shown in the picture below. This lets us see the highest number of blocks with the fewest number of shafts. Torches should be placed every 7 blocks alongside our shaft. Any further apart, and mobs may spawn in the middle. Any closer, and we would be using more torches than needed. Try to keep all of your torches on one side. If you get lost, the torches will let you know which direction you dug in.
+Eine effiziente Abbaustrategie besteht darin, 3 Blöcke vorwärts zu graben, dann 5 Blöcke zu beiden Seiten auszugraben und das Ganze zu wiederholen, wie in der Abbildung unten gezeigt. Auf diese Weise erhalten wir die höchste Anzahl von Blöcken mit der geringsten Anzahl von Schächten. Die Fackeln sollten alle 7 Blöcke entlang unseres Schachts platziert werden. Bei einem größeren Abstand könnten die Mobs in der Mitte spawnen. Bei einem geringeren Abstand würden wir mehr Fackeln als nötig verwenden. Versuchen Sie, alle Fackeln auf einer Seite zu platzieren. Wenn du dich verirrst, zeigen dir die Fackeln, in welche Richtung du gegraben hast.
 
 <img src="images/section_3/mining_method.png" style="width:50%">
 
-If you keep mining long enough, you're sure to find some good veins of ore!
+Wenn du lange genug schürfst, wirst du sicher einige gute Erzadern finden!
 
 <img src="images/section_3/diamonds.png" style="width:50%">
 
-## Aboveground mining
+## Oberirdischer Abbau
 
-As you can see from the chart, some ores spawn the most at high Y-coordinates. This is because they generate in mountains. Mining by going to mountain biomes and digging up visible ores can be a safer alternative to underground mining.
+Wie Sie aus der Tabelle ersehen können, spawnen einige Erze am häufigsten bei hohen Y-Koordinaten. Das liegt daran, dass sie in Bergen entstehen. Der Abbau in Gebirgsbiomen und der Abbau von sichtbaren Erzen kann eine sicherere Alternative zum unterirdischen Abbau sein.
 
-Locate a mountain biome by exploring until you see a mountain (remember to bring enough food). You can check your biome by pressing F3. A list of mountain biomes can be found [here](https://minecraft.fandom.com/wiki/Mountains) (https://minecraft.fandom.com/wiki/Mountains).
+Finde ein Gebirgsbiom, indem du es erkundest, bis du einen Berg siehst (denke daran, genügend Nahrung mitzunehmen). Du kannst dein Biom überprüfen, indem du F3 drückst. Eine Liste der Bergbiome findest du [hier](https://minecraft.fandom.com/wiki/Mountains) (https://minecraft.fandom.com/wiki/Mountains).
 
 <img src="images/section_3/f3_biome.png" style="width:50%">
 
-If you find good mountain, you'll see it can yield a lot of ore!
+Wenn du einen guten Berg findest, wirst du sehen, dass er eine Menge Erz liefern kann!
 
 <img src="images/section_3/mountain_ore.png" style="width:50%">

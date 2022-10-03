@@ -1,53 +1,53 @@
-# Section 4: Fighting Mobs
+# Abschnitt 4: Mobs bekämpfen
 
-A mob, or mobile entity, is defined by the Minecraft Wiki as "an AI-driven game entity resembling a living creature." 
+Ein Mob oder eine mobile Entität wird im Minecraft-Wiki definiert als "eine KI-gesteuerte Spieleinheit, die einer lebenden Kreatur ähnelt". 
 
-Mobs can be separated into 3 categories: 
-1. Passive mobs, which don't attack you
-2. Neutral mobs, which try to attack you only if you attack them
-3. Hostile mobs, or monsters, which will always try to attack you. 
+Mobs können in 3 Kategorien unterteilt werden: 
+1. Passive Mobs, die dich nicht angreifen
+2. Neutrale Mobs, die dich nur angreifen, wenn du sie angreifst
+3. Feindselige Mobs oder Monster, die immer versuchen, dich anzugreifen. 
 
-Many neutral and hostile mobs may be hard to fight, so this section will teach some mob fighting strategies. If you want more detail about how to fight a specific mob, [see this tutorial](https://www.kodeclik.com/how-to-kill-mobs-minecraft/) (https://www.kodeclik.com/how-to-kill-mobs-minecraft/).
+Viele neutrale und feindliche Mobs können schwer zu bekämpfen sein, daher werden in diesem Abschnitt einige Strategien zur Bekämpfung von Mobs vorgestellt. Wenn du mehr Details über den Kampf gegen einen bestimmten Mob wissen willst, [siehe dieses Tutorial](https://www.kodeclik.com/how-to-kill-mobs-minecraft/) (https://www.kodeclik.com/how-to-kill-mobs-minecraft/).
 
-## Tools
+## Werkzeuge
 
-### Melee Weapons
-You generally want to use the best sword you can get to maximize your damage. Swords go from worst to best like this: gold, wood, stone, iron, diamond, netherite. If you are good at aiming, using axes is a better alternative to swords until you get an iron sword. To do damage with a sword, simply left click on the mob you want to attack.
-| ![Sword crafting recipe](images/sword_recipe.png) | 
+### Nahkampfwaffen
+Im Allgemeinen solltest du das beste Schwert verwenden, das du bekommen kannst, um deinen Schaden zu maximieren. Die Schwerter sind von der schlechtesten zur besten Sorte: Gold, Holz, Stein, Eisen, Diamant, Netherit. Wenn du gut zielen kannst, sind Äxte eine bessere Alternative zu Schwertern, bis du ein Eisenschwert bekommst. Um mit einem Schwert Schaden anzurichten, klicke einfach mit der linken Maustaste auf den Mob, den du angreifen willst.
+| ![Schwert-Herstellungsrezept](images/sword_recipe.png) | 
 |:--:| 
-| *Sword crafting recipe* |
+*Rezept für die Herstellung von Schwertern* |
 
-Note that netherite swords must be upgraded from diamond swords and cannot be crafted.
+Beachten Sie, dass Netherit-Schwerter aus Diamantschwertern aufgewertet werden müssen und nicht selbst hergestellt werden können.
 
-### Ranged Weapons
-Ranged weapons like bows and crossbows can be very useful against some mobs that you might want to stay away from, like skeletons or creepers.
-| ![Bow crafting recipe](images/bow_recipe.png) | 
+### Fernkampfwaffen
+Fernkampfwaffen wie Bögen und Armbrüste können sehr nützlich gegen einige Mobs sein, von denen man sich lieber fernhalten sollte, wie z. B. Skelette oder Kriechtiere.
+| ![Rezept für Bogenherstellung](images/bow_recipe.png) | 
 |:--:| 
-| *Bow crafting recipe* |
+| *Rezept für Bogenbau* |
 
-Bows require arrows, which can be crafted from 1 flint, 1 stick, and 1 feather, or obtained from the drops of defeated skeletons.
+Für Bögen werden Pfeile benötigt, die aus 1 Feuerstein, 1 Stock und 1 Feder hergestellt werden können oder aus den Beutestücken besiegter Skelette gewonnen werden können.
 
-### The Shield
-A shield will block all damage from most mobs when used when held in either hand while pressing and holding the right mouse button. This makes it a very useful item, so you should get one once you have the iron for it. Put it in your offhand (by pressing f while holding it) for easiest use.
-| ![Shield crafting recipe](images/shield_recipe.png) | 
+### Der Schild
+Ein Schild blockiert den gesamten Schaden der meisten Mobs, wenn er in einer der beiden Hände gehalten wird, während man die rechte Maustaste gedrückt hält. Das macht ihn zu einem sehr nützlichen Gegenstand, also sollten Sie sich einen besorgen, sobald Sie das Eisen dafür haben. Am einfachsten ist es, wenn du es in deiner freien Hand hältst (indem du f drückst, während du es hältst).
+| Rezept für Schildherstellung](images/shield_recipe.png) 
 |:--:| 
-| *Shield crafting recipe* |
+*Rezept für Schildherstellung* |
 
-### Armor
-Armor reduces the damage mobs can do to you, so it's useful to make armor when you can to have a better chance against mobs. Armor goes from worst to best like this: gold, leather, iron, diamond, netherite. To put on armor, simply right click while holding the armor in your hand.
-| ![Armor crafting recipes](images/armor_recipes.png) | 
+### Rüstung
+Rüstung reduziert den Schaden, den Mobs dir zufügen können. Es ist also nützlich, Rüstung herzustellen, wenn du eine bessere Chance gegen Mobs hast. Die Rüstung ist von der schlechtesten zur besten wie folgt: Gold, Leder, Eisen, Diamant, Netherit. Um eine Rüstung anzulegen, klicke einfach mit der rechten Maustaste, während du die Rüstung in deiner Hand hältst.
+| ![Rüstungsherstellungsrezepte](images/armor_recipes.png) | 
 |:--:| 
-| *Armor crafting recipes* |
+*Rüstungsherstellungsrezepte* |
 
-Note that netherite armor must be upgraded from diamond swords and cannot be crafted.
+Beachte, dass Netherit-Rüstungen aus Diamantschwertern aufgewertet werden müssen und nicht selbst hergestellt werden können.
 
-## General Strategies
+## Allgemeine Strategien
 
-### Critical Hitting
-Using a sword while falling (after jumping) will do extra damage. This is called a critical hit. If the mob you are fighting is pretty slow, this strategy can come in handy.
+## Kritische Treffer
+Wenn du ein Schwert im Fallen (nach einem Sprung) benutzt, verursachst du zusätzlichen Schaden. Dies nennt man einen kritischen Treffer. Wenn der Mob, gegen den Sie kämpfen, ziemlich langsam ist, kann diese Strategie sehr nützlich sein.
 
-### Hit and step back
-For many mobs, if you hit them and step back, they'll be prevented from hitting you because they can't reach you. This strategy is important when fighting creepers, who will explode if you remain too close to them!
+### Schlagen und zurücktreten
+Wenn du sie triffst und dann einen Schritt zurücktrittst, können sie dich nicht mehr treffen, weil sie dich nicht erreichen können. Diese Strategie ist wichtig, wenn ihr gegen Schleicher kämpft, die explodieren, wenn ihr zu nahe an ihnen dran bleibt!
 
-### Hit from above
-Many mobs cannot reach you (which means they can't attack you) if you tower up a certain height (for example, zombies can't attack you if you tower up 2 blocks), so towering up with a temporary block can be a good strategy to be able to attack a mob without them attacking you.
+### Von oben angreifen
+Viele Mobs können dich nicht erreichen (was bedeutet, dass sie dich nicht angreifen können), wenn du dich in einer bestimmten Höhe auftürmst (Zombies können dich zum Beispiel nicht angreifen, wenn du dich um 2 Blöcke auftürmst), also kann es eine gute Strategie sein, sich mit einem temporären Block aufzutürmen, um einen Mob angreifen zu können, ohne dass er dich angreift.

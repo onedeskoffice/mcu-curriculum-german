@@ -1,9 +1,9 @@
 <img src="../mcu1.png" style="width: 250px;">
 
-# Welcome to Minecraft U!
+# Willkommen bei Minecraft U!
 
-Minecraft game mechanics are incredibly analogous to engineering. We focus on teaching problem solving and programming techniques in a safe, encouraging ecosystem centered around Minecraft. We hope your child has a great week with us, learns a great deal and has loads of fun!
+Die Spielmechanik von Minecraft ist dem Ingenieurwesen unglaublich ähnlich. Wir konzentrieren uns auf die Vermittlung von Problemlösungs- und Programmiertechniken in einem sicheren, ermutigenden Ökosystem rund um Minecraft. Wir hoffen, dass Ihr Kind eine tolle Woche bei uns verbringt, viel lernt und jede Menge Spaß hat!
 
-There is one critical component to your child's enjoyment of this week and their use of their skills after the camp: a Minecraft account. While Minecraft is available on many platforms (such as iOS, Android, Xbox, PlayStation, and Switch), we focus on the PC (Windows, Mac or Linux) version because it provides what we need to teach both computer skills and coding. Each platform requires a separate account, so an account created on a different platform will not work on the PC. However, the PC version is good forever, no matter which computer you play Minecraft on! Minecraft is currently $26.95 and is available at [minecraft.net](https://www.minecraft.net/).
+Damit Ihr Kind diese Woche genießen und seine Fähigkeiten nach dem Camp nutzen kann, gibt es eine entscheidende Komponente: einen Minecraft-Account. Obwohl Minecraft auf vielen Plattformen verfügbar ist (z. B. iOS, Android, Xbox, PlayStation und Switch), konzentrieren wir uns auf die PC-Version (Windows, Mac oder Linux), weil sie alles bietet, was wir brauchen, um sowohl Computerkenntnisse als auch Coding zu vermitteln. Für jede Plattform ist ein eigenes Konto erforderlich, sodass ein auf einer anderen Plattform erstelltes Konto auf dem PC nicht funktioniert. Die PC-Version ist jedoch für immer gültig, egal auf welchem Computer du Minecraft spielst! Minecraft kostet derzeit 26,95 $ und ist unter [minecraft.net](https://www.minecraft.net/) erhältlich.
 
-Once your child has an account, they will need the email and password for the account and we will need their Minecraft username. You can email all this information to info@minecraftu.org.
+Sobald Ihr Kind ein Konto hat, braucht es die E-Mail-Adresse und das Passwort für das Konto und wir brauchen den Minecraft-Benutzernamen. Sie können all diese Informationen per E-Mail an info@minecraftu.org senden.
