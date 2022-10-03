@@ -1,12 +1,12 @@
-# Section 1: An overview of computer networks
+# Abschnitt 1: Ein Überblick über Computernetze
 
-## Introduction
+## Einführung
 
-Computers are at their most useful when working together with other computers to achieve at task. However, getting computers to communicate is not an easy task. In this section, we will go over the basics of computer networking using the ComputerCraft mod as an example.
+Computer sind am nützlichsten, wenn sie mit anderen Computern zusammenarbeiten, um eine Aufgabe zu erfüllen. Es ist jedoch keine leichte Aufgabe, Computer zur Kommunikation zu bewegen. In diesem Abschnitt werden wir die Grundlagen der Computervernetzung am Beispiel des ComputerCraft-Mods erläutern.
 
-### Networking hardware
-The first item we will need is a _modem_. A _modem_ allows a computer to send and receive messages. It is one of the 
-_peripherals_ (another name for attachments) available in ComputerCraft, along with other items such the monitor or 
-the printer. 
+### Netzwerk-Hardware
+Das erste, was wir brauchen, ist ein _Modem_. Ein _Modem_ ermöglicht es einem Computer, Nachrichten zu senden und zu empfangen. Es ist eines der 
+_Peripheriegeräte_ (ein anderer Name für Anhänge), die in ComputerCraft verfügbar sind, zusammen mit anderen Gegenständen wie dem Monitor oder 
+dem Drucker. 
 
-_PICTURE HERE_
+_BILD HIER_

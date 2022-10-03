@@ -1,175 +1,175 @@
 ## creative commons
 
-# Attribution-NonCommercial-ShareAlike 4.0 International
+## Attribution-NonCommercial-ShareAlike 4.0 International
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Die Creative Commons Corporation ("Creative Commons") ist keine Anwaltskanzlei und bietet keine Rechtsdienstleistungen oder Rechtsberatung an. Durch die Verbreitung der öffentlichen Lizenzen von Creative Commons entsteht kein Anwalt-Mandanten- oder sonstiges Verhältnis. Creative Commons stellt seine Lizenzen und die dazugehörigen Informationen auf einer "wie-ist"-Basis zur Verfügung. Creative Commons gibt keine Garantien in Bezug auf die Lizenzen, das unter ihren Bedingungen lizenzierte Material oder die damit verbundenen Informationen. Creative Commons lehnt jegliche Haftung für Schäden, die sich aus der Nutzung der Lizenzen ergeben, in vollem Umfang ab.
 
-### Using Creative Commons Public Licenses
+### Verwendung öffentlicher Creative-Commons-Lizenzen
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Die öffentlichen Creative-Commons-Lizenzen bieten eine Reihe von Standardbedingungen, die Urhebern und anderen Rechteinhabern die Weitergabe von Originalwerken und anderem Material ermöglichen, das dem Urheberrecht und bestimmten anderen Rechten unterliegt, die in der öffentlichen Lizenz unten aufgeführt sind. Die folgenden Überlegungen dienen nur zur Information, sind nicht erschöpfend und sind nicht Teil unserer Lizenzen.
 
-* __Considerations for licensors:__ Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
+* Unsere öffentlichen Lizenzen sind für diejenigen gedacht, die berechtigt sind, der Öffentlichkeit die Erlaubnis zu erteilen, Material in einer Weise zu nutzen, die ansonsten durch das Urheberrecht und bestimmte andere Rechte eingeschränkt ist. Unsere Lizenzen sind unwiderruflich. Lizenznehmer sollten die Bedingungen der von ihnen gewählten Lizenz lesen und verstehen, bevor sie diese anwenden. Lizenzgeber sollten sich auch alle erforderlichen Rechte sichern, bevor sie unsere Lizenzen anwenden, damit die Öffentlichkeit das Material wie erwartet weiterverwenden kann. Lizenzgeber sollten Material, das nicht unter die Lizenz fällt, deutlich kennzeichnen. Dazu gehört auch anderes CC-lizenziertes Material oder Material, das im Rahmen einer Ausnahme oder Einschränkung des Urheberrechts verwendet wird. [Weitere Überlegungen für Lizenzgeber] (http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
-* __Considerations for the public:__ By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
+* __Überlegungen für die Öffentlichkeit:__ Durch die Verwendung einer unserer öffentlichen Lizenzen erteilt ein Lizenzgeber der Öffentlichkeit die Erlaubnis, das lizenzierte Material unter bestimmten Bedingungen zu verwenden. Wenn die Erlaubnis des Lizenzgebers aus irgendeinem Grund nicht erforderlich ist - zum Beispiel aufgrund einer geltenden Ausnahme oder Beschränkung des Urheberrechts -, wird diese Nutzung nicht durch die Lizenz geregelt. Unsere Lizenzen gewähren nur urheberrechtliche und bestimmte andere Rechte, zu deren Gewährung der Lizenzgeber befugt ist. Die Nutzung des lizenzierten Materials kann auch aus anderen Gründen eingeschränkt sein, z. B. weil andere das Urheberrecht oder andere Rechte an dem Material haben. Ein Lizenzgeber kann besondere Anforderungen stellen, z. B. dass alle Änderungen gekennzeichnet oder beschrieben werden müssen. Auch wenn unsere Lizenzen dies nicht vorschreiben, sind Sie angehalten, diese Wünsche zu respektieren, sofern sie angemessen sind. [Weitere Überlegungen für die Öffentlichkeit] (http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Durch die Ausübung der lizenzierten Rechte (wie unten definiert) akzeptieren Sie die Bedingungen dieser Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License") und erklären sich damit einverstanden, an diese gebunden zu sein. Soweit diese Öffentliche Lizenz als Vertrag ausgelegt werden kann, werden Ihnen die lizenzierten Rechte in Anbetracht Ihrer Zustimmung zu diesen Bedingungen gewährt, und der Lizenzgeber gewährt Ihnen diese Rechte in Anbetracht der Vorteile, die der Lizenzgeber aus der Bereitstellung des lizenzierten Materials unter diesen Bedingungen erhält.
 
-### Section 1 – Definitions.
+### Abschnitt 1 - Definitionen.
 
-a. __Adapted Material__ means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. __Angepasstes Material__ bezeichnet Material, das dem Urheberrecht und ähnlichen Rechten unterliegt, das von dem Lizenzmaterial abgeleitet ist oder auf diesem basiert und in dem das Lizenzmaterial übersetzt, verändert, arrangiert, transformiert oder anderweitig in einer Art und Weise modifiziert wurde, die eine Erlaubnis gemäß dem Urheberrecht und ähnlichen Rechten des Lizenzgebers erfordert. Wenn es sich bei dem Lizenzmaterial um ein musikalisches Werk, eine Aufführung oder eine Tonaufnahme handelt, wird angepasstes Material im Sinne dieser Lizenz immer dann produziert, wenn das Lizenzmaterial zeitlich mit einem bewegten Bild synchronisiert wird.
 
-b. __Adapter's License__ means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+b. __Adaptionslizenz__ bezeichnet die Lizenz, die Sie auf Ihre Urheberrechte und ähnlichen Rechte an Ihren Beiträgen zu adaptiertem Material in Übereinstimmung mit den Bedingungen dieser Öffentlichen Lizenz anwenden.
 
-c. __BY-NC-SA Compatible License__ means a license listed at [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses), approved by Creative Commons as essentially the equivalent of this Public License.
+c. __BY-NC-SA Compatible License__ bezeichnet eine unter [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses) aufgeführte Lizenz, die von Creative Commons als im Wesentlichen gleichwertig mit dieser Öffentlichen Lizenz anerkannt wurde.
 
-d. __Copyright and Similar Rights__ means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+d. __Urheberrecht und ähnliche Rechte__ bezeichnet das Urheberrecht und/oder ähnliche Rechte, die eng mit dem Urheberrecht verwandt sind, einschließlich, aber nicht beschränkt auf Aufführungs-, Sende-, Tonträger- und Sui-generis-Datenbankrechte, ohne Rücksicht darauf, wie die Rechte bezeichnet oder kategorisiert werden. Für die Zwecke dieser öffentlichen Lizenz sind die in Abschnitt 2(b)(1)-(2) genannten Rechte keine Urheberrechte und ähnlichen Rechte.
 
-e. __Effective Technological Measures__ means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. __Wirksame technische Maßnahmen__ sind solche Maßnahmen, die mangels entsprechender Befugnisse nicht aufgrund von Gesetzen umgangen werden dürfen, die Verpflichtungen gemäß Artikel 11 des am 20. Dezember 1996 angenommenen WIPO-Urheberrechtsvertrags und/oder ähnlicher internationaler Vereinbarungen erfüllen.
 
-f. __Exceptions and Limitations__ means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. __Ausnahmen und Beschränkungen__ bedeutet faire Nutzung, fairer Umgang und/oder jede andere Ausnahme oder Beschränkung des Urheberrechts und ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten Materials zutrifft.
 
-g. __License Elements__ means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution, NonCommercial, and ShareAlike.
+g. __Lizenzbestandteile__ bezeichnet die im Namen einer Creative Commons Public License aufgeführten Lizenzattribute. Die Lizenzelemente dieser öffentlichen Lizenz sind Attribution, NonCommercial, und ShareAlike.
 
-h. __Licensed Material__ means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. __Lizenziertes Material__ bezeichnet das künstlerische oder literarische Werk, die Datenbank oder anderes Material, auf das der Lizenzgeber diese Öffentliche Lizenz angewendet hat.
 
-i. __Licensed Rights__ means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. __Lizenzierte Rechte__ bezeichnet die Rechte, die Ihnen vorbehaltlich der Bedingungen dieser Öffentlichen Lizenz gewährt werden, die sich auf alle Urheberrechte und ähnlichen Rechte beschränken, die für Ihre Nutzung des Lizenzmaterials gelten und für die der Lizenzgeber befugt ist, eine Lizenz zu erteilen.
 
-h. __Licensor__ means the individual(s) or entity(ies) granting rights under this Public License.
+h. __Lizenzgeber__ bezeichnet die natürliche(n) oder juristische(n) Person(en), die Rechte unter dieser Öffentlichen Lizenz gewährt.
 
-i. __NonCommercial__ means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+i. __Nichtkommerziell__ bedeutet, nicht in erster Linie für einen kommerziellen Vorteil oder eine finanzielle Entschädigung bestimmt oder darauf ausgerichtet. Für die Zwecke dieser Öffentlichen Lizenz ist der Austausch des lizenzierten Materials gegen anderes Material, das dem Urheberrecht und ähnlichen Rechten unterliegt, durch digitales File-Sharing oder ähnliche Mittel nicht-kommerziell, vorausgesetzt, es erfolgt keine Zahlung eines finanziellen Ausgleichs in Verbindung mit dem Austausch.
 
-j. __Share__ means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+j. __Sharing__ bedeutet, Material der Öffentlichkeit durch jedes Mittel oder Verfahren zur Verfügung zu stellen, das eine Erlaubnis unter den lizenzierten Rechten erfordert, wie z.B. Vervielfältigung, öffentliche Zurschaustellung, öffentliche Aufführung, Vertrieb, Verbreitung, Kommunikation oder Import, und Material der Öffentlichkeit zur Verfügung zu stellen, auch in einer Weise, dass Mitglieder der Öffentlichkeit von einem Ort und zu einer Zeit, die sie individuell wählen, auf das Material zugreifen können.
 
-k. __Sui Generis Database Rights__ means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+k. __Sui Generis Datenbankrechte__ sind andere Rechte als das Urheberrecht, die sich aus der Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken in ihrer geänderten und/oder nachfolgenden Fassung ergeben, sowie andere im Wesentlichen gleichwertige Rechte überall auf der Welt.
 
-l. __You__ means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+l. __Sie__ bezeichnet die natürliche oder juristische Person, die die lizenzierten Rechte unter dieser öffentlichen Lizenz ausübt. Ihr hat eine entsprechende Bedeutung.
 
-### Section 2 – Scope.
+### Abschnitt 2 - Geltungsbereich.
 
-a. ___License grant.___
+a. ___Lizenzgewährung.___
 
-   1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+   1. Vorbehaltlich der Bestimmungen und Bedingungen dieser Öffentlichen Lizenz gewährt Ihnen der Lizenzgeber hiermit eine weltweite, unentgeltliche, nicht unterlizenzierbare, nicht ausschließliche und unwiderrufliche Lizenz zur Ausübung der lizenzierten Rechte an dem lizenzierten Material, um:
 
-        A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+        A. das Lizenzmaterial ganz oder teilweise für nicht-kommerzielle Zwecke zu vervielfältigen und weiterzugeben; und
 
-        B. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+        B. Angepasstes Material ausschließlich für nicht-kommerzielle Zwecke herzustellen, zu vervielfältigen und weiterzugeben.
 
-   2. __Exceptions and Limitations.__ For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+   2. __Ausnahmen und Beschränkungen.__ Um Zweifel zu vermeiden: Wo Ausnahmen und Beschränkungen auf Ihre Nutzung zutreffen, gilt diese Öffentliche Lizenz nicht, und Sie müssen sich nicht an ihre Bedingungen halten.
 
-   3. __Term.__ The term of this Public License is specified in Section 6(a).
+   3. Laufzeit.__ Die Laufzeit dieser Öffentlichen Lizenz ist in Abschnitt 6(a) festgelegt.
 
-   4. __Media and formats; technical modifications allowed.__ The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+   4. __Medien und Formate; technische Modifikationen erlaubt.__ Der Lizenzgeber ermächtigt Sie, die lizenzierten Rechte in allen heute bekannten oder künftig geschaffenen Medien und Formaten auszuüben und die dafür notwendigen technischen Modifikationen vorzunehmen. Der Lizenzgeber verzichtet auf die Geltendmachung von Rechten oder Befugnissen, die es Ihnen verbieten, technische Modifikationen vorzunehmen, die zur Ausübung der lizenzierten Rechte erforderlich sind, einschließlich technischer Modifikationen, die zur Umgehung wirksamer technischer Maßnahmen erforderlich sind. Für die Zwecke dieser Öffentlichen Lizenz führt die bloße Vornahme von Änderungen, die durch diesen Abschnitt 2(a)(4) gestattet sind, niemals zu Angepasstem Material.
 
-    5. __Downstream recipients.__
+    5. __Downstream-Empfänger_.
 
-        A. __Offer from the Licensor – Licensed Material.__ Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+        A. Jeder Empfänger des Lizenzmaterials erhält automatisch ein Angebot des Lizenzgebers zur Ausübung der Lizenzrechte unter den Bedingungen dieser Öffentlichen Lizenz.
 
-        B. __Additional offer from the Licensor – Adapted Material.__ Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+        B. Angebot des Lizenzgebers - Bearbeitetes Material __ Jeder Empfänger von bearbeitetem Material von Ihnen erhält automatisch ein Angebot des Lizenzgebers, die Lizenzrechte an dem bearbeiteten Material unter den Bedingungen der von Ihnen beantragten Lizenz des Adapters auszuüben.
 
-        C. __No downstream restrictions.__ You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+        C. Keine nachgelagerten Beschränkungen.__ Sie dürfen keine zusätzlichen oder anderen Bedingungen für das Lizenzmaterial anbieten oder auferlegen oder wirksame technische Maßnahmen auf das Lizenzmaterial anwenden, wenn dadurch die Ausübung der Lizenzrechte durch einen Empfänger des Lizenzmaterials eingeschränkt wird.
 
-    6. __No endorsement.__ Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    6. Nichts in dieser Öffentlichen Lizenz stellt eine Erlaubnis dar oder kann als Erlaubnis ausgelegt werden, zu behaupten oder anzudeuten, dass Sie mit dem Lizenzgeber oder anderen, die gemäß Abschnitt 3(a)(1)(A)(i) als solche bezeichnet werden, verbunden sind oder dass Ihre Nutzung des Lizenzmaterials vom Lizenzgeber gesponsert, befürwortet oder mit einem offiziellen Status versehen wird.
 
-b. ___Other rights.___
+b. ___Andere Rechte.___
 
-   1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+   1. Moralische Rechte, wie z.B. das Recht auf Integrität, werden unter dieser Öffentlichen Lizenz nicht lizenziert, ebenso wenig wie Publizitäts-, Privatsphären- und/oder andere ähnliche Persönlichkeitsrechte; der Lizenzgeber verzichtet jedoch, soweit möglich, auf die Geltendmachung solcher Rechte in dem begrenzten Umfang, der erforderlich ist, um Ihnen die Ausübung der lizenzierten Rechte zu ermöglichen, jedoch nicht darüber hinaus.
 
-   2. Patent and trademark rights are not licensed under this Public License.
+   2. Patent- und Markenrechte werden unter dieser Öffentlichen Lizenz nicht lizenziert.
 
-   3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+   3. Soweit möglich, verzichtet der Lizenzgeber darauf, von Ihnen für die Ausübung der lizenzierten Rechte Lizenzgebühren zu verlangen, sei es direkt oder über eine Verwertungsgesellschaft im Rahmen eines freiwilligen oder verzichtbaren gesetzlichen oder obligatorischen Lizenzierungssystems. In allen anderen Fällen behält sich der Lizenzgeber ausdrücklich das Recht vor, solche Lizenzgebühren zu erheben, auch wenn das Lizenzmaterial für andere als nichtkommerzielle Zwecke verwendet wird.
 
-### Section 3 – License Conditions.
+### Abschnitt 3 - Lizenzbedingungen.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Die Ausübung der lizenzierten Rechte durch Sie unterliegt ausdrücklich den folgenden Bedingungen.
 
 a. ___Attribution.___
 
-   1. If You Share the Licensed Material (including in modified form), You must:
+   1. Wenn Sie das lizenzierte Material weitergeben (auch in modifizierter Form), müssen Sie:
 
-       A. retain the following if it is supplied by the Licensor with the Licensed Material:
+       A. Folgendes aufbewahren, wenn es vom Lizenzgeber zusammen mit dem Lizenzmaterial zur Verfügung gestellt wird:
 
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. die Identifizierung des/der Urheber(s) des Lizenzmaterials und aller anderen Personen, die als Urheber benannt wurden, in einer vom Lizenzgeber geforderten angemessenen Weise (einschließlich eines Pseudonyms, falls benannt);
 
-         ii. a copyright notice;
+         ii. einen Urheberrechtsvermerk;
 
-         iii. a notice that refers to this Public License;
+         iii. einen Hinweis, der auf diese Öffentliche Lizenz verweist;
 
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. einen Hinweis, der auf den Gewährleistungsausschluss verweist;
 
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. einen URI oder einen Hyperlink zum Lizenzmaterial, soweit dies praktikabel ist;
 
-       B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+       B. einen Hinweis darauf, ob Sie das Lizenzmaterial verändert haben, und einen Hinweis auf frühere Veränderungen; und
 
-       C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+       C. darauf hinweisen, dass das Lizenzmaterial unter dieser Öffentlichen Lizenz lizenziert ist, und den Text dieser Öffentlichen Lizenz bzw. den URI oder Hyperlink zu dieser Öffentlichen Lizenz angeben.
 
-    2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    2. Sie können die Bedingungen in Abschnitt 3(a)(1) in jeder angemessenen Weise erfüllen, die auf dem Medium, den Mitteln und dem Kontext basiert, in dem Sie das Lizenzmaterial weitergeben. Zum Beispiel kann es angemessen sein, die Bedingungen zu erfüllen, indem Sie einen URI oder Hyperlink zu einer Ressource bereitstellen, die die erforderlichen Informationen enthält.
 
-    3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+    3. Auf Verlangen des Lizenzgebers sind Sie verpflichtet, die in Abschnitt 3(a)(1)(A) geforderten Informationen zu entfernen, soweit dies vernünftigerweise durchführbar ist.
 
 b. ___ShareAlike.___
 
-In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+Zusätzlich zu den Bedingungen in Abschnitt 3(a) gelten die folgenden Bedingungen, wenn Sie von Ihnen produziertes adaptiertes Material weitergeben.
 
-1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.
+1. Die Lizenz des Adapters, die Sie anwenden, muss eine Creative-Commons-Lizenz mit denselben Lizenzelementen, in dieser oder einer neueren Version, oder eine BY-NC-SA-kompatible Lizenz sein.
 
-2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+2. Sie müssen den Text der Adapterlizenz, die Sie anwenden, oder den URI oder Hyperlink dazu einfügen. Sie können diese Bedingung in jeder angemessenen Weise erfüllen, die auf dem Medium, den Mitteln und dem Kontext basiert, in dem Sie angepasstes Material weitergeben.
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. Sie dürfen keine zusätzlichen oder abweichenden Bedingungen anbieten oder auferlegen oder wirksame technische Maßnahmen auf das adaptierte Material anwenden, die die Ausübung der unter der von Ihnen angewandten Adapterlizenz gewährten Rechte einschränken.
 
-### Section 4 – Sui Generis Database Rights.
+### Abschnitt 4 - Sui Generis Datenbankrechte.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Wenn die Lizenzrechte Sui Generis-Datenbankrechte beinhalten, die für Ihre Nutzung des Lizenzmaterials gelten, gilt Folgendes
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
+a. Zur Klarstellung: Abschnitt 2(a)(1) gewährt Ihnen das Recht, den gesamten Inhalt der Datenbank oder einen wesentlichen Teil davon ausschließlich für nichtkommerzielle Zwecke zu extrahieren, wiederzuverwenden, zu reproduzieren und weiterzugeben;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
+b. wenn Sie den gesamten oder einen wesentlichen Teil des Inhalts der Datenbank in eine Datenbank aufnehmen, an der Sie Sui Generis-Datenbankrechte haben, dann ist die Datenbank, an der Sie Sui Generis-Datenbankrechte haben (aber nicht ihr einzelner Inhalt), angepasstes Material, auch für die Zwecke von Abschnitt 3(b); und
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. Sie müssen die Bedingungen in Abschnitt 3(a) einhalten, wenn Sie den gesamten Inhalt der Datenbank oder einen wesentlichen Teil davon weitergeben.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Zur Klarstellung: Dieser Abschnitt 4 ergänzt und ersetzt nicht Ihre Verpflichtungen aus dieser Öffentlichen Lizenz, wenn die lizenzierten Rechte andere Urheberrechte und ähnliche Rechte umfassen.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Abschnitt 5 - Gewährleistungsausschluss und Haftungsbeschränkung.
 
-a. __Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.__
+a. Der Lizenzgeber bietet das Lizenzmaterial, soweit möglich, so an, wie es ist und wie es zur Verfügung steht, und gibt keinerlei Zusicherungen oder Garantien bezüglich des Lizenzmaterials, weder ausdrücklich noch stillschweigend, gesetzlich oder auf andere Weise. Dies beinhaltet, ohne Einschränkung, Garantien für das Eigentum, die Marktgängigkeit, die Eignung für einen bestimmten Zweck, die Nichtverletzung von Rechten Dritter, das Nichtvorhandensein latenter oder anderer Mängel, die Genauigkeit oder das Vorhandensein bzw. Nichtvorhandensein von Fehlern, unabhängig davon, ob diese bekannt sind oder entdeckt werden können. Wo Gewährleistungsausschlüsse ganz oder teilweise nicht zulässig sind, gilt dieser Haftungsausschluss möglicherweise nicht für Sie.
 
-b. __To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.__
+b. Soweit möglich, haftet der Lizenzgeber Ihnen gegenüber unter keinen Umständen aufgrund irgendeiner Rechtstheorie (einschließlich, aber nicht beschränkt auf Fahrlässigkeit) oder auf andere Weise für direkte, besondere, indirekte, zufällige, Folge-, Straf-, exemplarische oder sonstige Verluste, Kosten, Ausgaben oder Schäden, die sich aus dieser Öffentlichen Lizenz oder der Nutzung des Lizenzmaterials ergeben, selbst wenn der Lizenzgeber auf die Möglichkeit solcher Verluste, Kosten, Ausgaben oder Schäden hingewiesen worden ist. Wo eine Haftungsbeschränkung ganz oder teilweise unzulässig ist, gilt diese Beschränkung möglicherweise nicht für Sie.__
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Der oben vorgesehene Gewährleistungsausschluss und die Haftungsbeschränkung sind so auszulegen, dass sie einem absoluten Gewährleistungsausschluss und einem Verzicht auf jegliche Haftung so weit wie möglich nahe kommen.
 
-### Section 6 – Term and Termination.
+### Abschnitt 6 - Laufzeit und Beendigung.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Diese öffentliche Lizenz gilt für die Dauer der hier lizenzierten Urheberrechte und ähnlichen Rechte. Wenn Sie jedoch diese Öffentliche Lizenz nicht einhalten, erlöschen Ihre Rechte unter dieser Öffentlichen Lizenz automatisch.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Wenn Ihr Recht zur Nutzung des lizenzierten Materials gemäß Abschnitt 6(a) erloschen ist, lebt es wieder auf:
 
-   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+   1. automatisch mit dem Datum, an dem der Verstoß geheilt wird, sofern er innerhalb von 30 Tagen nach Ihrer Entdeckung des Verstoßes geheilt wird, oder
 
-   2. upon express reinstatement by the Licensor.
+   2. nach ausdrücklicher Wiedereinsetzung durch den Lizenzgeber.
 
-   For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+   Um Zweifel auszuschließen, berührt dieser Abschnitt 6(b) nicht das Recht des Lizenzgebers, Rechtsmittel für Ihre Verstöße gegen diese Öffentliche Lizenz einzulegen.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Um Zweifel auszuschließen, kann der Lizenzgeber das Lizenzmaterial auch unter anderen Bedingungen anbieten oder den Vertrieb des Lizenzmaterials jederzeit einstellen; dies führt jedoch nicht zur Beendigung dieser Öffentlichen Lizenz.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Die Abschnitte 1, 5, 6, 7 und 8 gelten auch nach Beendigung dieser Lizenz weiter.
 
-### Section 7 – Other Terms and Conditions.
+### Abschnitt 7 - Sonstige Bestimmungen und Bedingungen.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Der Lizenzgeber ist nicht an zusätzliche oder abweichende Bedingungen gebunden, die von Ihnen mitgeteilt werden, es sei denn, Sie haben diesen ausdrücklich zugestimmt.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Jegliche Vereinbarungen, Absprachen oder Übereinkünfte in Bezug auf das Lizenzmaterial, die hier nicht aufgeführt sind, sind von den Bestimmungen und Bedingungen dieser Lizenz getrennt und unabhängig.
 
-### Section 8 – Interpretation.
+### Abschnitt 8 - Auslegung.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Zur Vermeidung von Zweifeln soll diese Öffentliche Lizenz nicht so ausgelegt werden, dass sie eine Nutzung des Lizenzmaterials, die ohne die Erlaubnis dieser Öffentlichen Lizenz rechtmäßig erfolgen könnte, einschränkt, begrenzt oder Bedingungen auferlegt.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sollte eine Bestimmung dieser Lizenz als nicht durchsetzbar angesehen werden, so wird sie, soweit möglich, automatisch so weit umgestaltet, wie es für ihre Durchsetzbarkeit erforderlich ist. Wenn die Bestimmung nicht umgestaltet werden kann, soll sie von dieser Öffentlichen Lizenz abgetrennt werden, ohne die Durchsetzbarkeit der übrigen Bestimmungen und Bedingungen zu beeinträchtigen.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Keine Bedingung dieser Öffentlichen Lizenz wird außer Kraft gesetzt und keine Nichteinhaltung wird anerkannt, es sei denn, der Lizenzgeber stimmt ausdrücklich zu.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Nichts in dieser Öffentlichen Lizenz stellt eine Einschränkung oder einen Verzicht auf Vorrechte und Befreiungen dar, die für den Lizenzgeber oder Sie gelten, einschließlich der Befreiung von rechtlichen Verfahren einer Gerichtsbarkeit oder Behörde, und kann auch nicht als solche ausgelegt werden.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+> Creative Commons ist nicht Vertragspartei seiner öffentlichen Lizenzen. Ungeachtet dessen kann Creative Commons sich dafür entscheiden, eine ihrer öffentlichen Lizenzen auf das von ihr veröffentlichte Material anzuwenden und wird in diesen Fällen als "Lizenzgeber" betrachtet. Mit Ausnahme des begrenzten Zwecks, darauf hinzuweisen, dass das Material unter einer öffentlichen Creative Commons-Lizenz geteilt wird, oder wie anderweitig durch die Creative Commons-Richtlinien erlaubt, die unter [creativecommons.org/policies] (http://creativecommons.org/policies) veröffentlicht sind, genehmigt Creative Commons nicht die Verwendung der Marke "Creative Commons" oder einer anderen Marke oder eines Logos von Creative Commons ohne ihre vorherige schriftliche Zustimmung, einschließlich, aber nicht beschränkt auf, in Verbindung mit unbefugten Änderungen an einer ihrer öffentlichen Lizenzen oder anderen Vereinbarungen, Absprachen oder Verträgen bezüglich der Verwendung von lizenziertem Material. Um Zweifel auszuschließen, sei darauf hingewiesen, dass dieser Absatz nicht Teil der öffentlichen Lizenzen ist.
 >
-> Creative Commons may be contacted at creativecommons.org
+> Creative Commons kann unter creativecommons.org kontaktiert werden.

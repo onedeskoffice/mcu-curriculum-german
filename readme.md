@@ -1,51 +1,51 @@
-# Minecraft U Curriculum
+# Minecraft U-Lehrplan
 
-This is the repository for the [Minecraft U](http://minecraftu.org/) curriculum. This curriculum is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](license.md).
+Dies ist das Repository für den [Minecraft U](http://minecraftu.org/) Lehrplan. Dieser Lehrplan wird unter einer [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](license.md) veröffentlicht.
 
-## About Minecraft U
+## Über Minecraft U
 
 <img src="mcu1.png" style="max-width:250px;float:right">
 
-### Practical Programming and Design Instruction for Your Child
+### Praktischer Programmier- und Designunterricht für Ihr Kind
 
-Minecraft game mechanics are incredibly analogous to engineering. We focus on teaching problem solving and programming techniques in a safe, encouraging ecosystem centered around Minecraft.
+Die Spielmechanik von Minecraft ist dem Ingenieurwesen sehr ähnlich. Wir konzentrieren uns auf die Vermittlung von Problemlösungs- und Programmiertechniken in einem sicheren, ermutigenden Ökosystem rund um Minecraft.
 
-Our curriculum is designed to guide a child from the basics of Minecraft gameplay all the way through to programming using modern programming languages. Our materials are engaging and skip the cruft of most books or templated materials. Maintaining it ourselves means we are able to keep it updated to the changing landscape of both Minecraft and technology education.
+Unser Lehrplan ist so gestaltet, dass er die Kinder von den Grundlagen des Minecraft-Spiels bis hin zur Programmierung mit modernen Programmiersprachen führt. Unsere Materialien sind fesselnd und lassen den Ballast der meisten Bücher oder Vorlagen weg. Da wir den Lehrplan selbst pflegen, können wir ihn stets an die sich verändernde Landschaft von Minecraft und der technischen Bildung anpassen.
 
-The curriculum itself is organized into a core curriculum organized by levels. There are also additional units outside of the core levels.
+Der Lehrplan selbst ist in einen Kernlehrplan gegliedert, der nach Stufen organisiert ist. Es gibt auch zusätzliche Einheiten außerhalb der Kernstufen.
 
-### Level 1: Basic Computer Skills with Minecraft | [source](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_1)
+### Level 1: Grundlegende Computerkenntnisse mit Minecraft | [Quelle](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_1)
 
-Learn how to use a computer...no previous experience required! You might be able to make an iPad sing, but it's time to learn how to use a keyboard and mouse. You also might be brand-new to Minecraft or need to level up your Minecraft skills from the Pocket Edition to the "proper" PC version.
+Lerne, wie man einen Computer benutzt... keine Vorkenntnisse erforderlich! Du kannst vielleicht ein iPad zum Singen bringen, aber es ist an der Zeit zu lernen, wie man eine Tastatur und eine Maus benutzt. Vielleicht bist du auch ganz neu in Minecraft oder musst deine Minecraft-Kenntnisse von der Pocket Edition auf die "richtige" PC-Version aufstocken.
 
-### Level 2: Basic Problem Solving with Minecraft | [source](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_2)
+### Level 2: Grundlegende Problemlösung mit Minecraft | [Quelle](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_2)
 
-Learn the basics of survival in the Minecraft world, from fending off starvation to defending against skeletons. Overcome the challenges that Minecraft has to offer, and have fun doing it. _For ages 6-12._
+Lerne die Grundlagen des Überlebens in der Minecraft-Welt, von der Abwehr des Hungers bis zur Verteidigung gegen Skelette. Überwinden Sie die Herausforderungen, die Minecraft zu bieten hat, und haben Sie dabei Spaß. Für Kinder von 6-12 Jahren.
 
-### Level 3: Engineering with Redstone | [source](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_3)
+### Stufe 3: Technik mit Redstone | [Quelle](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_3)
 
-Learn the basics of electricity and logic, with in-game and real-world applications. We’ll go over digital circuits, like those found in smartphones and tablets, and how to use them in the Minecraft world to build some awesome contraptions. _For ages 8-14 or younger when having completed Level 2 or with equivalent experience._
+Lerne die Grundlagen von Elektrizität und Logik, mit Anwendungen im Spiel und in der realen Welt. Wir beschäftigen uns mit digitalen Schaltkreisen, wie man sie in Smartphones und Tablets findet, und wie man sie in der Minecraft-Welt verwendet, um fantastische Apparate zu bauen. Für Kinder von 8-14 Jahren oder jünger, wenn sie Level 2 abgeschlossen haben oder über gleichwertige Erfahrungen verfügen.
 
-### Level 4: ComputerCraft | [source](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_4)
+### Level 4: ComputerCraft | [Quelle](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_4)
 
-Use the Minecraft mod ComputerCraft to learn the basics of programming and then apply those skills via your own in-game robots. These robots can do anything, from build you a house to find and mine diamonds for you. The only limit is your ability to direct them. _For ages 8-14 or younger when having completed Level 3 or with equivalent experience._
+Nutze die Minecraft-Mod ComputerCraft, um die Grundlagen des Programmierens zu erlernen und wende diese Fähigkeiten dann in deinen eigenen Robotern im Spiel an. Diese Roboter können alles tun, vom Hausbau bis hin zur Suche und Förderung von Diamanten. Die einzige Grenze ist deine Fähigkeit, sie zu steuern. Für Kinder von 8-14 Jahren oder jünger, wenn sie Level 3 abgeschlossen haben oder über gleichwertige Erfahrungen verfügen.
 
-### Level 5: Java and Modding Minecraft | [source](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_5)
+### Level 5: Java und Modding Minecraft | [Quelle](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_5)
 
-Learn the basics of Java, the most common programming language in the world, and use them to create your own modification of Minecraft. Add any item of your design to the game, expanding Minecraft in whatever direction you desire. _For ages 10-16 or younger when having completed Level 4 or with equivalent experience._
+Lerne die Grundlagen von Java, der am weitesten verbreiteten Programmiersprache der Welt, und nutze sie, um deine eigene Modifikation von Minecraft zu erstellen. Füge dem Spiel jedes beliebige Element hinzu und erweitere Minecraft in jede gewünschte Richtung. Für 10-16-Jährige oder Jüngere, die Level 4 abgeschlossen haben oder über gleichwertige Erfahrungen verfügen.
 
-### Level 6: Independent Study in Programming and Software Development
+### Level 6: Selbstständiges Lernen in Programmierung und Softwareentwicklung
 
-Expand your Java modding abilities, or learn a new language and build websites. We'll point you in the right direction, provide the material, and help you along the way.
+Erweitern Sie Ihre Java-Modding-Fähigkeiten oder lernen Sie eine neue Sprache und erstellen Sie Websites. Wir zeigen Ihnen die richtige Richtung, stellen Ihnen das Material zur Verfügung und helfen Ihnen auf Ihrem Weg.
 
-### Level 7: Brainstorming with Minecraft | [source](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_7)
+### Level 7: Brainstorming mit Minecraft | [Quelle](https://github.com/MinecraftU/mcu-curriculum/tree/master/level_7)
 
-Brainstorming with Minecraft is all about how to create ideas and put them to work with technology. We will use Minecraft as our brainstorming playground because it is friendly and easy to use, but still sophisticated enough to use as an exploratory launching pad for these concepts. Over the course of the camp, students will learn about worldbuilding, product design and work management. Students will practice a design sprint, prototyping, user testing, iteration, and Kanban—all tools and methods that real software teams use to create the products you use every day.
+Beim Brainstorming mit Minecraft geht es darum, wie man Ideen entwickelt und sie mit Hilfe von Technologie umsetzt. Wir werden Minecraft als Spielplatz für das Brainstorming verwenden, weil es freundlich und einfach zu bedienen ist, aber dennoch anspruchsvoll genug, um als Startrampe für diese Konzepte zu dienen. Im Laufe des Camps werden die Schüler etwas über Worldbuilding, Produktdesign und Arbeitsmanagement lernen. Die Teilnehmer üben einen Design Sprint, Prototyping, Benutzertests, Iteration und Kanban - alles Werkzeuge und Methoden, die echte Softwareteams verwenden, um die Produkte zu entwickeln, die Sie täglich benutzen.
 
 ---
 
-### Contributing
+### Beitragen
 
-Contributions, corrections and improvements to this curriculum are welcome! If you are not familiar with how to contribute to a project on GitHub, check out [this guide](https://guides.github.com/activities/forking/).
+Beiträge, Korrekturen und Verbesserungen zu diesem Lehrplan sind willkommen! Wenn du nicht weißt, wie man zu einem Projekt auf GitHub beiträgt, schau dir [diese Anleitung](https://guides.github.com/activities/forking/) an.
 
-See the core Minecraft U team's curriculum planning board [here](https://www.notion.so/514b386478514a1ca80737c7ecfe0e75?v=b36e6434acae4e9ba48b95c4a882cd21).
+Sehen Sie sich das Planungsboard des Minecraft U Kernteams [hier](https://www.notion.so/514b386478514a1ca80737c7ecfe0e75?v=b36e6434acae4e9ba48b95c4a882cd21) an.

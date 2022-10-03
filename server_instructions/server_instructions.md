@@ -1,17 +1,17 @@
-## Creative Server
+## Kreativ-Server
 
-This is a vanilla Minecraft creative server. This server can be joined from default Minecraft launcher running version 1.19.
+Dies ist ein Vanilla Minecraft Creative Server. Dieser Server kann vom Standard Minecraft Launcher mit Version 1.19 betreten werden.
 
-* Server address: **mcucreative.crafted.pro**
-* Minecraft version: 1.19
+* Server-Adresse: **mcucreative.crafted.pro**
+* Minecraft Version: 1.19
 
-This is a whitelisted server. To be added to the server email your username to info@minecraftu.org. 
+Dies ist ein Whitelist-Server. Um dem Server hinzugefügt zu werden, schicke eine E-Mail mit deinem Benutzernamen an info@minecraftu.org. 
 
 ## Survival Server
 
-This is a vanilla Minecraft survival server for our more advanced Minecrafters. This server can be joined from default Minecraft launcher running version 1.19.
+Dies ist ein Vanilla Minecraft Survival Server für unsere fortgeschrittenen Minecrafter. Dieser Server kann vom Standard Minecraft Launcher mit Version 1.19 betreten werden.
 
-* Server address: **mcusurvival.cubed.pro**
-* Minecraft version: 1.19
+* Server-Adresse: **mcusurvival.cubed.pro**
+* Minecraft-Version: 1.19
 
-This is a whitelisted server. To be added to the server email your username to info@minecraftu.org. 
+Dies ist ein Whitelist-Server. Um zum Server hinzugefügt zu werden, schicke eine E-Mail mit deinem Benutzernamen an info@minecraftu.org. 

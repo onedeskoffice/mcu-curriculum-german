@@ -1,13 +1,13 @@
-# Inspiration in Bridge Building
+# Inspiration beim Brückenbau
 
-One of the first complicated structures many players build is a bridge. This can be a small structure passing over a river, or a towering colossus connecting two mountains.
+Eines der ersten komplizierten Bauwerke, das viele Spieler bauen, ist eine Brücke. Dabei kann es sich um ein kleines Bauwerk handeln, das über einen Fluss führt, oder um einen gewaltigen Koloss, der zwei Berge miteinander verbindet.
 
-The bridge is an excellent choice to start teaching the basics of design, primarily because the function of a bridge is easy to fulfill, and after that, the player is free to focus on form rather than function.
+Die Brücke eignet sich hervorragend, um die Grundlagen des Designs zu vermitteln, vor allem, weil die Funktion einer Brücke einfach zu erfüllen ist und der Spieler sich danach auf die Form statt auf die Funktion konzentrieren kann.
 
-## Bridge One: Medieval River Crossing
+## Brücke Eins: Mittelalterliche Flussüberquerung
 
-## Bridge Two: Suspension Between Cliffs
+## Brücke Zwei: Hängebrücke zwischen Klippen
 
-## Bridge Three: Fantasy
+## Brücke Drei: Fantasie
 
-## Your Turn!
+## Du bist dran!

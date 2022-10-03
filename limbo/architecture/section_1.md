@@ -1,146 +1,146 @@
 # Advanced Building
 
-## Furniture and Decor
+## Möbel und Dekoration
 
-### Tables and Chairs
+### Tische und Stühle
 
-Tables can be made in many different ways, like a pressure plate on a fence post or glass pame, carpet on a cactus in a pot, or a piston powered by redstone.
+Tische können auf viele verschiedene Arten hergestellt werden, z. B. mit einer Druckplatte auf einem Zaunpfahl oder einer Glasplatte, einem Teppich auf einem Kaktus in einem Topf oder einem Kolben, der von einem roten Stein angetrieben wird.
 
-![Tables using various materials](images/tables.png)
+Tische aus verschiedenen Materialien](images/tables.png)
 
-Chairs are usually made with stairs and can be given arm rests with items such as signs, paintings, trap doors, and item frames.
+Stühle werden in der Regel mit Treppen gebaut und können mit Gegenständen wie Schildern, Gemälden, Falltüren und Gegenstandsrahmen mit Armlehnen versehen werden.
 
-![Chairs using various materials](images/chairs.png)
+![Stühle aus verschiedenen Materialien](images/chairs.png)
 
-### Wall art
+### Wandkunst
 
-Paintings are a great way to decorate your home. They come in lots of different sizes and can even be used to hide doors! Item frames are not only a nice decoration, but double as storage to display your tools and fovorite items!
+Gemälde sind eine großartige Möglichkeit, dein Zuhause zu dekorieren. Es gibt sie in vielen verschiedenen Größen und sie können sogar dazu verwendet werden, Türen zu verstecken! Rahmen für Gegenstände sind nicht nur eine schöne Dekoration, sondern dienen auch als Aufbewahrungsort für Werkzeuge und Lieblingsgegenstände!
 
-![Hiding doors with paintings](images/paintings.png)
+![Türen mit Bildern verstecken](images/paintings.png)
 
 ![Item Frames](images/frames.png)
 
-### Cabinets
+### Schränke
 
-Bookshelves can be spruced up with the same types of materials you use for chairs. Stairs are a great way to add depth and texture to a home, as well.
+Bücherregale lassen sich mit denselben Materialien verschönern, die du auch für Stühle verwendest. Auch Treppen sind eine gute Möglichkeit, einer Wohnung Tiefe und Struktur zu verleihen.
 
-![Shelves and stairs](images/shelves.png)
+Regale und Treppen](images/shelves.png)
 
-## Lighting strategies
+## Beleuchtungsstrategien
 
-### Hiding light sources
+## Lichtquellen verstecken
 
-#### Carpet
+#### Teppichboden
 
-You can hide a light source under carpet. The only disadvantage is you can't place another block on top of the carpet.
+Sie können eine Lichtquelle unter einem Teppich verstecken. Der einzige Nachteil ist, dass Sie keinen weiteren Block auf dem Teppich platzieren können.
 
-![Using carpet to hide lighting sources](images/lighting_carpet.png)
+![Mit Teppich Lichtquellen verstecken](images/lighting_carpet.png)
 
-![Using carpet to hide lighting sources](images/lighting_carpet_source.png)
+![Teppich zum Verbergen von Lichtquellen verwenden](images/lighting_carpet_source.png)
 
-#### Jack-o-lanterns with hidden faces
+#### Jack-o-lanterns mit versteckten Gesichtern
 
-You can place jack-o-lanterns in walls and floors so that their face isn't facing outwards. Unless you like the jack-o-lantern faces, in which case leave them face-out (only an option in walls).
+Sie können Jack-O-Lanterns in Wänden und Böden so platzieren, dass ihr Gesicht nicht nach außen zeigt. Es sei denn, du magst die Gesichter der Laternen, in diesem Fall solltest du sie mit dem Gesicht nach außen platzieren (nur eine Option bei Wänden).
 
-![Lack-o-lantern obscured in wall](images/lighting_jackolantern.png)
+Lack-o-lantern in der Wand verdeckt](images/lighting_jackolantern.png)
 
-#### The around-the-corner trick
+#### Der Trick mit der Um-die-Ecke-Laterne
 
-It lets less light through, and might not work in buildings as well as it does in caves or mountain-dwellings, but lights can be hidden "up and away" inside small openings in walls.
+Er lässt weniger Licht durch und funktioniert in Gebäuden vielleicht nicht so gut wie in Höhlen oder Bergbehausungen, aber Lichter können in kleinen Öffnungen in Wänden "oben und weg" versteckt werden.
 
-![Torch obscured in wall](images/lighting_aroundcorner.png)
+[Fackel in der Wand versteckt](images/lighting_aroundcorner.png)
 
-#### Behind bushes
+#### Hinter Büschen
 
-Like carpet, bushes let light through but obscure the light source. This works great outside when bushes are placed strategically.
+Wie ein Teppich lassen Büsche das Licht durch, verdecken aber die Lichtquelle. Dies funktioniert hervorragend im Freien, wenn Büsche strategisch platziert werden.
 
-### Redstone lamps
+### Redstone-Lampen
 
-Redstone lamps are commonly considered the most tasteful of light sources, but they are also the most expensive. The recipe for a redstone lamp is as follows: a glowstone block surrounded by four redstone dust. The advantage to redstone lamps is they can be controlled by switches and daylight sensors, allowing them to turn off and on by either user action or the lack of natural light.
+Redstone-Lampen gelten gemeinhin als die geschmackvollsten Lichtquellen, aber sie sind auch die teuersten. Das Rezept für eine Redstone-Lampe lautet wie folgt: ein Glühsteinblock, umgeben von vier Redstone-Stäuben. Der Vorteil von Redstone-Lampen ist, dass sie durch Schalter und Tageslichtsensoren gesteuert werden können, so dass sie sich entweder durch den Benutzer oder durch das Fehlen von natürlichem Licht ein- und ausschalten lassen.
 
-#### Creating an automatic lighting source using redstone lamps and a daylight sensor
+#### Erstellen einer automatischen Lichtquelle mit Redstone-Lampen und einem Tageslichtsensor
 
-For this exercise create a creative superflat world. Once in your world, you will need the following:
+Für diese Übung erstellen Sie eine kreative Superflat-Welt. In Ihrer Welt benötigen Sie Folgendes:
 
-* Redstone lamps
-* Redstone dust
-* Redstone torches
-* Daylight sensors
-* Some building material, like stone bricks.
+* Redstone-Lampen
+* Redstone-Staub
+* Redstone-Fackeln
+* Tageslichtsensoren
+* Baumaterial, z. B. Steinziegel.
 
-We will be creating an inverter or "not gate". Because the daylight sensor emits a redstone signal during the day, but we want our redstone lamp to be powered at night, we need to reverse the signal with just such a configuration. Fortunately they are simple to configure. A block acts as an inverter, reversing any redstone signal to its opposite state.
+Wir werden einen Inverter oder ein "Nicht-Tor" erstellen. Da der Tageslichtsensor tagsüber ein Redstone-Signal aussendet, wir aber wollen, dass unsere Redstone-Lampe nachts mit Strom versorgt wird, müssen wir das Signal mit genau so einer Konfiguration umkehren. Glücklicherweise sind sie einfach zu konfigurieren. Ein Block fungiert als Inverter, der jedes Redstone-Signal in seinen entgegengesetzten Zustand umkehrt.
 
-The layout is: daylight sensor -> redstone dust -> block -> redstone torch -> redstone lamp. Use the screenshots below to guide you.
+Die Anordnung lautet: Tageslichtsensor -> Redstone-Staub -> Block -> Redstone-Fackel -> Redstone-Lampe. Lassen Sie sich von den folgenden Screenshots leiten.
 
-> If you already know how to create an automatic redstone lamp, improve on the examples to better hide the sensors and improve the aesthetics.
+> Wenn Sie bereits wissen, wie man eine automatische Rotsteinlampe erstellt, verbessern Sie die Beispiele, um die Sensoren besser zu verstecken und die Ästhetik zu verbessern.
 
-![Automatic redstone lamp configuration daytime](images/lighting_redstone_lamp_wall_notgate_off.png)
+[[Automatische Rotsteinlampe tagsüber](images/lighting_redstone_lamp_wall_notgate_off.png)
 
-![Automatic redstone lamp configuration nighttime](images/lighting_redstone_lamp_wall_notgate_on.png)
+![Automatische Rotsteinlampen-Konfiguration bei Nacht](images/lighting_redstone_lamp_wall_notgate_on.png)
 
-Here one daylight sensor powers two redstone lamps:
+Hier versorgt ein Tageslichtsensor zwei Redstone-Lampen:
 
-![Automatic redstone lamp configuration two lamps](images/lighting_redstone_wall_above.png)
+![Automatische Rotsteinlampen-Konfiguration zwei Lampen](images/lighting_redstone_wall_above.png)
 
-The final product from the "front": Automatic lights along a decorative wall.
+Das Endprodukt von der "Vorderseite": Automatische Leuchten entlang einer dekorativen Wand.
 
-![Automatic redstone lamp configuration two lamps](images/lighting_redstonelamp_wall.png)
+![Automatische Redstone-Lampenkonfiguration zwei Lampen](images/lighting_redstonelamp_wall.png)
 
-## Adding texture and interest
+## Hinzufügen von Textur und Interesse
 
-One of the keys to a really great looking build is the ability to add texture and variety to your structures.
+Einer der Schlüssel zu einem wirklich gut aussehenden Gebäude ist die Fähigkeit, Textur und Abwechslung in Ihre Strukturen zu bringen.
 
-### Roads and paths
+### Straßen und Wege
 
-Try and mix up the materials used in building roads and paths as much as possible. Here we see a stone path made up of stone bricks, mossy stone bricks, cracked stone bricks, cobblestone and gravel. Stick with one main material, adding as randomly as possible the other materials you have at your disposal.
+Versuchen Sie, die beim Bau von Straßen und Wegen verwendeten Materialien so weit wie möglich zu mischen. Hier sehen wir einen Steinweg, der aus Steinziegeln, moosbewachsenen Steinziegeln, rissigen Steinziegeln, Kopfsteinpflaster und Kies besteht. Bleiben Sie bei einem Hauptmaterial und fügen Sie die anderen Materialien, die Ihnen zur Verfügung stehen, so wahllos wie möglich hinzu.
 
-![Stone Path](images/texture_and_interest/stone_path.png)
+Steinpfad](images/texture_and_interest/stone_path.png)
 
-(There is also a very typical Minecraft street light added for good measure. It just takes some fence posts, a glowstone block and some trap doors.)
+(Es gibt auch eine sehr typische Minecraft-Straßenlaterne, um das Ganze abzurunden. Dazu braucht man nur ein paar Zaunpfähle, einen Glühsteinblock und ein paar Falltüren).
 
-Adding borders to roads and paths also helps them look better. Here we have single block border made up of the same materials, although half slabs work great for this purpose as well. Using stairs to break things up a little bit is a great technique as well; here they're used to go around the street lights, keeping the border from just being a straight line for as far as the eye can see.
+Das Hinzufügen von Rändern zu Straßen und Wegen hilft auch, sie besser aussehen zu lassen. Hier haben wir eine einzelne Blockumrandung aus den gleichen Materialien, obwohl halbe Platten für diesen Zweck auch gut funktionieren. Auch der Einsatz von Treppen zur Auflockerung ist eine großartige Technik; hier werden sie verwendet, um die Straßenlaternen zu umrunden und zu verhindern, dass die Umrandung nur aus einer geraden Linie besteht, so weit das Auge reicht.
 
-![Stone Path With Border](images/texture_and_interest/stone_path_with_border.png)
+Steinpfad mit Umrandung](images/texture_and_interest/stein_pfad_mit_umrandung.png)
 
-Dirt paths can also be rather nice. Here we have one made of dirt, podzol, gravel and wool, with a stone border flush vertically with the path. The glowstone blocks at the end of the path will soon be covered by bushes, giving us a secret lighting source.
+Schmutzige Wege können auch sehr schön sein. Hier haben wir einen aus Erde, Podzol, Kies und Wolle, mit einem Steinrand, der senkrecht mit dem Pfad abschließt. Die Glühsteinblöcke am Ende des Weges werden bald von Büschen verdeckt werden, so dass wir eine geheime Lichtquelle haben.
 
 ![Dirt Path](images/texture_and_interest/dirt_path.png)
 
-## Structures
+## Strukturen
 
-Now, onto structures. One of the often neglected areas of a building is the entrance. Here we make the entrance more interesting with some pillars anchoring a covered path to the front doors of this house. The stairs on either side create separation and define the space while taking up less visual space than a fully square block. With enough imagination they could also be benches lining the path.
+Nun zu den Strukturen. Einer der oft vernachlässigten Bereiche eines Gebäudes ist der Eingang. Hier machen wir den Eingang interessanter mit einigen Säulen, die einen überdachten Weg zu den Eingangstüren dieses Hauses verankern. Die Treppen auf beiden Seiten schaffen eine Abgrenzung und definieren den Raum, während sie optisch weniger Platz einnehmen als ein vollständig quadratischer Block. Mit genügend Fantasie könnten sie auch als Bänke den Weg säumen.
 
-![Home Entrance](images/texture_and_interest/home_entrance.png)
+![Hauseingang](images/texture_and_interest/home_entrance.png)
 
-Here are some examples of how to create more interesting interiors. In this first example, we see the use of stairs as a way to create more interesting corners and the use of item frames behind torches to make them look a little bit more intentional than just a stick in a wall.
+Hier sind einige Beispiele dafür, wie man interessantere Innenräume gestalten kann. In diesem ersten Beispiel sehen wir die Verwendung von Treppen als Möglichkeit, interessantere Ecken zu schaffen, und die Verwendung von Gegenstandsrahmen hinter Fackeln, damit diese etwas gewollter aussehen als nur ein Stock in einer Wand.
 
-![Stairs and Item Frames](images/texture_and_interest/building_1.png)
+Treppe und Gegenstandsrahmen](images/texture_and_interest/building_1.png)
 
-This next example uses the space between the ceiling and the roof to create recessed lighting (again, hiding light sources is a very big deal in the Minecraft builder world).
+Dieses nächste Beispiel nutzt den Raum zwischen der Decke und dem Dach, um eine vertiefte Beleuchtung zu erzeugen (auch hier ist das Verstecken von Lichtquellen eine große Sache in der Minecraft-Builderwelt).
 
-![Recessed Lighting](images/texture_and_interest/recessed_lighting.png)
+Vertiefte Beleuchtung](images/texture_and_interest/recessed_lighting.png)
 
-### Roofs and Material Choice
+### Dächer und Materialauswahl
 
-Roof lines are very important in Minecraft. Here we see two different styles of flat roof and the beginnings of multi-lined staired roof.
+Dachlinien sind in Minecraft sehr wichtig. Hier sehen wir zwei verschiedene Arten von Flachdächern und die Anfänge eines mehrzeiligen Strohdaches.
 
-![Roof Lines](images/texture_and_interest/building_2.png)
+![Dachlinien](images/texture_and_interest/building_2.png)
 
-You'll also notice the variety of materials used in this build: oak wood and planks, spruce, birch, stone bricks and stone slabs. Here is another example of using different block types; this building (one of the schematics we used before) uses wool, spruce and stone bricks:
+Sie werden auch die Vielfalt der verwendeten Materialien bemerken: Eichenholz und Bretter, Fichte, Birke, Steinziegel und Steinplatten. Hier ist ein weiteres Beispiel für die Verwendung verschiedener Blocktypen; dieses Gebäude (eines der zuvor verwendeten Schemata) verwendet Wolle, Fichte und Steinblöcke:
 
-![Different Building Materials](images/texture_and_interest/diff_building_blocks.png)
+![Verschiedene Baumaterialien](images/texture_and_interest/diff_building_blocks.png)
 
-Don't forget to add interesting bits and pieces to the outside of your structure as well. This example uses leaves and vines, stairs and crafting tables, podzol and red mushrooms and redstone torches with item frames to break up what would normally just be a relatively plain outside area:
+Vergiss nicht, auch die Außenseite deines Gebäudes mit interessanten Elementen zu versehen. In diesem Beispiel werden Blätter und Ranken, Treppen und Basteltische, Podzol und rote Pilze sowie rote Steinfackeln mit Gegenstandsrahmen verwendet, um den normalerweise relativ schlichten Außenbereich aufzulockern:
 
 ![Outside Interest](images/texture_and_interest/outside_interest.png)
 
-## Your Turn
+## Du bist dran
 
-We want to finish this section off with a relatively big build. We will provide some examples, but use your own creativity and practice building your dream Minecraft house, or at least something better than your last Minecraft house. (Remember we're going for detail and visual interest here, not simply building size.)
+Wir wollen diesen Abschnitt mit einem relativ großen Bauwerk abschließen. Wir geben dir einige Beispiele, aber lass deiner Kreativität freien Lauf und baue dein Traumhaus, oder zumindest etwas, das besser ist als dein letztes Minecraft-Haus (denk daran, dass es hier um Details und visuelles Interesse geht, nicht einfach um die Größe des Gebäudes).
 
-Here are a couple of screen shots of the final product all the previous examples were leading up to. Again, don't try to copy this build exactly, just use the techniques it demonstrates.
+Hier sind ein paar Screenshots des Endprodukts, auf das alle vorherigen Beispiele hinausliefen. Auch hier gilt: Versucht nicht, dieses Gebäude genau zu kopieren, sondern nutzt einfach die Techniken, die es demonstriert.
 
-![Finished Buliding Front](images/texture_and_interest/finished_building_front.png)
+Fertige Gebäudefront](images/texture_and_interest/finished_building_front.png)
 
-![Finished Buliding Back](images/texture_and_interest/finished_building_back.png)
+![Fertige Rückwand](images/texture_and_interest/finished_building_back.png)
 
